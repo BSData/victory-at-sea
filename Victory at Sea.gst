@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<gameSystem id="d551-9646-dd17-819a" name="Victory at Sea" revision="1" battleScribeVersion="2.03" authorName="Warlord Games" authorContact="info@warlordgames.com" authorUrl="https://store.warlordgames.com/" xmlns="http://www.battlescribe.net/schema/gameSystemSchema">
+<gameSystem id="d551-9646-dd17-819a" name="Victory at Sea" revision="1" battleScribeVersion="2.03" authorName="" authorContact="" authorUrl="" xmlns="http://www.battlescribe.net/schema/gameSystemSchema">
   <costTypes>
     <costType id="ffdf-62d1-dc97-b85c" name="Points" defaultCostLimit="-1.0" hidden="false"/>
   </costTypes>

@@ -21,11 +21,7 @@
         <categoryLink id="50fa-65c0-41a7-3ca8" name="New CategoryLink" hidden="false" targetId="c08d-d9af-1109-9c27" primary="true"/>
       </categoryLinks>
     </entryLink>
-    <entryLink id="d9cc-d649-175e-d704" name="Shiretoko-Class Oil Tanker" hidden="false" collective="false" import="true" targetId="a8c0-93fa-035a-5a1b" type="selectionEntry">
-      <categoryLinks>
-        <categoryLink id="40b5-43af-456b-8b34" name="New CategoryLink" hidden="false" targetId="be79-ea08-0c7b-609c" primary="true"/>
-      </categoryLinks>
-    </entryLink>
+    <entryLink id="d9cc-d649-175e-d704" name="Shiretoko-Class Oil Tanker" hidden="false" collective="false" import="true" targetId="a8c0-93fa-035a-5a1b" type="selectionEntry"/>
     <entryLink id="8ca2-ecce-31da-62ca" name="Shokaku-Class Aircraft Carrier" hidden="false" collective="false" import="true" targetId="8d69-b90a-bdd6-9668" type="selectionEntry">
       <categoryLinks>
         <categoryLink id="1f4f-1d7f-c154-b909" name="New CategoryLink" hidden="false" targetId="da58-44be-bb7f-80d6" primary="true"/>
@@ -44,6 +40,11 @@
     <entryLink id="f394-64bf-bfd3-adff" name="Kagero-Class Destroyer" hidden="false" collective="false" import="true" targetId="9306-a361-b7fe-2de8" type="selectionEntry">
       <categoryLinks>
         <categoryLink id="83e3-8867-c8f1-8c2a" name="New CategoryLink" hidden="false" targetId="b241-6ad8-94a2-cc48" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="001c-df68-3446-be88" name="Yamato-Class Battleship" hidden="false" collective="false" import="true" targetId="ba3d-7811-036a-b026" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="21ef-ca2f-d84b-305b" name="New CategoryLink" hidden="false" targetId="5153-aef8-326b-3c5f" primary="true"/>
       </categoryLinks>
     </entryLink>
   </entryLinks>
@@ -5258,7 +5259,6 @@
     </selectionEntry>
     <selectionEntry id="a8c0-93fa-035a-5a1b" name="Shiretoko-Class Oil Tanker" hidden="false" collective="false" import="true" type="upgrade">
       <categoryLinks>
-        <categoryLink id="9c60-c60f-3686-0f9c" name="Civilian" hidden="false" targetId="be79-ea08-0c7b-609c" primary="false"/>
         <categoryLink id="0df0-6c40-42de-7af6" name="The Imperial Japanese Navy" hidden="false" targetId="089b-2e87-1786-8bfd" primary="false"/>
       </categoryLinks>
       <selectionEntries>
@@ -5854,25 +5854,6 @@
                     <characteristic name="Damage Dice" typeId="7241-6bab-e1b3-41a5">1 (-2AP)</characteristic>
                     <characteristic name="Traits" typeId="480e-9141-ccd3-fb18">-</characteristic>
                     <characteristic name="Points" typeId="4987-2d92-bb96-5dd5">15</characteristic>
-                  </characteristics>
-                </profile>
-              </profiles>
-              <costs>
-                <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
-              </costs>
-            </selectionEntry>
-            <selectionEntry id="20e4-8dc1-c3c4-60a7" name="Mitsubishi A6M5 Zero 1944 Kamikaze" hidden="false" collective="false" import="true" type="upgrade">
-              <profiles>
-                <profile id="69b9-693f-ea0f-0e7f" name="Mitsubishi A6M5 Zero Kamikaze" hidden="false" typeId="94d1-ba1c-98de-f273" typeName="Aircraft">
-                  <characteristics>
-                    <characteristic name="Flight" typeId="9d24-de86-2e13-2aa2">Mitsubishi A6M5 Zero Kamikaze</characteristic>
-                    <characteristic name="Carrier Capable" typeId="82c4-41a8-080d-5ee3">Yes</characteristic>
-                    <characteristic name="Role" typeId="81db-f323-b61e-5f1f">Kamikaze</characteristic>
-                    <characteristic name="Flank Speed" typeId="e29b-b9eb-d470-d6f8">25&quot;</characteristic>
-                    <characteristic name="Dogfight" typeId="bbad-b699-5476-bdfc">+0</characteristic>
-                    <characteristic name="Damage Dice" typeId="7241-6bab-e1b3-41a5">2</characteristic>
-                    <characteristic name="Traits" typeId="480e-9141-ccd3-fb18">-</characteristic>
-                    <characteristic name="Points" typeId="4987-2d92-bb96-5dd5">20</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -11411,6 +11392,1031 @@
       </selectionEntries>
       <costs>
         <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="100.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="ba3d-7811-036a-b026" name="Yamato-Class Battleship" hidden="false" collective="false" import="true" type="unit">
+      <categoryLinks>
+        <categoryLink id="038b-b22a-e634-7cbe" name="Battleship" hidden="false" targetId="5153-aef8-326b-3c5f" primary="false"/>
+        <categoryLink id="0aa8-b7a7-19d1-770f" name="The Imperial Japanese Navy" hidden="false" targetId="089b-2e87-1786-8bfd" primary="false"/>
+      </categoryLinks>
+      <selectionEntries>
+        <selectionEntry id="e05c-96f6-84d5-a12d" name="Yamato" hidden="false" collective="false" import="true" type="upgrade">
+          <selectionEntries>
+            <selectionEntry id="c3b4-1f06-cc40-0e37" name="Yamato" hidden="false" collective="false" import="true" type="model">
+              <profiles>
+                <profile id="7588-7f02-78f5-acce" name="Yamato" hidden="false" typeId="c2ff-d17b-11ef-a25b" typeName="Ship">
+                  <characteristics>
+                    <characteristic name="Type" typeId="80fc-5c61-9cdb-16be">Battleship</characteristic>
+                    <characteristic name="Flank Speed" typeId="10ed-e7a2-0a80-9a23">5&quot;</characteristic>
+                    <characteristic name="Armor" typeId="eeaf-1df1-c012-6447">7+</characteristic>
+                    <characteristic name="Hull" typeId="7c0b-ef03-ef3e-abeb">146</characteristic>
+                    <characteristic name="Crippled" typeId="99c0-c6ff-cdd5-7254">48</characteristic>
+                    <characteristic name="Traits" typeId="70e0-26ef-8a74-fcb0">Aircraft 7, Armored Deck, Torpedo Belt 3</characteristic>
+                    <characteristic name="Points" typeId="285a-5546-b819-e547">1000</characteristic>
+                  </characteristics>
+                </profile>
+                <profile id="cf64-29e8-dc99-fe96" name="Turret B (3 x 18.1-inch)" hidden="false" typeId="796f-a6ed-afe9-d390" typeName="Weapons">
+                  <characteristics>
+                    <characteristic name="Weapon System" typeId="e6d0-5b4e-63ac-5df4">Turret B (3 x 18.1-inch)</characteristic>
+                    <characteristic name="Fire Arcs" typeId="55f7-a208-f3bc-9aa3">Forward, Port, Starboard</characteristic>
+                    <characteristic name="Point Blank" typeId="582e-83ce-ab46-499f">11&quot;</characteristic>
+                    <characteristic name="Short" typeId="b870-c868-b685-0d61">23&quot;</characteristic>
+                    <characteristic name="Long" typeId="dc83-46b7-b2fc-c169">34&quot;</characteristic>
+                    <characteristic name="Extreme" typeId="a6e3-b21c-3c17-e6de">46&quot;</characteristic>
+                    <characteristic name="AD" typeId="c713-7f6f-938e-99f1">3</characteristic>
+                    <characteristic name="AP" typeId="7b9e-773a-52e5-d831">+2</characteristic>
+                    <characteristic name="DD" typeId="b7bc-1ffa-a61a-e2cf">4</characteristic>
+                    <characteristic name="Traits" typeId="3726-85d2-d1bf-74e0">Heavy</characteristic>
+                  </characteristics>
+                </profile>
+                <profile id="f5c4-5d7a-ecbd-ac05" name="Turret A (3 x 18.1-inch)" hidden="false" typeId="796f-a6ed-afe9-d390" typeName="Weapons">
+                  <characteristics>
+                    <characteristic name="Weapon System" typeId="e6d0-5b4e-63ac-5df4">Turret A (3 x 18.1-inch)</characteristic>
+                    <characteristic name="Fire Arcs" typeId="55f7-a208-f3bc-9aa3">Forward, Port, Starboard</characteristic>
+                    <characteristic name="Point Blank" typeId="582e-83ce-ab46-499f">11&quot;</characteristic>
+                    <characteristic name="Short" typeId="b870-c868-b685-0d61">23&quot;</characteristic>
+                    <characteristic name="Long" typeId="dc83-46b7-b2fc-c169">34&quot;</characteristic>
+                    <characteristic name="Extreme" typeId="a6e3-b21c-3c17-e6de">46&quot;</characteristic>
+                    <characteristic name="AD" typeId="c713-7f6f-938e-99f1">3</characteristic>
+                    <characteristic name="AP" typeId="7b9e-773a-52e5-d831">+2</characteristic>
+                    <characteristic name="DD" typeId="b7bc-1ffa-a61a-e2cf">4</characteristic>
+                    <characteristic name="Traits" typeId="3726-85d2-d1bf-74e0">Heavy</characteristic>
+                  </characteristics>
+                </profile>
+                <profile id="d4b3-3f85-1e71-4281" name="Turret Y (3 x 18.1-inch)" hidden="false" typeId="796f-a6ed-afe9-d390" typeName="Weapons">
+                  <characteristics>
+                    <characteristic name="Weapon System" typeId="e6d0-5b4e-63ac-5df4">Turret Y (3 x 18.1-inch)</characteristic>
+                    <characteristic name="Fire Arcs" typeId="55f7-a208-f3bc-9aa3">Port, Starboard, Aft</characteristic>
+                    <characteristic name="Point Blank" typeId="582e-83ce-ab46-499f">11&quot;</characteristic>
+                    <characteristic name="Short" typeId="b870-c868-b685-0d61">23&quot;</characteristic>
+                    <characteristic name="Long" typeId="dc83-46b7-b2fc-c169">34&quot;</characteristic>
+                    <characteristic name="Extreme" typeId="a6e3-b21c-3c17-e6de">46&quot;</characteristic>
+                    <characteristic name="AD" typeId="c713-7f6f-938e-99f1">3</characteristic>
+                    <characteristic name="AP" typeId="7b9e-773a-52e5-d831">+2</characteristic>
+                    <characteristic name="DD" typeId="b7bc-1ffa-a61a-e2cf">4</characteristic>
+                    <characteristic name="Traits" typeId="3726-85d2-d1bf-74e0">Heavy</characteristic>
+                  </characteristics>
+                </profile>
+                <profile id="ce73-adc6-fb1e-6b69" name="Turret AA (3 x 6.1-inch)" hidden="false" typeId="796f-a6ed-afe9-d390" typeName="Weapons">
+                  <characteristics>
+                    <characteristic name="Weapon System" typeId="e6d0-5b4e-63ac-5df4">Turret AA (3 x 6.1-inch)</characteristic>
+                    <characteristic name="Fire Arcs" typeId="55f7-a208-f3bc-9aa3">Forward, Port, Starboard</characteristic>
+                    <characteristic name="Point Blank" typeId="582e-83ce-ab46-499f">7&quot;</characteristic>
+                    <characteristic name="Short" typeId="b870-c868-b685-0d61">15&quot;</characteristic>
+                    <characteristic name="Long" typeId="dc83-46b7-b2fc-c169">22&quot;</characteristic>
+                    <characteristic name="Extreme" typeId="a6e3-b21c-3c17-e6de">30&quot;</characteristic>
+                    <characteristic name="AD" typeId="c713-7f6f-938e-99f1">2</characteristic>
+                    <characteristic name="AP" typeId="7b9e-773a-52e5-d831">-1</characteristic>
+                    <characteristic name="DD" typeId="b7bc-1ffa-a61a-e2cf">1</characteristic>
+                    <characteristic name="Traits" typeId="3726-85d2-d1bf-74e0"/>
+                  </characteristics>
+                </profile>
+                <profile id="b8a6-73a4-60ba-2eae" name="Turret P (3 x 6.1-inch)" hidden="false" typeId="796f-a6ed-afe9-d390" typeName="Weapons">
+                  <characteristics>
+                    <characteristic name="Weapon System" typeId="e6d0-5b4e-63ac-5df4">Turret P (3 x 6.1-inch)</characteristic>
+                    <characteristic name="Fire Arcs" typeId="55f7-a208-f3bc-9aa3">Port</characteristic>
+                    <characteristic name="Point Blank" typeId="582e-83ce-ab46-499f">7&quot;</characteristic>
+                    <characteristic name="Short" typeId="b870-c868-b685-0d61">15&quot;</characteristic>
+                    <characteristic name="Long" typeId="dc83-46b7-b2fc-c169">22&quot;</characteristic>
+                    <characteristic name="Extreme" typeId="a6e3-b21c-3c17-e6de">30&quot;</characteristic>
+                    <characteristic name="AD" typeId="c713-7f6f-938e-99f1">2</characteristic>
+                    <characteristic name="AP" typeId="7b9e-773a-52e5-d831">-1</characteristic>
+                    <characteristic name="DD" typeId="b7bc-1ffa-a61a-e2cf">1</characteristic>
+                    <characteristic name="Traits" typeId="3726-85d2-d1bf-74e0"/>
+                  </characteristics>
+                </profile>
+                <profile id="89dd-7848-dff6-4650" name="Turret S (3 x 6.1-inch)" hidden="false" typeId="796f-a6ed-afe9-d390" typeName="Weapons">
+                  <characteristics>
+                    <characteristic name="Weapon System" typeId="e6d0-5b4e-63ac-5df4">Turret S (3 x 6.1-inch)</characteristic>
+                    <characteristic name="Fire Arcs" typeId="55f7-a208-f3bc-9aa3">Starboard</characteristic>
+                    <characteristic name="Point Blank" typeId="582e-83ce-ab46-499f">7&quot;</characteristic>
+                    <characteristic name="Short" typeId="b870-c868-b685-0d61">15&quot;</characteristic>
+                    <characteristic name="Long" typeId="dc83-46b7-b2fc-c169">22&quot;</characteristic>
+                    <characteristic name="Extreme" typeId="a6e3-b21c-3c17-e6de">30&quot;</characteristic>
+                    <characteristic name="AD" typeId="c713-7f6f-938e-99f1">2</characteristic>
+                    <characteristic name="AP" typeId="7b9e-773a-52e5-d831">-1</characteristic>
+                    <characteristic name="DD" typeId="b7bc-1ffa-a61a-e2cf">1</characteristic>
+                    <characteristic name="Traits" typeId="3726-85d2-d1bf-74e0"/>
+                  </characteristics>
+                </profile>
+                <profile id="99da-27e9-719a-e6ad" name="Turret YY (3 x 6.1-inch)" hidden="false" typeId="796f-a6ed-afe9-d390" typeName="Weapons">
+                  <characteristics>
+                    <characteristic name="Weapon System" typeId="e6d0-5b4e-63ac-5df4">Turret YY (3 x 6.1-inch)</characteristic>
+                    <characteristic name="Fire Arcs" typeId="55f7-a208-f3bc-9aa3">Port, Starboard, Aft</characteristic>
+                    <characteristic name="Point Blank" typeId="582e-83ce-ab46-499f">7&quot;</characteristic>
+                    <characteristic name="Short" typeId="b870-c868-b685-0d61">15&quot;</characteristic>
+                    <characteristic name="Long" typeId="dc83-46b7-b2fc-c169">22&quot;</characteristic>
+                    <characteristic name="Extreme" typeId="a6e3-b21c-3c17-e6de">30&quot;</characteristic>
+                    <characteristic name="AD" typeId="c713-7f6f-938e-99f1">2</characteristic>
+                    <characteristic name="AP" typeId="7b9e-773a-52e5-d831">-1</characteristic>
+                    <characteristic name="DD" typeId="b7bc-1ffa-a61a-e2cf">1</characteristic>
+                    <characteristic name="Traits" typeId="3726-85d2-d1bf-74e0"/>
+                  </characteristics>
+                </profile>
+                <profile id="b92f-5245-90a6-5e22" name="Lights Guns (12 x 5-inch)" hidden="false" typeId="796f-a6ed-afe9-d390" typeName="Weapons">
+                  <characteristics>
+                    <characteristic name="Weapon System" typeId="e6d0-5b4e-63ac-5df4">Lights Guns (12 x 5-inch)</characteristic>
+                    <characteristic name="Fire Arcs" typeId="55f7-a208-f3bc-9aa3">Forward, Port, Starboard, Aft</characteristic>
+                    <characteristic name="Point Blank" typeId="582e-83ce-ab46-499f">4&quot;</characteristic>
+                    <characteristic name="Short" typeId="b870-c868-b685-0d61">8&quot;</characteristic>
+                    <characteristic name="Long" typeId="dc83-46b7-b2fc-c169">12&quot;</characteristic>
+                    <characteristic name="Extreme" typeId="a6e3-b21c-3c17-e6de">16&quot;</characteristic>
+                    <characteristic name="AD" typeId="c713-7f6f-938e-99f1">8</characteristic>
+                    <characteristic name="AP" typeId="7b9e-773a-52e5-d831">-2</characteristic>
+                    <characteristic name="DD" typeId="b7bc-1ffa-a61a-e2cf">1</characteristic>
+                    <characteristic name="Traits" typeId="3726-85d2-d1bf-74e0">DP, Restricted, Weak</characteristic>
+                  </characteristics>
+                </profile>
+                <profile id="896b-1c50-c3f9-894a" name="AA Battery" hidden="false" typeId="796f-a6ed-afe9-d390" typeName="Weapons">
+                  <characteristics>
+                    <characteristic name="Weapon System" typeId="e6d0-5b4e-63ac-5df4">AA Battery</characteristic>
+                    <characteristic name="Fire Arcs" typeId="55f7-a208-f3bc-9aa3">Forward, Port, Starboard, Aft</characteristic>
+                    <characteristic name="Point Blank" typeId="582e-83ce-ab46-499f">-</characteristic>
+                    <characteristic name="Short" typeId="b870-c868-b685-0d61">-</characteristic>
+                    <characteristic name="Long" typeId="dc83-46b7-b2fc-c169">-</characteristic>
+                    <characteristic name="Extreme" typeId="a6e3-b21c-3c17-e6de">-</characteristic>
+                    <characteristic name="AD" typeId="c713-7f6f-938e-99f1">-</characteristic>
+                    <characteristic name="AP" typeId="7b9e-773a-52e5-d831">-</characteristic>
+                    <characteristic name="DD" typeId="b7bc-1ffa-a61a-e2cf">-</characteristic>
+                    <characteristic name="Traits" typeId="3726-85d2-d1bf-74e0">Local 1</characteristic>
+                  </characteristics>
+                </profile>
+              </profiles>
+              <infoLinks>
+                <infoLink id="7d7f-d764-5ea9-7229" name="Torpedo Belt X" hidden="false" targetId="06e2-04c0-a61e-6782" type="rule"/>
+                <infoLink id="34bd-6e60-9991-2c7a" name="Heavy" hidden="false" targetId="fb9e-cde9-1f40-2798" type="rule"/>
+                <infoLink id="d230-a8c4-7592-0565" name="Aircraft X" hidden="false" targetId="1ef9-ea71-f5a9-9a89" type="rule"/>
+                <infoLink id="b0f0-cb22-5e52-527f" name="DP" hidden="false" targetId="1702-ac00-36c9-6c99" type="rule"/>
+                <infoLink id="3817-b178-afee-2a92" name="Armoured Deck" hidden="false" targetId="1848-51d0-a543-c9cf" type="rule"/>
+                <infoLink id="2002-8e56-be0c-eae5" name="Local X" hidden="false" targetId="f1a5-d97a-af9f-2d28" type="rule"/>
+                <infoLink id="4750-c7c8-d176-57d3" name="Weak" hidden="false" targetId="5b07-b3b1-f13e-fa4c" type="rule"/>
+                <infoLink id="1a46-df76-bbbe-86ef" name="Restricted" hidden="false" targetId="5a5b-a94f-847f-8c0f" type="rule"/>
+              </infoLinks>
+              <costs>
+                <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+              </costs>
+            </selectionEntry>
+            <selectionEntry id="9e87-1b90-56b3-cb93" name="Yamato Refit 1944" hidden="false" collective="false" import="true" type="model">
+              <profiles>
+                <profile id="d1b1-8bec-f4ab-4b11" name="Yamato" hidden="false" typeId="c2ff-d17b-11ef-a25b" typeName="Ship">
+                  <characteristics>
+                    <characteristic name="Type" typeId="80fc-5c61-9cdb-16be">Battleship</characteristic>
+                    <characteristic name="Flank Speed" typeId="10ed-e7a2-0a80-9a23">5&quot;</characteristic>
+                    <characteristic name="Armor" typeId="eeaf-1df1-c012-6447">7+</characteristic>
+                    <characteristic name="Hull" typeId="7c0b-ef03-ef3e-abeb">146</characteristic>
+                    <characteristic name="Crippled" typeId="99c0-c6ff-cdd5-7254">48</characteristic>
+                    <characteristic name="Traits" typeId="70e0-26ef-8a74-fcb0">Aircraft 7, Armored Deck, Radar, Sub-Hunter, Torpedo Belt 3</characteristic>
+                    <characteristic name="Points" typeId="285a-5546-b819-e547">1160</characteristic>
+                  </characteristics>
+                </profile>
+                <profile id="282c-8e21-6fbf-00fd" name="Turret B (3 x 18.1-inch)" hidden="false" typeId="796f-a6ed-afe9-d390" typeName="Weapons">
+                  <characteristics>
+                    <characteristic name="Weapon System" typeId="e6d0-5b4e-63ac-5df4">Turret B (3 x 18.1-inch)</characteristic>
+                    <characteristic name="Fire Arcs" typeId="55f7-a208-f3bc-9aa3">Forward, Port, Starboard</characteristic>
+                    <characteristic name="Point Blank" typeId="582e-83ce-ab46-499f">11&quot;</characteristic>
+                    <characteristic name="Short" typeId="b870-c868-b685-0d61">23&quot;</characteristic>
+                    <characteristic name="Long" typeId="dc83-46b7-b2fc-c169">34&quot;</characteristic>
+                    <characteristic name="Extreme" typeId="a6e3-b21c-3c17-e6de">46&quot;</characteristic>
+                    <characteristic name="AD" typeId="c713-7f6f-938e-99f1">3</characteristic>
+                    <characteristic name="AP" typeId="7b9e-773a-52e5-d831">+2</characteristic>
+                    <characteristic name="DD" typeId="b7bc-1ffa-a61a-e2cf">4</characteristic>
+                    <characteristic name="Traits" typeId="3726-85d2-d1bf-74e0">Heavy</characteristic>
+                  </characteristics>
+                </profile>
+                <profile id="8b0e-4e1e-c94d-0bc6" name="Turret A (3 x 18.1-inch)" hidden="false" typeId="796f-a6ed-afe9-d390" typeName="Weapons">
+                  <characteristics>
+                    <characteristic name="Weapon System" typeId="e6d0-5b4e-63ac-5df4">Turret A (3 x 18.1-inch)</characteristic>
+                    <characteristic name="Fire Arcs" typeId="55f7-a208-f3bc-9aa3">Forward, Port, Starboard</characteristic>
+                    <characteristic name="Point Blank" typeId="582e-83ce-ab46-499f">11&quot;</characteristic>
+                    <characteristic name="Short" typeId="b870-c868-b685-0d61">23&quot;</characteristic>
+                    <characteristic name="Long" typeId="dc83-46b7-b2fc-c169">34&quot;</characteristic>
+                    <characteristic name="Extreme" typeId="a6e3-b21c-3c17-e6de">46&quot;</characteristic>
+                    <characteristic name="AD" typeId="c713-7f6f-938e-99f1">3</characteristic>
+                    <characteristic name="AP" typeId="7b9e-773a-52e5-d831">+2</characteristic>
+                    <characteristic name="DD" typeId="b7bc-1ffa-a61a-e2cf">4</characteristic>
+                    <characteristic name="Traits" typeId="3726-85d2-d1bf-74e0">Heavy</characteristic>
+                  </characteristics>
+                </profile>
+                <profile id="a2a4-0952-7857-82bf" name="Turret Y (3 x 18.1-inch)" hidden="false" typeId="796f-a6ed-afe9-d390" typeName="Weapons">
+                  <characteristics>
+                    <characteristic name="Weapon System" typeId="e6d0-5b4e-63ac-5df4">Turret Y (3 x 18.1-inch)</characteristic>
+                    <characteristic name="Fire Arcs" typeId="55f7-a208-f3bc-9aa3">Port, Starboard, Aft</characteristic>
+                    <characteristic name="Point Blank" typeId="582e-83ce-ab46-499f">11&quot;</characteristic>
+                    <characteristic name="Short" typeId="b870-c868-b685-0d61">23&quot;</characteristic>
+                    <characteristic name="Long" typeId="dc83-46b7-b2fc-c169">34&quot;</characteristic>
+                    <characteristic name="Extreme" typeId="a6e3-b21c-3c17-e6de">46&quot;</characteristic>
+                    <characteristic name="AD" typeId="c713-7f6f-938e-99f1">3</characteristic>
+                    <characteristic name="AP" typeId="7b9e-773a-52e5-d831">+2</characteristic>
+                    <characteristic name="DD" typeId="b7bc-1ffa-a61a-e2cf">4</characteristic>
+                    <characteristic name="Traits" typeId="3726-85d2-d1bf-74e0">Heavy</characteristic>
+                  </characteristics>
+                </profile>
+                <profile id="6c12-65a0-3b63-67fa" name="Turret AA (3 x 6.1-inch)" hidden="false" typeId="796f-a6ed-afe9-d390" typeName="Weapons">
+                  <characteristics>
+                    <characteristic name="Weapon System" typeId="e6d0-5b4e-63ac-5df4">Turret AA (3 x 6.1-inch)</characteristic>
+                    <characteristic name="Fire Arcs" typeId="55f7-a208-f3bc-9aa3">Forward, Port, Starboard</characteristic>
+                    <characteristic name="Point Blank" typeId="582e-83ce-ab46-499f">7&quot;</characteristic>
+                    <characteristic name="Short" typeId="b870-c868-b685-0d61">15&quot;</characteristic>
+                    <characteristic name="Long" typeId="dc83-46b7-b2fc-c169">22&quot;</characteristic>
+                    <characteristic name="Extreme" typeId="a6e3-b21c-3c17-e6de">30&quot;</characteristic>
+                    <characteristic name="AD" typeId="c713-7f6f-938e-99f1">2</characteristic>
+                    <characteristic name="AP" typeId="7b9e-773a-52e5-d831">-1</characteristic>
+                    <characteristic name="DD" typeId="b7bc-1ffa-a61a-e2cf">1</characteristic>
+                    <characteristic name="Traits" typeId="3726-85d2-d1bf-74e0"/>
+                  </characteristics>
+                </profile>
+                <profile id="6205-0169-f83f-f43c" name="Turret YY (3 x 6.1-inch)" hidden="false" typeId="796f-a6ed-afe9-d390" typeName="Weapons">
+                  <characteristics>
+                    <characteristic name="Weapon System" typeId="e6d0-5b4e-63ac-5df4">Turret YY (3 x 6.1-inch)</characteristic>
+                    <characteristic name="Fire Arcs" typeId="55f7-a208-f3bc-9aa3">Port, Starboard, Aft</characteristic>
+                    <characteristic name="Point Blank" typeId="582e-83ce-ab46-499f">7&quot;</characteristic>
+                    <characteristic name="Short" typeId="b870-c868-b685-0d61">15&quot;</characteristic>
+                    <characteristic name="Long" typeId="dc83-46b7-b2fc-c169">22&quot;</characteristic>
+                    <characteristic name="Extreme" typeId="a6e3-b21c-3c17-e6de">30&quot;</characteristic>
+                    <characteristic name="AD" typeId="c713-7f6f-938e-99f1">2</characteristic>
+                    <characteristic name="AP" typeId="7b9e-773a-52e5-d831">-1</characteristic>
+                    <characteristic name="DD" typeId="b7bc-1ffa-a61a-e2cf">1</characteristic>
+                    <characteristic name="Traits" typeId="3726-85d2-d1bf-74e0"/>
+                  </characteristics>
+                </profile>
+                <profile id="e50d-623b-9576-15ed" name="Lights Guns (24 x 5-inch)" hidden="false" typeId="796f-a6ed-afe9-d390" typeName="Weapons">
+                  <characteristics>
+                    <characteristic name="Weapon System" typeId="e6d0-5b4e-63ac-5df4">Lights Guns (24x 5-inch)</characteristic>
+                    <characteristic name="Fire Arcs" typeId="55f7-a208-f3bc-9aa3">Forward, Port, Starboard, Aft</characteristic>
+                    <characteristic name="Point Blank" typeId="582e-83ce-ab46-499f">4&quot;</characteristic>
+                    <characteristic name="Short" typeId="b870-c868-b685-0d61">8&quot;</characteristic>
+                    <characteristic name="Long" typeId="dc83-46b7-b2fc-c169">12&quot;</characteristic>
+                    <characteristic name="Extreme" typeId="a6e3-b21c-3c17-e6de">16&quot;</characteristic>
+                    <characteristic name="AD" typeId="c713-7f6f-938e-99f1">14</characteristic>
+                    <characteristic name="AP" typeId="7b9e-773a-52e5-d831">-2</characteristic>
+                    <characteristic name="DD" typeId="b7bc-1ffa-a61a-e2cf">1</characteristic>
+                    <characteristic name="Traits" typeId="3726-85d2-d1bf-74e0">DP, Restricted, Weak</characteristic>
+                  </characteristics>
+                </profile>
+                <profile id="f54d-40fa-f8c2-57b6" name="AA Battery" hidden="false" typeId="796f-a6ed-afe9-d390" typeName="Weapons">
+                  <characteristics>
+                    <characteristic name="Weapon System" typeId="e6d0-5b4e-63ac-5df4">AA Battery</characteristic>
+                    <characteristic name="Fire Arcs" typeId="55f7-a208-f3bc-9aa3">Forward, Port, Starboard, Aft</characteristic>
+                    <characteristic name="Point Blank" typeId="582e-83ce-ab46-499f">-</characteristic>
+                    <characteristic name="Short" typeId="b870-c868-b685-0d61">-</characteristic>
+                    <characteristic name="Long" typeId="dc83-46b7-b2fc-c169">-</characteristic>
+                    <characteristic name="Extreme" typeId="a6e3-b21c-3c17-e6de">-</characteristic>
+                    <characteristic name="AD" typeId="c713-7f6f-938e-99f1">-</characteristic>
+                    <characteristic name="AP" typeId="7b9e-773a-52e5-d831">-</characteristic>
+                    <characteristic name="DD" typeId="b7bc-1ffa-a61a-e2cf">-</characteristic>
+                    <characteristic name="Traits" typeId="3726-85d2-d1bf-74e0">Local 8</characteristic>
+                  </characteristics>
+                </profile>
+              </profiles>
+              <infoLinks>
+                <infoLink id="9030-d0b9-588e-c94f" name="Torpedo Belt X" hidden="false" targetId="06e2-04c0-a61e-6782" type="rule"/>
+                <infoLink id="5269-d5a0-4fce-0431" name="Heavy" hidden="false" targetId="fb9e-cde9-1f40-2798" type="rule"/>
+                <infoLink id="fed5-96be-dc6a-b424" name="Aircraft X" hidden="false" targetId="1ef9-ea71-f5a9-9a89" type="rule"/>
+                <infoLink id="9b36-d51e-e823-c463" name="DP" hidden="false" targetId="1702-ac00-36c9-6c99" type="rule"/>
+                <infoLink id="58a8-94a0-7b8f-3989" name="Armoured Deck" hidden="false" targetId="1848-51d0-a543-c9cf" type="rule"/>
+                <infoLink id="8173-547f-5a7e-33a0" name="Local X" hidden="false" targetId="f1a5-d97a-af9f-2d28" type="rule"/>
+                <infoLink id="3de9-61e8-2214-637e" name="Weak" hidden="false" targetId="5b07-b3b1-f13e-fa4c" type="rule"/>
+                <infoLink id="6427-62c2-695d-114f" name="Restricted" hidden="false" targetId="5a5b-a94f-847f-8c0f" type="rule"/>
+                <infoLink id="0c23-dc02-1f78-d3a4" name="Sub-Hunter" hidden="false" targetId="919e-7b59-d60a-ad1e" type="rule"/>
+                <infoLink id="5813-a2f7-b68b-9c93" name="Radar" hidden="false" targetId="a540-d4b9-4520-5ea1" type="rule"/>
+              </infoLinks>
+              <costs>
+                <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="160.0"/>
+              </costs>
+            </selectionEntry>
+            <selectionEntry id="a946-e4c4-4495-6504" name="Yamato Refit 1945" hidden="false" collective="false" import="true" type="model">
+              <profiles>
+                <profile id="861e-368a-2417-3697" name="Yamato" hidden="false" typeId="c2ff-d17b-11ef-a25b" typeName="Ship">
+                  <characteristics>
+                    <characteristic name="Type" typeId="80fc-5c61-9cdb-16be">Battleship</characteristic>
+                    <characteristic name="Flank Speed" typeId="10ed-e7a2-0a80-9a23">5&quot;</characteristic>
+                    <characteristic name="Armor" typeId="eeaf-1df1-c012-6447">7+</characteristic>
+                    <characteristic name="Hull" typeId="7c0b-ef03-ef3e-abeb">146</characteristic>
+                    <characteristic name="Crippled" typeId="99c0-c6ff-cdd5-7254">48</characteristic>
+                    <characteristic name="Traits" typeId="70e0-26ef-8a74-fcb0">Aircraft 7, Armored Deck, Radar, Sub-Hunter, Torpedo Belt 3</characteristic>
+                    <characteristic name="Points" typeId="285a-5546-b819-e547">1165</characteristic>
+                  </characteristics>
+                </profile>
+                <profile id="88df-5986-7ff0-2329" name="Turret B (3 x 18.1-inch)" hidden="false" typeId="796f-a6ed-afe9-d390" typeName="Weapons">
+                  <characteristics>
+                    <characteristic name="Weapon System" typeId="e6d0-5b4e-63ac-5df4">Turret B (3 x 18.1-inch)</characteristic>
+                    <characteristic name="Fire Arcs" typeId="55f7-a208-f3bc-9aa3">Forward, Port, Starboard</characteristic>
+                    <characteristic name="Point Blank" typeId="582e-83ce-ab46-499f">11&quot;</characteristic>
+                    <characteristic name="Short" typeId="b870-c868-b685-0d61">23&quot;</characteristic>
+                    <characteristic name="Long" typeId="dc83-46b7-b2fc-c169">34&quot;</characteristic>
+                    <characteristic name="Extreme" typeId="a6e3-b21c-3c17-e6de">46&quot;</characteristic>
+                    <characteristic name="AD" typeId="c713-7f6f-938e-99f1">3</characteristic>
+                    <characteristic name="AP" typeId="7b9e-773a-52e5-d831">+2</characteristic>
+                    <characteristic name="DD" typeId="b7bc-1ffa-a61a-e2cf">4</characteristic>
+                    <characteristic name="Traits" typeId="3726-85d2-d1bf-74e0">Heavy</characteristic>
+                  </characteristics>
+                </profile>
+                <profile id="49b6-e1a7-eec9-603d" name="Turret A (3 x 18.1-inch)" hidden="false" typeId="796f-a6ed-afe9-d390" typeName="Weapons">
+                  <characteristics>
+                    <characteristic name="Weapon System" typeId="e6d0-5b4e-63ac-5df4">Turret A (3 x 18.1-inch)</characteristic>
+                    <characteristic name="Fire Arcs" typeId="55f7-a208-f3bc-9aa3">Forward, Port, Starboard</characteristic>
+                    <characteristic name="Point Blank" typeId="582e-83ce-ab46-499f">11&quot;</characteristic>
+                    <characteristic name="Short" typeId="b870-c868-b685-0d61">23&quot;</characteristic>
+                    <characteristic name="Long" typeId="dc83-46b7-b2fc-c169">34&quot;</characteristic>
+                    <characteristic name="Extreme" typeId="a6e3-b21c-3c17-e6de">46&quot;</characteristic>
+                    <characteristic name="AD" typeId="c713-7f6f-938e-99f1">3</characteristic>
+                    <characteristic name="AP" typeId="7b9e-773a-52e5-d831">+2</characteristic>
+                    <characteristic name="DD" typeId="b7bc-1ffa-a61a-e2cf">4</characteristic>
+                    <characteristic name="Traits" typeId="3726-85d2-d1bf-74e0">Heavy</characteristic>
+                  </characteristics>
+                </profile>
+                <profile id="0f44-d904-003b-a903" name="Turret Y (3 x 18.1-inch)" hidden="false" typeId="796f-a6ed-afe9-d390" typeName="Weapons">
+                  <characteristics>
+                    <characteristic name="Weapon System" typeId="e6d0-5b4e-63ac-5df4">Turret Y (3 x 18.1-inch)</characteristic>
+                    <characteristic name="Fire Arcs" typeId="55f7-a208-f3bc-9aa3">Port, Starboard, Aft</characteristic>
+                    <characteristic name="Point Blank" typeId="582e-83ce-ab46-499f">11&quot;</characteristic>
+                    <characteristic name="Short" typeId="b870-c868-b685-0d61">23&quot;</characteristic>
+                    <characteristic name="Long" typeId="dc83-46b7-b2fc-c169">34&quot;</characteristic>
+                    <characteristic name="Extreme" typeId="a6e3-b21c-3c17-e6de">46&quot;</characteristic>
+                    <characteristic name="AD" typeId="c713-7f6f-938e-99f1">3</characteristic>
+                    <characteristic name="AP" typeId="7b9e-773a-52e5-d831">+2</characteristic>
+                    <characteristic name="DD" typeId="b7bc-1ffa-a61a-e2cf">4</characteristic>
+                    <characteristic name="Traits" typeId="3726-85d2-d1bf-74e0">Heavy</characteristic>
+                  </characteristics>
+                </profile>
+                <profile id="8fba-fce7-a48e-5e6f" name="Turret AA (3 x 6.1-inch)" hidden="false" typeId="796f-a6ed-afe9-d390" typeName="Weapons">
+                  <characteristics>
+                    <characteristic name="Weapon System" typeId="e6d0-5b4e-63ac-5df4">Turret AA (3 x 6.1-inch)</characteristic>
+                    <characteristic name="Fire Arcs" typeId="55f7-a208-f3bc-9aa3">Forward, Port, Starboard</characteristic>
+                    <characteristic name="Point Blank" typeId="582e-83ce-ab46-499f">7&quot;</characteristic>
+                    <characteristic name="Short" typeId="b870-c868-b685-0d61">15&quot;</characteristic>
+                    <characteristic name="Long" typeId="dc83-46b7-b2fc-c169">22&quot;</characteristic>
+                    <characteristic name="Extreme" typeId="a6e3-b21c-3c17-e6de">30&quot;</characteristic>
+                    <characteristic name="AD" typeId="c713-7f6f-938e-99f1">2</characteristic>
+                    <characteristic name="AP" typeId="7b9e-773a-52e5-d831">-1</characteristic>
+                    <characteristic name="DD" typeId="b7bc-1ffa-a61a-e2cf">1</characteristic>
+                    <characteristic name="Traits" typeId="3726-85d2-d1bf-74e0"/>
+                  </characteristics>
+                </profile>
+                <profile id="05ca-a391-9efc-1ed7" name="Turret YY (3 x 6.1-inch)" hidden="false" typeId="796f-a6ed-afe9-d390" typeName="Weapons">
+                  <characteristics>
+                    <characteristic name="Weapon System" typeId="e6d0-5b4e-63ac-5df4">Turret YY (3 x 6.1-inch)</characteristic>
+                    <characteristic name="Fire Arcs" typeId="55f7-a208-f3bc-9aa3">Port, Starboard, Aft</characteristic>
+                    <characteristic name="Point Blank" typeId="582e-83ce-ab46-499f">7&quot;</characteristic>
+                    <characteristic name="Short" typeId="b870-c868-b685-0d61">15&quot;</characteristic>
+                    <characteristic name="Long" typeId="dc83-46b7-b2fc-c169">22&quot;</characteristic>
+                    <characteristic name="Extreme" typeId="a6e3-b21c-3c17-e6de">30&quot;</characteristic>
+                    <characteristic name="AD" typeId="c713-7f6f-938e-99f1">2</characteristic>
+                    <characteristic name="AP" typeId="7b9e-773a-52e5-d831">-1</characteristic>
+                    <characteristic name="DD" typeId="b7bc-1ffa-a61a-e2cf">1</characteristic>
+                    <characteristic name="Traits" typeId="3726-85d2-d1bf-74e0"/>
+                  </characteristics>
+                </profile>
+                <profile id="e33d-25b4-2c90-6ec5" name="Lights Guns (24 x 5-inch)" hidden="false" typeId="796f-a6ed-afe9-d390" typeName="Weapons">
+                  <characteristics>
+                    <characteristic name="Weapon System" typeId="e6d0-5b4e-63ac-5df4">Lights Guns (24x 5-inch)</characteristic>
+                    <characteristic name="Fire Arcs" typeId="55f7-a208-f3bc-9aa3">Forward, Port, Starboard, Aft</characteristic>
+                    <characteristic name="Point Blank" typeId="582e-83ce-ab46-499f">4&quot;</characteristic>
+                    <characteristic name="Short" typeId="b870-c868-b685-0d61">8&quot;</characteristic>
+                    <characteristic name="Long" typeId="dc83-46b7-b2fc-c169">12&quot;</characteristic>
+                    <characteristic name="Extreme" typeId="a6e3-b21c-3c17-e6de">16&quot;</characteristic>
+                    <characteristic name="AD" typeId="c713-7f6f-938e-99f1">14</characteristic>
+                    <characteristic name="AP" typeId="7b9e-773a-52e5-d831">-2</characteristic>
+                    <characteristic name="DD" typeId="b7bc-1ffa-a61a-e2cf">1</characteristic>
+                    <characteristic name="Traits" typeId="3726-85d2-d1bf-74e0">DP, Restricted, Weak</characteristic>
+                  </characteristics>
+                </profile>
+                <profile id="5361-aab3-456c-9ca7" name="AA Battery" hidden="false" typeId="796f-a6ed-afe9-d390" typeName="Weapons">
+                  <characteristics>
+                    <characteristic name="Weapon System" typeId="e6d0-5b4e-63ac-5df4">AA Battery</characteristic>
+                    <characteristic name="Fire Arcs" typeId="55f7-a208-f3bc-9aa3">Forward, Port, Starboard, Aft</characteristic>
+                    <characteristic name="Point Blank" typeId="582e-83ce-ab46-499f">-</characteristic>
+                    <characteristic name="Short" typeId="b870-c868-b685-0d61">-</characteristic>
+                    <characteristic name="Long" typeId="dc83-46b7-b2fc-c169">-</characteristic>
+                    <characteristic name="Extreme" typeId="a6e3-b21c-3c17-e6de">-</characteristic>
+                    <characteristic name="AD" typeId="c713-7f6f-938e-99f1">-</characteristic>
+                    <characteristic name="AP" typeId="7b9e-773a-52e5-d831">-</characteristic>
+                    <characteristic name="DD" typeId="b7bc-1ffa-a61a-e2cf">-</characteristic>
+                    <characteristic name="Traits" typeId="3726-85d2-d1bf-74e0">Local 9</characteristic>
+                  </characteristics>
+                </profile>
+              </profiles>
+              <infoLinks>
+                <infoLink id="6204-06b7-8d7e-2dab" name="Torpedo Belt X" hidden="false" targetId="06e2-04c0-a61e-6782" type="rule"/>
+                <infoLink id="143e-7c60-42c4-d4d9" name="Heavy" hidden="false" targetId="fb9e-cde9-1f40-2798" type="rule"/>
+                <infoLink id="af89-6505-74a2-83b4" name="Aircraft X" hidden="false" targetId="1ef9-ea71-f5a9-9a89" type="rule"/>
+                <infoLink id="35a0-30dd-2f5a-6e3d" name="DP" hidden="false" targetId="1702-ac00-36c9-6c99" type="rule"/>
+                <infoLink id="2897-bfa6-4b36-98cd" name="Armoured Deck" hidden="false" targetId="1848-51d0-a543-c9cf" type="rule"/>
+                <infoLink id="a6c0-9991-5df6-7dcf" name="Local X" hidden="false" targetId="f1a5-d97a-af9f-2d28" type="rule"/>
+                <infoLink id="09dc-1a79-3196-a94b" name="Weak" hidden="false" targetId="5b07-b3b1-f13e-fa4c" type="rule"/>
+                <infoLink id="6479-ae5f-cb31-81c2" name="Restricted" hidden="false" targetId="5a5b-a94f-847f-8c0f" type="rule"/>
+                <infoLink id="73f1-008b-ca24-5e13" name="Sub-Hunter" hidden="false" targetId="919e-7b59-d60a-ad1e" type="rule"/>
+                <infoLink id="2151-9e37-f0d9-18bc" name="Radar" hidden="false" targetId="a540-d4b9-4520-5ea1" type="rule"/>
+              </infoLinks>
+              <costs>
+                <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="165.0"/>
+              </costs>
+            </selectionEntry>
+            <selectionEntry id="2908-0e26-a23a-c420" name="Yamato Refit 1943" hidden="false" collective="false" import="true" type="model">
+              <profiles>
+                <profile id="cc98-8950-d51b-ce50" name="Yamato" hidden="false" typeId="c2ff-d17b-11ef-a25b" typeName="Ship">
+                  <characteristics>
+                    <characteristic name="Type" typeId="80fc-5c61-9cdb-16be">Battleship</characteristic>
+                    <characteristic name="Flank Speed" typeId="10ed-e7a2-0a80-9a23">5&quot;</characteristic>
+                    <characteristic name="Armor" typeId="eeaf-1df1-c012-6447">7+</characteristic>
+                    <characteristic name="Hull" typeId="7c0b-ef03-ef3e-abeb">146</characteristic>
+                    <characteristic name="Crippled" typeId="99c0-c6ff-cdd5-7254">48</characteristic>
+                    <characteristic name="Traits" typeId="70e0-26ef-8a74-fcb0">Aircraft 7, Armored Deck, Torpedo Belt 3</characteristic>
+                    <characteristic name="Points" typeId="285a-5546-b819-e547">1005</characteristic>
+                  </characteristics>
+                </profile>
+                <profile id="d9c5-05ea-bbf3-c28d" name="Turret B (3 x 18.1-inch)" hidden="false" typeId="796f-a6ed-afe9-d390" typeName="Weapons">
+                  <characteristics>
+                    <characteristic name="Weapon System" typeId="e6d0-5b4e-63ac-5df4">Turret B (3 x 18.1-inch)</characteristic>
+                    <characteristic name="Fire Arcs" typeId="55f7-a208-f3bc-9aa3">Forward, Port, Starboard</characteristic>
+                    <characteristic name="Point Blank" typeId="582e-83ce-ab46-499f">11&quot;</characteristic>
+                    <characteristic name="Short" typeId="b870-c868-b685-0d61">23&quot;</characteristic>
+                    <characteristic name="Long" typeId="dc83-46b7-b2fc-c169">34&quot;</characteristic>
+                    <characteristic name="Extreme" typeId="a6e3-b21c-3c17-e6de">46&quot;</characteristic>
+                    <characteristic name="AD" typeId="c713-7f6f-938e-99f1">3</characteristic>
+                    <characteristic name="AP" typeId="7b9e-773a-52e5-d831">+2</characteristic>
+                    <characteristic name="DD" typeId="b7bc-1ffa-a61a-e2cf">4</characteristic>
+                    <characteristic name="Traits" typeId="3726-85d2-d1bf-74e0">Heavy</characteristic>
+                  </characteristics>
+                </profile>
+                <profile id="1df6-0682-50d2-1968" name="Turret A (3 x 18.1-inch)" hidden="false" typeId="796f-a6ed-afe9-d390" typeName="Weapons">
+                  <characteristics>
+                    <characteristic name="Weapon System" typeId="e6d0-5b4e-63ac-5df4">Turret A (3 x 18.1-inch)</characteristic>
+                    <characteristic name="Fire Arcs" typeId="55f7-a208-f3bc-9aa3">Forward, Port, Starboard</characteristic>
+                    <characteristic name="Point Blank" typeId="582e-83ce-ab46-499f">11&quot;</characteristic>
+                    <characteristic name="Short" typeId="b870-c868-b685-0d61">23&quot;</characteristic>
+                    <characteristic name="Long" typeId="dc83-46b7-b2fc-c169">34&quot;</characteristic>
+                    <characteristic name="Extreme" typeId="a6e3-b21c-3c17-e6de">46&quot;</characteristic>
+                    <characteristic name="AD" typeId="c713-7f6f-938e-99f1">3</characteristic>
+                    <characteristic name="AP" typeId="7b9e-773a-52e5-d831">+2</characteristic>
+                    <characteristic name="DD" typeId="b7bc-1ffa-a61a-e2cf">4</characteristic>
+                    <characteristic name="Traits" typeId="3726-85d2-d1bf-74e0">Heavy</characteristic>
+                  </characteristics>
+                </profile>
+                <profile id="65e1-ddaa-51a1-b5bd" name="Turret Y (3 x 18.1-inch)" hidden="false" typeId="796f-a6ed-afe9-d390" typeName="Weapons">
+                  <characteristics>
+                    <characteristic name="Weapon System" typeId="e6d0-5b4e-63ac-5df4">Turret Y (3 x 18.1-inch)</characteristic>
+                    <characteristic name="Fire Arcs" typeId="55f7-a208-f3bc-9aa3">Port, Starboard, Aft</characteristic>
+                    <characteristic name="Point Blank" typeId="582e-83ce-ab46-499f">11&quot;</characteristic>
+                    <characteristic name="Short" typeId="b870-c868-b685-0d61">23&quot;</characteristic>
+                    <characteristic name="Long" typeId="dc83-46b7-b2fc-c169">34&quot;</characteristic>
+                    <characteristic name="Extreme" typeId="a6e3-b21c-3c17-e6de">46&quot;</characteristic>
+                    <characteristic name="AD" typeId="c713-7f6f-938e-99f1">3</characteristic>
+                    <characteristic name="AP" typeId="7b9e-773a-52e5-d831">+2</characteristic>
+                    <characteristic name="DD" typeId="b7bc-1ffa-a61a-e2cf">4</characteristic>
+                    <characteristic name="Traits" typeId="3726-85d2-d1bf-74e0">Heavy</characteristic>
+                  </characteristics>
+                </profile>
+                <profile id="07c6-3f33-c7bd-3746" name="Turret AA (3 x 6.1-inch)" hidden="false" typeId="796f-a6ed-afe9-d390" typeName="Weapons">
+                  <characteristics>
+                    <characteristic name="Weapon System" typeId="e6d0-5b4e-63ac-5df4">Turret AA (3 x 6.1-inch)</characteristic>
+                    <characteristic name="Fire Arcs" typeId="55f7-a208-f3bc-9aa3">Forward, Port, Starboard</characteristic>
+                    <characteristic name="Point Blank" typeId="582e-83ce-ab46-499f">7&quot;</characteristic>
+                    <characteristic name="Short" typeId="b870-c868-b685-0d61">15&quot;</characteristic>
+                    <characteristic name="Long" typeId="dc83-46b7-b2fc-c169">22&quot;</characteristic>
+                    <characteristic name="Extreme" typeId="a6e3-b21c-3c17-e6de">30&quot;</characteristic>
+                    <characteristic name="AD" typeId="c713-7f6f-938e-99f1">2</characteristic>
+                    <characteristic name="AP" typeId="7b9e-773a-52e5-d831">-1</characteristic>
+                    <characteristic name="DD" typeId="b7bc-1ffa-a61a-e2cf">1</characteristic>
+                    <characteristic name="Traits" typeId="3726-85d2-d1bf-74e0"/>
+                  </characteristics>
+                </profile>
+                <profile id="6ead-a7ea-0b6c-4d75" name="Turret P (3 x 6.1-inch)" hidden="false" typeId="796f-a6ed-afe9-d390" typeName="Weapons">
+                  <characteristics>
+                    <characteristic name="Weapon System" typeId="e6d0-5b4e-63ac-5df4">Turret P (3 x 6.1-inch)</characteristic>
+                    <characteristic name="Fire Arcs" typeId="55f7-a208-f3bc-9aa3">Port</characteristic>
+                    <characteristic name="Point Blank" typeId="582e-83ce-ab46-499f">7&quot;</characteristic>
+                    <characteristic name="Short" typeId="b870-c868-b685-0d61">15&quot;</characteristic>
+                    <characteristic name="Long" typeId="dc83-46b7-b2fc-c169">22&quot;</characteristic>
+                    <characteristic name="Extreme" typeId="a6e3-b21c-3c17-e6de">30&quot;</characteristic>
+                    <characteristic name="AD" typeId="c713-7f6f-938e-99f1">2</characteristic>
+                    <characteristic name="AP" typeId="7b9e-773a-52e5-d831">-1</characteristic>
+                    <characteristic name="DD" typeId="b7bc-1ffa-a61a-e2cf">1</characteristic>
+                    <characteristic name="Traits" typeId="3726-85d2-d1bf-74e0"/>
+                  </characteristics>
+                </profile>
+                <profile id="f342-8895-7c39-d410" name="Turret S (3 x 6.1-inch)" hidden="false" typeId="796f-a6ed-afe9-d390" typeName="Weapons">
+                  <characteristics>
+                    <characteristic name="Weapon System" typeId="e6d0-5b4e-63ac-5df4">Turret S (3 x 6.1-inch)</characteristic>
+                    <characteristic name="Fire Arcs" typeId="55f7-a208-f3bc-9aa3">Starboard</characteristic>
+                    <characteristic name="Point Blank" typeId="582e-83ce-ab46-499f">7&quot;</characteristic>
+                    <characteristic name="Short" typeId="b870-c868-b685-0d61">15&quot;</characteristic>
+                    <characteristic name="Long" typeId="dc83-46b7-b2fc-c169">22&quot;</characteristic>
+                    <characteristic name="Extreme" typeId="a6e3-b21c-3c17-e6de">30&quot;</characteristic>
+                    <characteristic name="AD" typeId="c713-7f6f-938e-99f1">2</characteristic>
+                    <characteristic name="AP" typeId="7b9e-773a-52e5-d831">-1</characteristic>
+                    <characteristic name="DD" typeId="b7bc-1ffa-a61a-e2cf">1</characteristic>
+                    <characteristic name="Traits" typeId="3726-85d2-d1bf-74e0"/>
+                  </characteristics>
+                </profile>
+                <profile id="7048-37c0-113e-f6b4" name="Turret YY (3 x 6.1-inch)" hidden="false" typeId="796f-a6ed-afe9-d390" typeName="Weapons">
+                  <characteristics>
+                    <characteristic name="Weapon System" typeId="e6d0-5b4e-63ac-5df4">Turret YY (3 x 6.1-inch)</characteristic>
+                    <characteristic name="Fire Arcs" typeId="55f7-a208-f3bc-9aa3">Port, Starboard, Aft</characteristic>
+                    <characteristic name="Point Blank" typeId="582e-83ce-ab46-499f">7&quot;</characteristic>
+                    <characteristic name="Short" typeId="b870-c868-b685-0d61">15&quot;</characteristic>
+                    <characteristic name="Long" typeId="dc83-46b7-b2fc-c169">22&quot;</characteristic>
+                    <characteristic name="Extreme" typeId="a6e3-b21c-3c17-e6de">30&quot;</characteristic>
+                    <characteristic name="AD" typeId="c713-7f6f-938e-99f1">2</characteristic>
+                    <characteristic name="AP" typeId="7b9e-773a-52e5-d831">-1</characteristic>
+                    <characteristic name="DD" typeId="b7bc-1ffa-a61a-e2cf">1</characteristic>
+                    <characteristic name="Traits" typeId="3726-85d2-d1bf-74e0"/>
+                  </characteristics>
+                </profile>
+                <profile id="4e4d-1a4d-0381-3ab0" name="Lights Guns (12 x 5-inch)" hidden="false" typeId="796f-a6ed-afe9-d390" typeName="Weapons">
+                  <characteristics>
+                    <characteristic name="Weapon System" typeId="e6d0-5b4e-63ac-5df4">Lights Guns (12 x 5-inch)</characteristic>
+                    <characteristic name="Fire Arcs" typeId="55f7-a208-f3bc-9aa3">Forward, Port, Starboard, Aft</characteristic>
+                    <characteristic name="Point Blank" typeId="582e-83ce-ab46-499f">4&quot;</characteristic>
+                    <characteristic name="Short" typeId="b870-c868-b685-0d61">8&quot;</characteristic>
+                    <characteristic name="Long" typeId="dc83-46b7-b2fc-c169">12&quot;</characteristic>
+                    <characteristic name="Extreme" typeId="a6e3-b21c-3c17-e6de">16&quot;</characteristic>
+                    <characteristic name="AD" typeId="c713-7f6f-938e-99f1">8</characteristic>
+                    <characteristic name="AP" typeId="7b9e-773a-52e5-d831">-2</characteristic>
+                    <characteristic name="DD" typeId="b7bc-1ffa-a61a-e2cf">1</characteristic>
+                    <characteristic name="Traits" typeId="3726-85d2-d1bf-74e0">DP, Restricted, Weak</characteristic>
+                  </characteristics>
+                </profile>
+                <profile id="77e8-5c65-600b-b8fa" name="AA Battery" hidden="false" typeId="796f-a6ed-afe9-d390" typeName="Weapons">
+                  <characteristics>
+                    <characteristic name="Weapon System" typeId="e6d0-5b4e-63ac-5df4">AA Battery</characteristic>
+                    <characteristic name="Fire Arcs" typeId="55f7-a208-f3bc-9aa3">Forward, Port, Starboard, Aft</characteristic>
+                    <characteristic name="Point Blank" typeId="582e-83ce-ab46-499f">-</characteristic>
+                    <characteristic name="Short" typeId="b870-c868-b685-0d61">-</characteristic>
+                    <characteristic name="Long" typeId="dc83-46b7-b2fc-c169">-</characteristic>
+                    <characteristic name="Extreme" typeId="a6e3-b21c-3c17-e6de">-</characteristic>
+                    <characteristic name="AD" typeId="c713-7f6f-938e-99f1">-</characteristic>
+                    <characteristic name="AP" typeId="7b9e-773a-52e5-d831">-</characteristic>
+                    <characteristic name="DD" typeId="b7bc-1ffa-a61a-e2cf">-</characteristic>
+                    <characteristic name="Traits" typeId="3726-85d2-d1bf-74e0">Local 2</characteristic>
+                  </characteristics>
+                </profile>
+              </profiles>
+              <infoLinks>
+                <infoLink id="8651-55e3-a09e-f1e3" name="Torpedo Belt X" hidden="false" targetId="06e2-04c0-a61e-6782" type="rule"/>
+                <infoLink id="00f6-1e90-3fdf-fa63" name="Heavy" hidden="false" targetId="fb9e-cde9-1f40-2798" type="rule"/>
+                <infoLink id="4b08-6a44-fa19-a509" name="Aircraft X" hidden="false" targetId="1ef9-ea71-f5a9-9a89" type="rule"/>
+                <infoLink id="9b2d-faec-553b-1fd4" name="DP" hidden="false" targetId="1702-ac00-36c9-6c99" type="rule"/>
+                <infoLink id="6c70-7933-8b0c-09be" name="Armoured Deck" hidden="false" targetId="1848-51d0-a543-c9cf" type="rule"/>
+                <infoLink id="5034-743c-d67d-8fed" name="Local X" hidden="false" targetId="f1a5-d97a-af9f-2d28" type="rule"/>
+                <infoLink id="ff8c-77e0-e284-d873" name="Weak" hidden="false" targetId="5b07-b3b1-f13e-fa4c" type="rule"/>
+                <infoLink id="5b54-5ee1-0455-1886" name="Restricted" hidden="false" targetId="5a5b-a94f-847f-8c0f" type="rule"/>
+              </infoLinks>
+              <costs>
+                <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="5.0"/>
+              </costs>
+            </selectionEntry>
+          </selectionEntries>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="37b7-6551-581d-764b" name="Musashi" hidden="false" collective="false" import="true" type="upgrade">
+          <selectionEntries>
+            <selectionEntry id="0fcc-f702-e19d-7158" name="Musashi" hidden="false" collective="false" import="true" type="model">
+              <profiles>
+                <profile id="1e17-cf75-58a3-2662" name="Musashi" hidden="false" typeId="c2ff-d17b-11ef-a25b" typeName="Ship">
+                  <characteristics>
+                    <characteristic name="Type" typeId="80fc-5c61-9cdb-16be">Battleship</characteristic>
+                    <characteristic name="Flank Speed" typeId="10ed-e7a2-0a80-9a23">5&quot;</characteristic>
+                    <characteristic name="Armor" typeId="eeaf-1df1-c012-6447">7+</characteristic>
+                    <characteristic name="Hull" typeId="7c0b-ef03-ef3e-abeb">146</characteristic>
+                    <characteristic name="Crippled" typeId="99c0-c6ff-cdd5-7254">48</characteristic>
+                    <characteristic name="Traits" typeId="70e0-26ef-8a74-fcb0">Aircraft 7, Armored Deck, Torpedo Belt 3</characteristic>
+                    <characteristic name="Points" typeId="285a-5546-b819-e547">1000</characteristic>
+                  </characteristics>
+                </profile>
+                <profile id="6149-1029-9786-1742" name="Turret B (3 x 18.1-inch)" hidden="false" typeId="796f-a6ed-afe9-d390" typeName="Weapons">
+                  <characteristics>
+                    <characteristic name="Weapon System" typeId="e6d0-5b4e-63ac-5df4">Turret B (3 x 18.1-inch)</characteristic>
+                    <characteristic name="Fire Arcs" typeId="55f7-a208-f3bc-9aa3">Forward, Port, Starboard</characteristic>
+                    <characteristic name="Point Blank" typeId="582e-83ce-ab46-499f">11&quot;</characteristic>
+                    <characteristic name="Short" typeId="b870-c868-b685-0d61">23&quot;</characteristic>
+                    <characteristic name="Long" typeId="dc83-46b7-b2fc-c169">34&quot;</characteristic>
+                    <characteristic name="Extreme" typeId="a6e3-b21c-3c17-e6de">46&quot;</characteristic>
+                    <characteristic name="AD" typeId="c713-7f6f-938e-99f1">3</characteristic>
+                    <characteristic name="AP" typeId="7b9e-773a-52e5-d831">+2</characteristic>
+                    <characteristic name="DD" typeId="b7bc-1ffa-a61a-e2cf">4</characteristic>
+                    <characteristic name="Traits" typeId="3726-85d2-d1bf-74e0">Heavy</characteristic>
+                  </characteristics>
+                </profile>
+                <profile id="ee75-2315-66ad-8d4f" name="Turret A (3 x 18.1-inch)" hidden="false" typeId="796f-a6ed-afe9-d390" typeName="Weapons">
+                  <characteristics>
+                    <characteristic name="Weapon System" typeId="e6d0-5b4e-63ac-5df4">Turret A (3 x 18.1-inch)</characteristic>
+                    <characteristic name="Fire Arcs" typeId="55f7-a208-f3bc-9aa3">Forward, Port, Starboard</characteristic>
+                    <characteristic name="Point Blank" typeId="582e-83ce-ab46-499f">11&quot;</characteristic>
+                    <characteristic name="Short" typeId="b870-c868-b685-0d61">23&quot;</characteristic>
+                    <characteristic name="Long" typeId="dc83-46b7-b2fc-c169">34&quot;</characteristic>
+                    <characteristic name="Extreme" typeId="a6e3-b21c-3c17-e6de">46&quot;</characteristic>
+                    <characteristic name="AD" typeId="c713-7f6f-938e-99f1">3</characteristic>
+                    <characteristic name="AP" typeId="7b9e-773a-52e5-d831">+2</characteristic>
+                    <characteristic name="DD" typeId="b7bc-1ffa-a61a-e2cf">4</characteristic>
+                    <characteristic name="Traits" typeId="3726-85d2-d1bf-74e0">Heavy</characteristic>
+                  </characteristics>
+                </profile>
+                <profile id="5fd6-423c-6df7-5493" name="Turret Y (3 x 18.1-inch)" hidden="false" typeId="796f-a6ed-afe9-d390" typeName="Weapons">
+                  <characteristics>
+                    <characteristic name="Weapon System" typeId="e6d0-5b4e-63ac-5df4">Turret Y (3 x 18.1-inch)</characteristic>
+                    <characteristic name="Fire Arcs" typeId="55f7-a208-f3bc-9aa3">Port, Starboard, Aft</characteristic>
+                    <characteristic name="Point Blank" typeId="582e-83ce-ab46-499f">11&quot;</characteristic>
+                    <characteristic name="Short" typeId="b870-c868-b685-0d61">23&quot;</characteristic>
+                    <characteristic name="Long" typeId="dc83-46b7-b2fc-c169">34&quot;</characteristic>
+                    <characteristic name="Extreme" typeId="a6e3-b21c-3c17-e6de">46&quot;</characteristic>
+                    <characteristic name="AD" typeId="c713-7f6f-938e-99f1">3</characteristic>
+                    <characteristic name="AP" typeId="7b9e-773a-52e5-d831">+2</characteristic>
+                    <characteristic name="DD" typeId="b7bc-1ffa-a61a-e2cf">4</characteristic>
+                    <characteristic name="Traits" typeId="3726-85d2-d1bf-74e0">Heavy</characteristic>
+                  </characteristics>
+                </profile>
+                <profile id="cf6f-74a7-ecc0-0654" name="Turret AA (3 x 6.1-inch)" hidden="false" typeId="796f-a6ed-afe9-d390" typeName="Weapons">
+                  <characteristics>
+                    <characteristic name="Weapon System" typeId="e6d0-5b4e-63ac-5df4">Turret AA (3 x 6.1-inch)</characteristic>
+                    <characteristic name="Fire Arcs" typeId="55f7-a208-f3bc-9aa3">Forward, Port, Starboard</characteristic>
+                    <characteristic name="Point Blank" typeId="582e-83ce-ab46-499f">7&quot;</characteristic>
+                    <characteristic name="Short" typeId="b870-c868-b685-0d61">15&quot;</characteristic>
+                    <characteristic name="Long" typeId="dc83-46b7-b2fc-c169">22&quot;</characteristic>
+                    <characteristic name="Extreme" typeId="a6e3-b21c-3c17-e6de">30&quot;</characteristic>
+                    <characteristic name="AD" typeId="c713-7f6f-938e-99f1">2</characteristic>
+                    <characteristic name="AP" typeId="7b9e-773a-52e5-d831">-1</characteristic>
+                    <characteristic name="DD" typeId="b7bc-1ffa-a61a-e2cf">1</characteristic>
+                    <characteristic name="Traits" typeId="3726-85d2-d1bf-74e0"/>
+                  </characteristics>
+                </profile>
+                <profile id="a5aa-7d8a-5644-d738" name="Turret P (3 x 6.1-inch)" hidden="false" typeId="796f-a6ed-afe9-d390" typeName="Weapons">
+                  <characteristics>
+                    <characteristic name="Weapon System" typeId="e6d0-5b4e-63ac-5df4">Turret P (3 x 6.1-inch)</characteristic>
+                    <characteristic name="Fire Arcs" typeId="55f7-a208-f3bc-9aa3">Port</characteristic>
+                    <characteristic name="Point Blank" typeId="582e-83ce-ab46-499f">7&quot;</characteristic>
+                    <characteristic name="Short" typeId="b870-c868-b685-0d61">15&quot;</characteristic>
+                    <characteristic name="Long" typeId="dc83-46b7-b2fc-c169">22&quot;</characteristic>
+                    <characteristic name="Extreme" typeId="a6e3-b21c-3c17-e6de">30&quot;</characteristic>
+                    <characteristic name="AD" typeId="c713-7f6f-938e-99f1">2</characteristic>
+                    <characteristic name="AP" typeId="7b9e-773a-52e5-d831">-1</characteristic>
+                    <characteristic name="DD" typeId="b7bc-1ffa-a61a-e2cf">1</characteristic>
+                    <characteristic name="Traits" typeId="3726-85d2-d1bf-74e0"/>
+                  </characteristics>
+                </profile>
+                <profile id="bdae-88eb-e18b-eabc" name="Turret S (3 x 6.1-inch)" hidden="false" typeId="796f-a6ed-afe9-d390" typeName="Weapons">
+                  <characteristics>
+                    <characteristic name="Weapon System" typeId="e6d0-5b4e-63ac-5df4">Turret S (3 x 6.1-inch)</characteristic>
+                    <characteristic name="Fire Arcs" typeId="55f7-a208-f3bc-9aa3">Starboard</characteristic>
+                    <characteristic name="Point Blank" typeId="582e-83ce-ab46-499f">7&quot;</characteristic>
+                    <characteristic name="Short" typeId="b870-c868-b685-0d61">15&quot;</characteristic>
+                    <characteristic name="Long" typeId="dc83-46b7-b2fc-c169">22&quot;</characteristic>
+                    <characteristic name="Extreme" typeId="a6e3-b21c-3c17-e6de">30&quot;</characteristic>
+                    <characteristic name="AD" typeId="c713-7f6f-938e-99f1">2</characteristic>
+                    <characteristic name="AP" typeId="7b9e-773a-52e5-d831">-1</characteristic>
+                    <characteristic name="DD" typeId="b7bc-1ffa-a61a-e2cf">1</characteristic>
+                    <characteristic name="Traits" typeId="3726-85d2-d1bf-74e0"/>
+                  </characteristics>
+                </profile>
+                <profile id="d934-80b2-740f-ab91" name="Turret YY (3 x 6.1-inch)" hidden="false" typeId="796f-a6ed-afe9-d390" typeName="Weapons">
+                  <characteristics>
+                    <characteristic name="Weapon System" typeId="e6d0-5b4e-63ac-5df4">Turret YY (3 x 6.1-inch)</characteristic>
+                    <characteristic name="Fire Arcs" typeId="55f7-a208-f3bc-9aa3">Port, Starboard, Aft</characteristic>
+                    <characteristic name="Point Blank" typeId="582e-83ce-ab46-499f">7&quot;</characteristic>
+                    <characteristic name="Short" typeId="b870-c868-b685-0d61">15&quot;</characteristic>
+                    <characteristic name="Long" typeId="dc83-46b7-b2fc-c169">22&quot;</characteristic>
+                    <characteristic name="Extreme" typeId="a6e3-b21c-3c17-e6de">30&quot;</characteristic>
+                    <characteristic name="AD" typeId="c713-7f6f-938e-99f1">2</characteristic>
+                    <characteristic name="AP" typeId="7b9e-773a-52e5-d831">-1</characteristic>
+                    <characteristic name="DD" typeId="b7bc-1ffa-a61a-e2cf">1</characteristic>
+                    <characteristic name="Traits" typeId="3726-85d2-d1bf-74e0"/>
+                  </characteristics>
+                </profile>
+                <profile id="bcea-098b-8ed1-8c48" name="Lights Guns (12 x 5-inch)" hidden="false" typeId="796f-a6ed-afe9-d390" typeName="Weapons">
+                  <characteristics>
+                    <characteristic name="Weapon System" typeId="e6d0-5b4e-63ac-5df4">Lights Guns (12 x 5-inch)</characteristic>
+                    <characteristic name="Fire Arcs" typeId="55f7-a208-f3bc-9aa3">Forward, Port, Starboard, Aft</characteristic>
+                    <characteristic name="Point Blank" typeId="582e-83ce-ab46-499f">4&quot;</characteristic>
+                    <characteristic name="Short" typeId="b870-c868-b685-0d61">8&quot;</characteristic>
+                    <characteristic name="Long" typeId="dc83-46b7-b2fc-c169">12&quot;</characteristic>
+                    <characteristic name="Extreme" typeId="a6e3-b21c-3c17-e6de">16&quot;</characteristic>
+                    <characteristic name="AD" typeId="c713-7f6f-938e-99f1">8</characteristic>
+                    <characteristic name="AP" typeId="7b9e-773a-52e5-d831">-2</characteristic>
+                    <characteristic name="DD" typeId="b7bc-1ffa-a61a-e2cf">1</characteristic>
+                    <characteristic name="Traits" typeId="3726-85d2-d1bf-74e0">DP, Restricted, Weak</characteristic>
+                  </characteristics>
+                </profile>
+                <profile id="8101-4777-7506-e68d" name="AA Battery" hidden="false" typeId="796f-a6ed-afe9-d390" typeName="Weapons">
+                  <characteristics>
+                    <characteristic name="Weapon System" typeId="e6d0-5b4e-63ac-5df4">AA Battery</characteristic>
+                    <characteristic name="Fire Arcs" typeId="55f7-a208-f3bc-9aa3">Forward, Port, Starboard, Aft</characteristic>
+                    <characteristic name="Point Blank" typeId="582e-83ce-ab46-499f">-</characteristic>
+                    <characteristic name="Short" typeId="b870-c868-b685-0d61">-</characteristic>
+                    <characteristic name="Long" typeId="dc83-46b7-b2fc-c169">-</characteristic>
+                    <characteristic name="Extreme" typeId="a6e3-b21c-3c17-e6de">-</characteristic>
+                    <characteristic name="AD" typeId="c713-7f6f-938e-99f1">-</characteristic>
+                    <characteristic name="AP" typeId="7b9e-773a-52e5-d831">-</characteristic>
+                    <characteristic name="DD" typeId="b7bc-1ffa-a61a-e2cf">-</characteristic>
+                    <characteristic name="Traits" typeId="3726-85d2-d1bf-74e0">Local 1</characteristic>
+                  </characteristics>
+                </profile>
+              </profiles>
+              <infoLinks>
+                <infoLink id="1761-0165-2c3b-ce48" name="Torpedo Belt X" hidden="false" targetId="06e2-04c0-a61e-6782" type="rule"/>
+                <infoLink id="f6d8-4963-25a2-8aed" name="Heavy" hidden="false" targetId="fb9e-cde9-1f40-2798" type="rule"/>
+                <infoLink id="7868-e695-e9fc-c89a" name="Aircraft X" hidden="false" targetId="1ef9-ea71-f5a9-9a89" type="rule"/>
+                <infoLink id="3dc8-c6f8-7b12-4e84" name="DP" hidden="false" targetId="1702-ac00-36c9-6c99" type="rule"/>
+                <infoLink id="eed8-53bd-e15c-4d0e" name="Armoured Deck" hidden="false" targetId="1848-51d0-a543-c9cf" type="rule"/>
+                <infoLink id="8317-b391-886d-e585" name="Local X" hidden="false" targetId="f1a5-d97a-af9f-2d28" type="rule"/>
+                <infoLink id="ec6a-951e-439e-fcde" name="Weak" hidden="false" targetId="5b07-b3b1-f13e-fa4c" type="rule"/>
+                <infoLink id="5e49-c11c-9bc9-6347" name="Restricted" hidden="false" targetId="5a5b-a94f-847f-8c0f" type="rule"/>
+              </infoLinks>
+              <costs>
+                <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+              </costs>
+            </selectionEntry>
+            <selectionEntry id="da42-0d7f-4c93-a6e0" name="Musashi Refit 1942" hidden="false" collective="false" import="true" type="model">
+              <profiles>
+                <profile id="c3b4-6f38-50b8-874a" name="Musashi" hidden="false" typeId="c2ff-d17b-11ef-a25b" typeName="Ship">
+                  <characteristics>
+                    <characteristic name="Type" typeId="80fc-5c61-9cdb-16be">Battleship</characteristic>
+                    <characteristic name="Flank Speed" typeId="10ed-e7a2-0a80-9a23">5&quot;</characteristic>
+                    <characteristic name="Armor" typeId="eeaf-1df1-c012-6447">7+</characteristic>
+                    <characteristic name="Hull" typeId="7c0b-ef03-ef3e-abeb">146</characteristic>
+                    <characteristic name="Crippled" typeId="99c0-c6ff-cdd5-7254">48</characteristic>
+                    <characteristic name="Traits" typeId="70e0-26ef-8a74-fcb0">Aircraft 7, Armored Deck, Torpedo Belt 3</characteristic>
+                    <characteristic name="Points" typeId="285a-5546-b819-e547">1005</characteristic>
+                  </characteristics>
+                </profile>
+                <profile id="0f7e-5d6e-abf7-f20a" name="Turret B (3 x 18.1-inch)" hidden="false" typeId="796f-a6ed-afe9-d390" typeName="Weapons">
+                  <characteristics>
+                    <characteristic name="Weapon System" typeId="e6d0-5b4e-63ac-5df4">Turret B (3 x 18.1-inch)</characteristic>
+                    <characteristic name="Fire Arcs" typeId="55f7-a208-f3bc-9aa3">Forward, Port, Starboard</characteristic>
+                    <characteristic name="Point Blank" typeId="582e-83ce-ab46-499f">11&quot;</characteristic>
+                    <characteristic name="Short" typeId="b870-c868-b685-0d61">23&quot;</characteristic>
+                    <characteristic name="Long" typeId="dc83-46b7-b2fc-c169">34&quot;</characteristic>
+                    <characteristic name="Extreme" typeId="a6e3-b21c-3c17-e6de">46&quot;</characteristic>
+                    <characteristic name="AD" typeId="c713-7f6f-938e-99f1">3</characteristic>
+                    <characteristic name="AP" typeId="7b9e-773a-52e5-d831">+2</characteristic>
+                    <characteristic name="DD" typeId="b7bc-1ffa-a61a-e2cf">4</characteristic>
+                    <characteristic name="Traits" typeId="3726-85d2-d1bf-74e0">Heavy</characteristic>
+                  </characteristics>
+                </profile>
+                <profile id="07b2-8fe1-20c5-f01f" name="Turret A (3 x 18.1-inch)" hidden="false" typeId="796f-a6ed-afe9-d390" typeName="Weapons">
+                  <characteristics>
+                    <characteristic name="Weapon System" typeId="e6d0-5b4e-63ac-5df4">Turret A (3 x 18.1-inch)</characteristic>
+                    <characteristic name="Fire Arcs" typeId="55f7-a208-f3bc-9aa3">Forward, Port, Starboard</characteristic>
+                    <characteristic name="Point Blank" typeId="582e-83ce-ab46-499f">11&quot;</characteristic>
+                    <characteristic name="Short" typeId="b870-c868-b685-0d61">23&quot;</characteristic>
+                    <characteristic name="Long" typeId="dc83-46b7-b2fc-c169">34&quot;</characteristic>
+                    <characteristic name="Extreme" typeId="a6e3-b21c-3c17-e6de">46&quot;</characteristic>
+                    <characteristic name="AD" typeId="c713-7f6f-938e-99f1">3</characteristic>
+                    <characteristic name="AP" typeId="7b9e-773a-52e5-d831">+2</characteristic>
+                    <characteristic name="DD" typeId="b7bc-1ffa-a61a-e2cf">4</characteristic>
+                    <characteristic name="Traits" typeId="3726-85d2-d1bf-74e0">Heavy</characteristic>
+                  </characteristics>
+                </profile>
+                <profile id="5548-b667-5e7c-4149" name="Turret Y (3 x 18.1-inch)" hidden="false" typeId="796f-a6ed-afe9-d390" typeName="Weapons">
+                  <characteristics>
+                    <characteristic name="Weapon System" typeId="e6d0-5b4e-63ac-5df4">Turret Y (3 x 18.1-inch)</characteristic>
+                    <characteristic name="Fire Arcs" typeId="55f7-a208-f3bc-9aa3">Port, Starboard, Aft</characteristic>
+                    <characteristic name="Point Blank" typeId="582e-83ce-ab46-499f">11&quot;</characteristic>
+                    <characteristic name="Short" typeId="b870-c868-b685-0d61">23&quot;</characteristic>
+                    <characteristic name="Long" typeId="dc83-46b7-b2fc-c169">34&quot;</characteristic>
+                    <characteristic name="Extreme" typeId="a6e3-b21c-3c17-e6de">46&quot;</characteristic>
+                    <characteristic name="AD" typeId="c713-7f6f-938e-99f1">3</characteristic>
+                    <characteristic name="AP" typeId="7b9e-773a-52e5-d831">+2</characteristic>
+                    <characteristic name="DD" typeId="b7bc-1ffa-a61a-e2cf">4</characteristic>
+                    <characteristic name="Traits" typeId="3726-85d2-d1bf-74e0">Heavy</characteristic>
+                  </characteristics>
+                </profile>
+                <profile id="8698-3518-6dad-67fe" name="Turret AA (3 x 6.1-inch)" hidden="false" typeId="796f-a6ed-afe9-d390" typeName="Weapons">
+                  <characteristics>
+                    <characteristic name="Weapon System" typeId="e6d0-5b4e-63ac-5df4">Turret AA (3 x 6.1-inch)</characteristic>
+                    <characteristic name="Fire Arcs" typeId="55f7-a208-f3bc-9aa3">Forward, Port, Starboard</characteristic>
+                    <characteristic name="Point Blank" typeId="582e-83ce-ab46-499f">7&quot;</characteristic>
+                    <characteristic name="Short" typeId="b870-c868-b685-0d61">15&quot;</characteristic>
+                    <characteristic name="Long" typeId="dc83-46b7-b2fc-c169">22&quot;</characteristic>
+                    <characteristic name="Extreme" typeId="a6e3-b21c-3c17-e6de">30&quot;</characteristic>
+                    <characteristic name="AD" typeId="c713-7f6f-938e-99f1">2</characteristic>
+                    <characteristic name="AP" typeId="7b9e-773a-52e5-d831">-1</characteristic>
+                    <characteristic name="DD" typeId="b7bc-1ffa-a61a-e2cf">1</characteristic>
+                    <characteristic name="Traits" typeId="3726-85d2-d1bf-74e0"/>
+                  </characteristics>
+                </profile>
+                <profile id="2aae-a245-0304-61e2" name="Turret P (3 x 6.1-inch)" hidden="false" typeId="796f-a6ed-afe9-d390" typeName="Weapons">
+                  <characteristics>
+                    <characteristic name="Weapon System" typeId="e6d0-5b4e-63ac-5df4">Turret P (3 x 6.1-inch)</characteristic>
+                    <characteristic name="Fire Arcs" typeId="55f7-a208-f3bc-9aa3">Port</characteristic>
+                    <characteristic name="Point Blank" typeId="582e-83ce-ab46-499f">7&quot;</characteristic>
+                    <characteristic name="Short" typeId="b870-c868-b685-0d61">15&quot;</characteristic>
+                    <characteristic name="Long" typeId="dc83-46b7-b2fc-c169">22&quot;</characteristic>
+                    <characteristic name="Extreme" typeId="a6e3-b21c-3c17-e6de">30&quot;</characteristic>
+                    <characteristic name="AD" typeId="c713-7f6f-938e-99f1">2</characteristic>
+                    <characteristic name="AP" typeId="7b9e-773a-52e5-d831">-1</characteristic>
+                    <characteristic name="DD" typeId="b7bc-1ffa-a61a-e2cf">1</characteristic>
+                    <characteristic name="Traits" typeId="3726-85d2-d1bf-74e0"/>
+                  </characteristics>
+                </profile>
+                <profile id="2eb5-c438-5d7d-55c5" name="Turret S (3 x 6.1-inch)" hidden="false" typeId="796f-a6ed-afe9-d390" typeName="Weapons">
+                  <characteristics>
+                    <characteristic name="Weapon System" typeId="e6d0-5b4e-63ac-5df4">Turret S (3 x 6.1-inch)</characteristic>
+                    <characteristic name="Fire Arcs" typeId="55f7-a208-f3bc-9aa3">Starboard</characteristic>
+                    <characteristic name="Point Blank" typeId="582e-83ce-ab46-499f">7&quot;</characteristic>
+                    <characteristic name="Short" typeId="b870-c868-b685-0d61">15&quot;</characteristic>
+                    <characteristic name="Long" typeId="dc83-46b7-b2fc-c169">22&quot;</characteristic>
+                    <characteristic name="Extreme" typeId="a6e3-b21c-3c17-e6de">30&quot;</characteristic>
+                    <characteristic name="AD" typeId="c713-7f6f-938e-99f1">2</characteristic>
+                    <characteristic name="AP" typeId="7b9e-773a-52e5-d831">-1</characteristic>
+                    <characteristic name="DD" typeId="b7bc-1ffa-a61a-e2cf">1</characteristic>
+                    <characteristic name="Traits" typeId="3726-85d2-d1bf-74e0"/>
+                  </characteristics>
+                </profile>
+                <profile id="a1c7-4b8c-2003-c56f" name="Turret YY (3 x 6.1-inch)" hidden="false" typeId="796f-a6ed-afe9-d390" typeName="Weapons">
+                  <characteristics>
+                    <characteristic name="Weapon System" typeId="e6d0-5b4e-63ac-5df4">Turret YY (3 x 6.1-inch)</characteristic>
+                    <characteristic name="Fire Arcs" typeId="55f7-a208-f3bc-9aa3">Port, Starboard, Aft</characteristic>
+                    <characteristic name="Point Blank" typeId="582e-83ce-ab46-499f">7&quot;</characteristic>
+                    <characteristic name="Short" typeId="b870-c868-b685-0d61">15&quot;</characteristic>
+                    <characteristic name="Long" typeId="dc83-46b7-b2fc-c169">22&quot;</characteristic>
+                    <characteristic name="Extreme" typeId="a6e3-b21c-3c17-e6de">30&quot;</characteristic>
+                    <characteristic name="AD" typeId="c713-7f6f-938e-99f1">2</characteristic>
+                    <characteristic name="AP" typeId="7b9e-773a-52e5-d831">-1</characteristic>
+                    <characteristic name="DD" typeId="b7bc-1ffa-a61a-e2cf">1</characteristic>
+                    <characteristic name="Traits" typeId="3726-85d2-d1bf-74e0"/>
+                  </characteristics>
+                </profile>
+                <profile id="ebcb-57b5-7f08-3ba1" name="Lights Guns (12 x 5-inch)" hidden="false" typeId="796f-a6ed-afe9-d390" typeName="Weapons">
+                  <characteristics>
+                    <characteristic name="Weapon System" typeId="e6d0-5b4e-63ac-5df4">Lights Guns (12 x 5-inch)</characteristic>
+                    <characteristic name="Fire Arcs" typeId="55f7-a208-f3bc-9aa3">Forward, Port, Starboard, Aft</characteristic>
+                    <characteristic name="Point Blank" typeId="582e-83ce-ab46-499f">4&quot;</characteristic>
+                    <characteristic name="Short" typeId="b870-c868-b685-0d61">8&quot;</characteristic>
+                    <characteristic name="Long" typeId="dc83-46b7-b2fc-c169">12&quot;</characteristic>
+                    <characteristic name="Extreme" typeId="a6e3-b21c-3c17-e6de">16&quot;</characteristic>
+                    <characteristic name="AD" typeId="c713-7f6f-938e-99f1">8</characteristic>
+                    <characteristic name="AP" typeId="7b9e-773a-52e5-d831">-2</characteristic>
+                    <characteristic name="DD" typeId="b7bc-1ffa-a61a-e2cf">1</characteristic>
+                    <characteristic name="Traits" typeId="3726-85d2-d1bf-74e0">DP, Restricted, Weak</characteristic>
+                  </characteristics>
+                </profile>
+                <profile id="2deb-a148-8a00-bb4d" name="AA Battery" hidden="false" typeId="796f-a6ed-afe9-d390" typeName="Weapons">
+                  <characteristics>
+                    <characteristic name="Weapon System" typeId="e6d0-5b4e-63ac-5df4">AA Battery</characteristic>
+                    <characteristic name="Fire Arcs" typeId="55f7-a208-f3bc-9aa3">Forward, Port, Starboard, Aft</characteristic>
+                    <characteristic name="Point Blank" typeId="582e-83ce-ab46-499f">-</characteristic>
+                    <characteristic name="Short" typeId="b870-c868-b685-0d61">-</characteristic>
+                    <characteristic name="Long" typeId="dc83-46b7-b2fc-c169">-</characteristic>
+                    <characteristic name="Extreme" typeId="a6e3-b21c-3c17-e6de">-</characteristic>
+                    <characteristic name="AD" typeId="c713-7f6f-938e-99f1">-</characteristic>
+                    <characteristic name="AP" typeId="7b9e-773a-52e5-d831">-</characteristic>
+                    <characteristic name="DD" typeId="b7bc-1ffa-a61a-e2cf">-</characteristic>
+                    <characteristic name="Traits" typeId="3726-85d2-d1bf-74e0">Local 2</characteristic>
+                  </characteristics>
+                </profile>
+              </profiles>
+              <infoLinks>
+                <infoLink id="02cd-1004-1d9e-b52f" name="Torpedo Belt X" hidden="false" targetId="06e2-04c0-a61e-6782" type="rule"/>
+                <infoLink id="4272-5cc9-9825-21c9" name="Heavy" hidden="false" targetId="fb9e-cde9-1f40-2798" type="rule"/>
+                <infoLink id="2571-f0a8-1391-c8f7" name="Aircraft X" hidden="false" targetId="1ef9-ea71-f5a9-9a89" type="rule"/>
+                <infoLink id="05c8-75aa-2be5-4a86" name="DP" hidden="false" targetId="1702-ac00-36c9-6c99" type="rule"/>
+                <infoLink id="acac-f27e-10c5-4649" name="Armoured Deck" hidden="false" targetId="1848-51d0-a543-c9cf" type="rule"/>
+                <infoLink id="44f1-f3d6-533e-02d4" name="Local X" hidden="false" targetId="f1a5-d97a-af9f-2d28" type="rule"/>
+                <infoLink id="9531-4b8d-f0de-31ed" name="Weak" hidden="false" targetId="5b07-b3b1-f13e-fa4c" type="rule"/>
+                <infoLink id="83c6-9a5e-171b-4df3" name="Restricted" hidden="false" targetId="5a5b-a94f-847f-8c0f" type="rule"/>
+              </infoLinks>
+              <costs>
+                <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="5.0"/>
+              </costs>
+            </selectionEntry>
+            <selectionEntry id="925b-688e-b402-7bee" name="Musashi Refit 1944" hidden="false" collective="false" import="true" type="model">
+              <profiles>
+                <profile id="4540-eb5f-d2e0-ee9f" name="Musashi" hidden="false" typeId="c2ff-d17b-11ef-a25b" typeName="Ship">
+                  <characteristics>
+                    <characteristic name="Type" typeId="80fc-5c61-9cdb-16be">Battleship</characteristic>
+                    <characteristic name="Flank Speed" typeId="10ed-e7a2-0a80-9a23">5&quot;</characteristic>
+                    <characteristic name="Armor" typeId="eeaf-1df1-c012-6447">7+</characteristic>
+                    <characteristic name="Hull" typeId="7c0b-ef03-ef3e-abeb">146</characteristic>
+                    <characteristic name="Crippled" typeId="99c0-c6ff-cdd5-7254">48</characteristic>
+                    <characteristic name="Traits" typeId="70e0-26ef-8a74-fcb0">Aircraft 7, Armored Deck, Torpedo Belt 3</characteristic>
+                    <characteristic name="Points" typeId="285a-5546-b819-e547">1090</characteristic>
+                  </characteristics>
+                </profile>
+                <profile id="0558-18df-b2f3-9d07" name="Turret B (3 x 18.1-inch)" hidden="false" typeId="796f-a6ed-afe9-d390" typeName="Weapons">
+                  <characteristics>
+                    <characteristic name="Weapon System" typeId="e6d0-5b4e-63ac-5df4">Turret B (3 x 18.1-inch)</characteristic>
+                    <characteristic name="Fire Arcs" typeId="55f7-a208-f3bc-9aa3">Forward, Port, Starboard</characteristic>
+                    <characteristic name="Point Blank" typeId="582e-83ce-ab46-499f">11&quot;</characteristic>
+                    <characteristic name="Short" typeId="b870-c868-b685-0d61">23&quot;</characteristic>
+                    <characteristic name="Long" typeId="dc83-46b7-b2fc-c169">34&quot;</characteristic>
+                    <characteristic name="Extreme" typeId="a6e3-b21c-3c17-e6de">46&quot;</characteristic>
+                    <characteristic name="AD" typeId="c713-7f6f-938e-99f1">3</characteristic>
+                    <characteristic name="AP" typeId="7b9e-773a-52e5-d831">+2</characteristic>
+                    <characteristic name="DD" typeId="b7bc-1ffa-a61a-e2cf">4</characteristic>
+                    <characteristic name="Traits" typeId="3726-85d2-d1bf-74e0">Heavy</characteristic>
+                  </characteristics>
+                </profile>
+                <profile id="dca7-97dd-3f71-d26a" name="Turret A (3 x 18.1-inch)" hidden="false" typeId="796f-a6ed-afe9-d390" typeName="Weapons">
+                  <characteristics>
+                    <characteristic name="Weapon System" typeId="e6d0-5b4e-63ac-5df4">Turret A (3 x 18.1-inch)</characteristic>
+                    <characteristic name="Fire Arcs" typeId="55f7-a208-f3bc-9aa3">Forward, Port, Starboard</characteristic>
+                    <characteristic name="Point Blank" typeId="582e-83ce-ab46-499f">11&quot;</characteristic>
+                    <characteristic name="Short" typeId="b870-c868-b685-0d61">23&quot;</characteristic>
+                    <characteristic name="Long" typeId="dc83-46b7-b2fc-c169">34&quot;</characteristic>
+                    <characteristic name="Extreme" typeId="a6e3-b21c-3c17-e6de">46&quot;</characteristic>
+                    <characteristic name="AD" typeId="c713-7f6f-938e-99f1">3</characteristic>
+                    <characteristic name="AP" typeId="7b9e-773a-52e5-d831">+2</characteristic>
+                    <characteristic name="DD" typeId="b7bc-1ffa-a61a-e2cf">4</characteristic>
+                    <characteristic name="Traits" typeId="3726-85d2-d1bf-74e0">Heavy</characteristic>
+                  </characteristics>
+                </profile>
+                <profile id="fdfc-0a7a-0c7d-78a3" name="Turret Y (3 x 18.1-inch)" hidden="false" typeId="796f-a6ed-afe9-d390" typeName="Weapons">
+                  <characteristics>
+                    <characteristic name="Weapon System" typeId="e6d0-5b4e-63ac-5df4">Turret Y (3 x 18.1-inch)</characteristic>
+                    <characteristic name="Fire Arcs" typeId="55f7-a208-f3bc-9aa3">Port, Starboard, Aft</characteristic>
+                    <characteristic name="Point Blank" typeId="582e-83ce-ab46-499f">11&quot;</characteristic>
+                    <characteristic name="Short" typeId="b870-c868-b685-0d61">23&quot;</characteristic>
+                    <characteristic name="Long" typeId="dc83-46b7-b2fc-c169">34&quot;</characteristic>
+                    <characteristic name="Extreme" typeId="a6e3-b21c-3c17-e6de">46&quot;</characteristic>
+                    <characteristic name="AD" typeId="c713-7f6f-938e-99f1">3</characteristic>
+                    <characteristic name="AP" typeId="7b9e-773a-52e5-d831">+2</characteristic>
+                    <characteristic name="DD" typeId="b7bc-1ffa-a61a-e2cf">4</characteristic>
+                    <characteristic name="Traits" typeId="3726-85d2-d1bf-74e0">Heavy</characteristic>
+                  </characteristics>
+                </profile>
+                <profile id="0604-3da2-5bab-53da" name="Turret AA (3 x 6.1-inch)" hidden="false" typeId="796f-a6ed-afe9-d390" typeName="Weapons">
+                  <characteristics>
+                    <characteristic name="Weapon System" typeId="e6d0-5b4e-63ac-5df4">Turret AA (3 x 6.1-inch)</characteristic>
+                    <characteristic name="Fire Arcs" typeId="55f7-a208-f3bc-9aa3">Forward, Port, Starboard</characteristic>
+                    <characteristic name="Point Blank" typeId="582e-83ce-ab46-499f">7&quot;</characteristic>
+                    <characteristic name="Short" typeId="b870-c868-b685-0d61">15&quot;</characteristic>
+                    <characteristic name="Long" typeId="dc83-46b7-b2fc-c169">22&quot;</characteristic>
+                    <characteristic name="Extreme" typeId="a6e3-b21c-3c17-e6de">30&quot;</characteristic>
+                    <characteristic name="AD" typeId="c713-7f6f-938e-99f1">2</characteristic>
+                    <characteristic name="AP" typeId="7b9e-773a-52e5-d831">-1</characteristic>
+                    <characteristic name="DD" typeId="b7bc-1ffa-a61a-e2cf">1</characteristic>
+                    <characteristic name="Traits" typeId="3726-85d2-d1bf-74e0"/>
+                  </characteristics>
+                </profile>
+                <profile id="cea7-6711-63d4-d8cb" name="Turret YY (3 x 6.1-inch)" hidden="false" typeId="796f-a6ed-afe9-d390" typeName="Weapons">
+                  <characteristics>
+                    <characteristic name="Weapon System" typeId="e6d0-5b4e-63ac-5df4">Turret YY (3 x 6.1-inch)</characteristic>
+                    <characteristic name="Fire Arcs" typeId="55f7-a208-f3bc-9aa3">Port, Starboard, Aft</characteristic>
+                    <characteristic name="Point Blank" typeId="582e-83ce-ab46-499f">7&quot;</characteristic>
+                    <characteristic name="Short" typeId="b870-c868-b685-0d61">15&quot;</characteristic>
+                    <characteristic name="Long" typeId="dc83-46b7-b2fc-c169">22&quot;</characteristic>
+                    <characteristic name="Extreme" typeId="a6e3-b21c-3c17-e6de">30&quot;</characteristic>
+                    <characteristic name="AD" typeId="c713-7f6f-938e-99f1">2</characteristic>
+                    <characteristic name="AP" typeId="7b9e-773a-52e5-d831">-1</characteristic>
+                    <characteristic name="DD" typeId="b7bc-1ffa-a61a-e2cf">1</characteristic>
+                    <characteristic name="Traits" typeId="3726-85d2-d1bf-74e0"/>
+                  </characteristics>
+                </profile>
+                <profile id="bc79-a10d-937d-07f6" name="Lights Guns (12 x 5-inch)" hidden="false" typeId="796f-a6ed-afe9-d390" typeName="Weapons">
+                  <characteristics>
+                    <characteristic name="Weapon System" typeId="e6d0-5b4e-63ac-5df4">Lights Guns (12 x 5-inch)</characteristic>
+                    <characteristic name="Fire Arcs" typeId="55f7-a208-f3bc-9aa3">Forward, Port, Starboard, Aft</characteristic>
+                    <characteristic name="Point Blank" typeId="582e-83ce-ab46-499f">4&quot;</characteristic>
+                    <characteristic name="Short" typeId="b870-c868-b685-0d61">8&quot;</characteristic>
+                    <characteristic name="Long" typeId="dc83-46b7-b2fc-c169">12&quot;</characteristic>
+                    <characteristic name="Extreme" typeId="a6e3-b21c-3c17-e6de">16&quot;</characteristic>
+                    <characteristic name="AD" typeId="c713-7f6f-938e-99f1">8</characteristic>
+                    <characteristic name="AP" typeId="7b9e-773a-52e5-d831">-2</characteristic>
+                    <characteristic name="DD" typeId="b7bc-1ffa-a61a-e2cf">1</characteristic>
+                    <characteristic name="Traits" typeId="3726-85d2-d1bf-74e0">DP, Restricted, Weak</characteristic>
+                  </characteristics>
+                </profile>
+                <profile id="4723-478f-ae10-33f9" name="AA Battery" hidden="false" typeId="796f-a6ed-afe9-d390" typeName="Weapons">
+                  <characteristics>
+                    <characteristic name="Weapon System" typeId="e6d0-5b4e-63ac-5df4">AA Battery</characteristic>
+                    <characteristic name="Fire Arcs" typeId="55f7-a208-f3bc-9aa3">Forward, Port, Starboard, Aft</characteristic>
+                    <characteristic name="Point Blank" typeId="582e-83ce-ab46-499f">-</characteristic>
+                    <characteristic name="Short" typeId="b870-c868-b685-0d61">-</characteristic>
+                    <characteristic name="Long" typeId="dc83-46b7-b2fc-c169">-</characteristic>
+                    <characteristic name="Extreme" typeId="a6e3-b21c-3c17-e6de">-</characteristic>
+                    <characteristic name="AD" typeId="c713-7f6f-938e-99f1">-</characteristic>
+                    <characteristic name="AP" typeId="7b9e-773a-52e5-d831">-</characteristic>
+                    <characteristic name="DD" typeId="b7bc-1ffa-a61a-e2cf">-</characteristic>
+                    <characteristic name="Traits" typeId="3726-85d2-d1bf-74e0">Local 7</characteristic>
+                  </characteristics>
+                </profile>
+              </profiles>
+              <infoLinks>
+                <infoLink id="3163-acbf-0b4b-d614" name="Torpedo Belt X" hidden="false" targetId="06e2-04c0-a61e-6782" type="rule"/>
+                <infoLink id="2994-5533-29cd-9f14" name="Heavy" hidden="false" targetId="fb9e-cde9-1f40-2798" type="rule"/>
+                <infoLink id="8a30-9c12-6368-0897" name="Aircraft X" hidden="false" targetId="1ef9-ea71-f5a9-9a89" type="rule"/>
+                <infoLink id="8e65-0c2b-7580-9121" name="DP" hidden="false" targetId="1702-ac00-36c9-6c99" type="rule"/>
+                <infoLink id="9314-9660-cd7a-0396" name="Armoured Deck" hidden="false" targetId="1848-51d0-a543-c9cf" type="rule"/>
+                <infoLink id="b0f6-1248-066a-6b3e" name="Local X" hidden="false" targetId="f1a5-d97a-af9f-2d28" type="rule"/>
+                <infoLink id="f920-cdbb-02c1-1884" name="Weak" hidden="false" targetId="5b07-b3b1-f13e-fa4c" type="rule"/>
+                <infoLink id="2b3c-9e9d-acfc-757a" name="Restricted" hidden="false" targetId="5a5b-a94f-847f-8c0f" type="rule"/>
+                <infoLink id="67be-26a7-b34c-8543" name="Sub-Hunter" hidden="false" targetId="919e-7b59-d60a-ad1e" type="rule"/>
+                <infoLink id="390d-2ed5-ae86-43a6" name="Radar" hidden="false" targetId="a540-d4b9-4520-5ea1" type="rule"/>
+              </infoLinks>
+              <costs>
+                <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="90.0"/>
+              </costs>
+            </selectionEntry>
+          </selectionEntries>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="1000.0"/>
       </costs>
     </selectionEntry>
   </sharedSelectionEntries>

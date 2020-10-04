@@ -3,7 +3,7 @@
   <entryLinks>
     <entryLink id="376d-a010-14b1-04a0" name="Dido-Class Anti-Aircraft Cruiser" hidden="false" collective="false" import="true" targetId="33d6-d716-50f1-c641" type="selectionEntry">
       <categoryLinks>
-        <categoryLink id="1b80-38cd-cf2c-9510" name="Destroyer" hidden="false" targetId="b241-6ad8-94a2-cc48" primary="true"/>
+        <categoryLink id="fd3a-9d7d-bcad-c361" name="New CategoryLink" hidden="false" targetId="f46e-c2a8-5a64-daf9" primary="true"/>
       </categoryLinks>
     </entryLink>
     <entryLink id="aee7-f8d9-9821-1b6d" name="Tribal-Class Destroyer" hidden="false" collective="false" import="true" targetId="86e4-a3e6-402a-7e6a" type="selectionEntry">
