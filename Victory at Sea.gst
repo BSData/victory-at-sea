@@ -41,6 +41,17 @@
         <characteristicType id="4987-2d92-bb96-5dd5" name="Points"/>
       </characteristicTypes>
     </profileType>
+    <profileType id="1868-7d9b-0f8f-2e93" name="Motor Torpedo Boat">
+      <characteristicTypes>
+        <characteristicType id="45d6-b610-abe6-fe59" name="Section"/>
+        <characteristicType id="09ee-6002-00ca-2ae2" name="Flank Speed"/>
+        <characteristicType id="92cd-0522-a371-1149" name="Armour"/>
+        <characteristicType id="aa4a-578d-f576-6ec5" name="Smoke"/>
+        <characteristicType id="b5fd-db81-fab6-b4f0" name="AA Battery"/>
+        <characteristicType id="47ec-d4fb-776b-1dfd" name="Torpedoes"/>
+        <characteristicType id="28ae-ce44-3a17-26d7" name="Weapons"/>
+      </characteristicTypes>
+    </profileType>
   </profileTypes>
   <categoryEntries>
     <categoryEntry id="e0ad-a3fc-05dc-2e3c" name="Fleet" hidden="false"/>
@@ -56,6 +67,8 @@
     <categoryEntry id="da58-44be-bb7f-80d6" name="Aircraft Carrier" hidden="false"/>
     <categoryEntry id="c08d-d9af-1109-9c27" name="Aircraft Flight" hidden="false"/>
     <categoryEntry id="be79-ea08-0c7b-609c" name="Civilian" hidden="false"/>
+    <categoryEntry id="3c73-d3d0-7c07-b8e5" name="Submarine" hidden="false"/>
+    <categoryEntry id="cf88-2062-68e4-b49a" name="Motor Torpedo Boat" hidden="false"/>
   </categoryEntries>
   <forceEntries>
     <forceEntry id="9707-b4d0-2007-bbf6" name="Fleet" hidden="false">
@@ -66,6 +79,8 @@
         <categoryLink id="9e32-11d8-b894-654b" name="Cruiser" hidden="false" targetId="f46e-c2a8-5a64-daf9" primary="false"/>
         <categoryLink id="af42-cc1c-8240-7080" name="Destroyer" hidden="false" targetId="b241-6ad8-94a2-cc48" primary="false"/>
         <categoryLink id="5c5c-7031-8552-c399" name="Civilian" hidden="false" targetId="be79-ea08-0c7b-609c" primary="false"/>
+        <categoryLink id="56d4-3a9b-89a9-5f76" name="Motor Torpedo Boat" hidden="false" targetId="cf88-2062-68e4-b49a" primary="false"/>
+        <categoryLink id="5717-ceee-dad0-cac8" name="Submarine" hidden="false" targetId="3c73-d3d0-7c07-b8e5" primary="false"/>
       </categoryLinks>
     </forceEntry>
   </forceEntries>
