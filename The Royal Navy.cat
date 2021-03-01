@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<catalogue id="566c-1bb1-b722-6426" name="The Royal Navy NH" revision="6" battleScribeVersion="2.03" library="false" gameSystemId="d551-9646-dd17-819a" gameSystemRevision="1" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
+<catalogue id="566c-1bb1-b722-6426" name="The Royal Navy" revision="7" battleScribeVersion="2.03" library="false" gameSystemId="d551-9646-dd17-819a" gameSystemRevision="1" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
   <entryLinks>
     <entryLink id="376d-a010-14b1-04a0" name="Dido-Class Cruiser (1st Group)" hidden="false" collective="false" import="true" targetId="33d6-d716-50f1-c641" type="selectionEntry">
       <categoryLinks>
