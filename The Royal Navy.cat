@@ -10080,7 +10080,7 @@
         </selectionEntry>
       </selectionEntries>
       <costs>
-        <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+        <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="70.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="3b15-1843-87a2-c920" name="C-Class Cruiser (Type 3A)" hidden="false" collective="false" import="true" type="unit">
