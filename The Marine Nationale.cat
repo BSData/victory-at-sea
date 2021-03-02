@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<catalogue id="e078-ecb0-55ae-d157" name="The Marine Nationale" revision="1" battleScribeVersion="2.03" library="false" gameSystemId="d551-9646-dd17-819a" gameSystemRevision="1" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
+  <sharedSelectionEntryGroups>
+    <selectionEntryGroup id="936c-6c46-c552-b766" name="Carrier Flights" hidden="false" collective="false" import="true">
+      <selectionEntries>
+        <selectionEntry id="9078-398e-d15b-5634" name="Levasseur PL.7 Series 2" hidden="false" collective="false" import="true" type="model">
+          <categoryLinks>
+            <categoryLink id="fab7-65f8-f53b-132c" name="Aircraft Flight" hidden="false" targetId="c08d-d9af-1109-9c27" primary="false"/>
+          </categoryLinks>
+        </selectionEntry>
+        <selectionEntry id="dcd2-eeed-144a-3817" name="Loire-Nieuport LN.411" hidden="false" collective="false" import="true" type="model">
+          <categoryLinks>
+            <categoryLink id="99ca-6ddb-0873-ecb7" name="Aircraft Flight" hidden="false" targetId="c08d-d9af-1109-9c27" primary="false"/>
+          </categoryLinks>
+        </selectionEntry>
+      </selectionEntries>
+    </selectionEntryGroup>
+  </sharedSelectionEntryGroups>
+</catalogue>
