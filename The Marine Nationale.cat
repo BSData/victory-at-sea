@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<catalogue id="e078-ecb0-55ae-d157" name="The Marine Nationale" revision="1" battleScribeVersion="2.03" library="false" gameSystemId="d551-9646-dd17-819a" gameSystemRevision="1" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
+<catalogue id="e078-ecb0-55ae-d157" name="The Marine Nationale" revision="2" battleScribeVersion="2.03" library="false" gameSystemId="d551-9646-dd17-819a" gameSystemRevision="1" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
   <entryLinks>
     <entryLink id="b1fb-b6fd-e442-93f2" name="Bretagne-Class Battleship" hidden="false" collective="false" import="true" targetId="66a2-af11-35b7-c340" type="selectionEntry">
       <categoryLinks>
@@ -31,7 +31,11 @@
         <categoryLink id="e96b-9f5d-3803-a7e4" name="New CategoryLink" hidden="false" targetId="f46e-c2a8-5a64-daf9" primary="true"/>
       </categoryLinks>
     </entryLink>
-    <entryLink id="1a44-a3c4-1e8d-34b2" name="Duguay-Trouin Cruiser" hidden="false" collective="false" import="true" targetId="e48b-2522-0c15-95a4" type="selectionEntry"/>
+    <entryLink id="1a44-a3c4-1e8d-34b2" name="Duguay-Trouin Cruiser" hidden="false" collective="false" import="true" targetId="e48b-2522-0c15-95a4" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="76f1-9612-1885-62c0" name="New CategoryLink" hidden="false" targetId="f46e-c2a8-5a64-daf9" primary="true"/>
+      </categoryLinks>
+    </entryLink>
     <entryLink id="200f-a766-ee84-0d60" name="Duquesne-Class Cruiser" hidden="false" collective="false" import="true" targetId="82ed-f98c-783e-b7f0" type="selectionEntry">
       <categoryLinks>
         <categoryLink id="3f08-ada1-505b-a962" name="New CategoryLink" hidden="false" targetId="f46e-c2a8-5a64-daf9" primary="true"/>
@@ -89,7 +93,7 @@
     </entryLink>
     <entryLink id="b62b-e0ed-5fb4-baf1" name="Surcouf-Class Submarine" hidden="false" collective="false" import="true" targetId="3223-bbd5-43ac-03fc" type="selectionEntry">
       <categoryLinks>
-        <categoryLink id="99f7-4720-3777-c641" name="New CategoryLink" hidden="false" targetId="b241-6ad8-94a2-cc48" primary="true"/>
+        <categoryLink id="8f9b-63c2-7d75-759f" name="New CategoryLink" hidden="false" targetId="3c73-d3d0-7c07-b8e5" primary="true"/>
       </categoryLinks>
     </entryLink>
     <entryLink id="b9f1-c5c0-cf48-4012" name="Dewoitine D.520 - Fighter" hidden="false" collective="false" import="true" targetId="e781-e92a-45ce-43cd" type="selectionEntry">
@@ -1502,10 +1506,17 @@
                 <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="7b78-23e6-8247-6171" type="max"/>
               </constraints>
               <selectionEntries>
-                <selectionEntry id="07e7-2422-f9bd-85a1" name="L&apos;Audacieux" hidden="false" collective="false" import="true" type="upgrade"/>
+                <selectionEntry id="07e7-2422-f9bd-85a1" name="L&apos;Audacieux" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
               </selectionEntries>
             </selectionEntryGroup>
           </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
         </selectionEntry>
         <selectionEntry id="d7a0-e96c-ca1b-62c0" name="L&apos;Indomptable" hidden="false" collective="false" import="true" type="unit">
           <selectionEntryGroups>
@@ -1515,10 +1526,17 @@
                 <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="dc2c-5efc-f485-b34e" type="max"/>
               </constraints>
               <selectionEntries>
-                <selectionEntry id="3e7e-9424-b8b6-0e8b" name="L&apos;Indomptable" hidden="false" collective="false" import="true" type="upgrade"/>
+                <selectionEntry id="3e7e-9424-b8b6-0e8b" name="L&apos;Indomptable" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
               </selectionEntries>
             </selectionEntryGroup>
           </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
         </selectionEntry>
         <selectionEntry id="bb74-340b-baed-ab3f" name="Le Fantasque" hidden="false" collective="false" import="true" type="unit">
           <selectionEntryGroups>
@@ -1528,7 +1546,11 @@
                 <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="2955-7010-ec02-1fce" type="max"/>
               </constraints>
               <selectionEntries>
-                <selectionEntry id="4a2d-a1d2-428e-1d54" name="Le Fantasque" hidden="false" collective="false" import="true" type="upgrade"/>
+                <selectionEntry id="4a2d-a1d2-428e-1d54" name="Le Fantasque" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
                 <selectionEntry id="d1e2-b4fe-3257-9606" name="Le Fantasque 1943" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="15.0"/>
@@ -1537,6 +1559,9 @@
               </selectionEntries>
             </selectionEntryGroup>
           </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
         </selectionEntry>
         <selectionEntry id="bc6f-f06c-74c3-b5df" name="Le Malin" hidden="false" collective="false" import="true" type="unit">
           <selectionEntryGroups>
@@ -1546,7 +1571,11 @@
                 <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="ad53-faa0-8077-25b8" type="max"/>
               </constraints>
               <selectionEntries>
-                <selectionEntry id="025a-f286-e7c3-4e59" name="Le Malin" hidden="false" collective="false" import="true" type="upgrade"/>
+                <selectionEntry id="025a-f286-e7c3-4e59" name="Le Malin" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
                 <selectionEntry id="ae17-c6b4-70b3-de5d" name="Le Malin 1943" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="15.0"/>
@@ -1555,6 +1584,9 @@
               </selectionEntries>
             </selectionEntryGroup>
           </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
         </selectionEntry>
         <selectionEntry id="0b79-b473-bcbf-6a07" name="Le Terrible" hidden="false" collective="false" import="true" type="model">
           <selectionEntryGroups>
@@ -1564,7 +1596,11 @@
                 <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="1d3d-dba5-5429-c693" type="max"/>
               </constraints>
               <selectionEntries>
-                <selectionEntry id="200b-cc44-6b12-540d" name="Le Terrible" hidden="false" collective="false" import="true" type="upgrade"/>
+                <selectionEntry id="200b-cc44-6b12-540d" name="Le Terrible" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
                 <selectionEntry id="9708-7ba8-00a9-211f" name="Le Terrible 1943" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="10.0"/>
@@ -1573,6 +1609,9 @@
               </selectionEntries>
             </selectionEntryGroup>
           </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
         </selectionEntry>
         <selectionEntry id="2218-2878-f6c4-6116" name="Le Triomphant" hidden="false" collective="false" import="true" type="model">
           <selectionEntryGroups>
@@ -1582,7 +1621,11 @@
                 <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="ab9a-c895-5e89-5d8b" type="max"/>
               </constraints>
               <selectionEntries>
-                <selectionEntry id="2723-224b-b05d-3c00" name="Le Triomphant" hidden="false" collective="false" import="true" type="upgrade"/>
+                <selectionEntry id="2723-224b-b05d-3c00" name="Le Triomphant" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
                 <selectionEntry id="a70e-5cb4-773a-ff88" name="Le Triomphant 1940" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="15.0"/>
@@ -1596,6 +1639,9 @@
               </selectionEntries>
             </selectionEntryGroup>
           </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
         </selectionEntry>
       </selectionEntries>
       <costs>
@@ -1616,7 +1662,11 @@
                 <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="e9ce-68dc-9a34-1d8c" type="max"/>
               </constraints>
               <selectionEntries>
-                <selectionEntry id="9c84-6eb7-53aa-6148" name="Mogador" hidden="false" collective="false" import="true" type="upgrade"/>
+                <selectionEntry id="9c84-6eb7-53aa-6148" name="Mogador" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
                 <selectionEntry id="365b-3998-2633-683f" name="Mogador 1941" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="-5.0"/>
@@ -1625,6 +1675,9 @@
               </selectionEntries>
             </selectionEntryGroup>
           </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
         </selectionEntry>
         <selectionEntry id="abc3-ecaa-eea8-061b" name="Volta" hidden="false" collective="false" import="true" type="model">
           <selectionEntryGroups>
@@ -1634,10 +1687,17 @@
                 <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="2e0d-c461-82e1-8ab8" type="max"/>
               </constraints>
               <selectionEntries>
-                <selectionEntry id="3a9a-fea2-bbe9-f876" name="Volta" hidden="false" collective="false" import="true" type="upgrade"/>
+                <selectionEntry id="3a9a-fea2-bbe9-f876" name="Volta" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
               </selectionEntries>
             </selectionEntryGroup>
           </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
         </selectionEntry>
       </selectionEntries>
       <costs>
@@ -1658,10 +1718,17 @@
                 <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="75d0-541a-b6d8-4c50" type="max"/>
               </constraints>
               <selectionEntries>
-                <selectionEntry id="b5a5-5401-13e4-1018" name="Ceres" hidden="false" collective="false" import="true" type="upgrade"/>
+                <selectionEntry id="b5a5-5401-13e4-1018" name="Ceres" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
               </selectionEntries>
             </selectionEntryGroup>
           </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
         </selectionEntry>
         <selectionEntry id="dbb3-bb2d-b60c-9de2" name="Iris" hidden="false" collective="false" import="true" type="model">
           <selectionEntryGroups>
@@ -1671,10 +1738,17 @@
                 <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="b24e-f642-3087-7a33" type="max"/>
               </constraints>
               <selectionEntries>
-                <selectionEntry id="90d6-ec5e-c98e-bfa6" name="Iris" hidden="false" collective="false" import="true" type="upgrade"/>
+                <selectionEntry id="90d6-ec5e-c98e-bfa6" name="Iris" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
               </selectionEntries>
             </selectionEntryGroup>
           </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
         </selectionEntry>
         <selectionEntry id="f00f-4ac6-b856-bed9" name="Junon" hidden="false" collective="false" import="true" type="model">
           <selectionEntryGroups>
@@ -1684,10 +1758,17 @@
                 <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="6eaa-cd41-5373-892f" type="max"/>
               </constraints>
               <selectionEntries>
-                <selectionEntry id="cebc-e004-af14-196d" name="Junon" hidden="false" collective="false" import="true" type="upgrade"/>
+                <selectionEntry id="cebc-e004-af14-196d" name="Junon" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
               </selectionEntries>
             </selectionEntryGroup>
           </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
         </selectionEntry>
         <selectionEntry id="9bbd-f136-1b79-fa72" name="Minevre" hidden="false" collective="false" import="true" type="model">
           <selectionEntryGroups>
@@ -1697,10 +1778,17 @@
                 <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="5cb7-0e1d-d446-32bc" type="max"/>
               </constraints>
               <selectionEntries>
-                <selectionEntry id="697b-6516-911a-a84d" name="Minevre" hidden="false" collective="false" import="true" type="upgrade"/>
+                <selectionEntry id="697b-6516-911a-a84d" name="Minevre" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
               </selectionEntries>
             </selectionEntryGroup>
           </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
         </selectionEntry>
         <selectionEntry id="3f9a-0742-152e-0957" name="Palas" hidden="false" collective="false" import="true" type="model">
           <selectionEntryGroups>
@@ -1710,10 +1798,17 @@
                 <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="8391-77aa-abb7-080e" type="max"/>
               </constraints>
               <selectionEntries>
-                <selectionEntry id="460a-562a-59f1-6aeb" name="Palas" hidden="false" collective="false" import="true" type="upgrade"/>
+                <selectionEntry id="460a-562a-59f1-6aeb" name="Palas" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
               </selectionEntries>
             </selectionEntryGroup>
           </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
         </selectionEntry>
         <selectionEntry id="208d-cd8e-ffec-250e" name="Venus" hidden="false" collective="false" import="true" type="model">
           <selectionEntryGroups>
@@ -1723,10 +1818,17 @@
                 <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="2e11-c7ec-ce59-96c3" type="max"/>
               </constraints>
               <selectionEntries>
-                <selectionEntry id="6b54-79d3-933b-0e37" name="Venus" hidden="false" collective="false" import="true" type="upgrade"/>
+                <selectionEntry id="6b54-79d3-933b-0e37" name="Venus" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
               </selectionEntries>
             </selectionEntryGroup>
           </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
         </selectionEntry>
       </selectionEntries>
       <costs>
@@ -1747,10 +1849,17 @@
                 <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="47f6-63bd-bee6-f1c2" type="max"/>
               </constraints>
               <selectionEntries>
-                <selectionEntry id="eb4c-166c-d329-ef71" name="Surcouf" hidden="false" collective="false" import="true" type="upgrade"/>
+                <selectionEntry id="eb4c-166c-d329-ef71" name="Surcouf" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
               </selectionEntries>
             </selectionEntryGroup>
           </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
         </selectionEntry>
       </selectionEntries>
       <costs>
