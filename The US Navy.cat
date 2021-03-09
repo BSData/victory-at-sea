@@ -97,6 +97,46 @@
         <categoryLink id="5cbf-9cb0-b33d-b69d" name="New CategoryLink" hidden="false" targetId="da58-44be-bb7f-80d6" primary="true"/>
       </categoryLinks>
     </entryLink>
+    <entryLink id="e8c0-8a64-1a51-ef45" name="Independance-Class Cruiser" hidden="false" collective="false" import="true" targetId="5d32-98e5-063a-92c5" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="21f0-f677-9d14-022f" name="New CategoryLink" hidden="false" targetId="da58-44be-bb7f-80d6" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="1388-80e3-47dd-7d10" name="Lexington-Class Carrier" hidden="false" collective="false" import="true" targetId="1a1d-6a91-4f7c-cae0" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="14be-f69c-9ef9-2b8e" name="New CategoryLink" hidden="false" targetId="da58-44be-bb7f-80d6" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="dc21-f336-e346-0e82" name="Long Island-Class Carrier" hidden="false" collective="false" import="true" targetId="5950-1d24-37aa-2e89" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="c5d8-8772-050d-b91c" name="New CategoryLink" hidden="false" targetId="da58-44be-bb7f-80d6" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="5ffe-e771-b611-1c7a" name="Midway-Class Carrier" hidden="false" collective="false" import="true" targetId="ccd0-61e9-b15e-5629" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="3dbe-fd89-adef-30d2" name="New CategoryLink" hidden="false" targetId="da58-44be-bb7f-80d6" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="3f4d-3cd5-e221-e7dd" name="Ranger-Class Carrier" hidden="false" collective="false" import="true" targetId="e599-8985-c5b6-7d00" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="b798-0982-9301-c4e6" name="New CategoryLink" hidden="false" targetId="da58-44be-bb7f-80d6" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="0983-00c2-2411-49b0" name="Sangamon-Class Carrier" hidden="false" collective="false" import="true" targetId="05d6-d7ca-855d-f1f3" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="bcc8-5b91-489b-85d0" name="New CategoryLink" hidden="false" targetId="da58-44be-bb7f-80d6" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="896d-096c-b57b-94a8" name="Wasp-Class Carrier" hidden="false" collective="false" import="true" targetId="d263-35e9-4a40-ec4f" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="4e0b-26b8-f405-c969" name="New CategoryLink" hidden="false" targetId="da58-44be-bb7f-80d6" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="1c54-a024-603e-bb5a" name="Yorktown-Class Carrier" hidden="false" collective="false" import="true" targetId="30ac-cbee-2472-c257" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="7279-42bb-948c-3283" name="New CategoryLink" hidden="false" targetId="da58-44be-bb7f-80d6" primary="true"/>
+      </categoryLinks>
+    </entryLink>
   </entryLinks>
   <rules>
     <rule id="8c0f-d790-7701-1ea3" name="Torpedoes" hidden="false">
@@ -18094,7 +18134,11 @@
                 <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="6d5d-1694-6fb0-9339" type="max"/>
               </constraints>
               <selectionEntries>
-                <selectionEntry id="98ba-9b7e-7dfa-cc83" name="Altamaha" hidden="false" collective="false" import="true" type="upgrade"/>
+                <selectionEntry id="98ba-9b7e-7dfa-cc83" name="Altamaha" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
                 <selectionEntry id="ea77-3bdb-ced1-6580" name="Altamaha 1943" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="10.0"/>
@@ -18108,6 +18152,9 @@
               </selectionEntries>
             </selectionEntryGroup>
           </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
         </selectionEntry>
         <selectionEntry id="9e92-90a5-f3cc-0fa5" name="Barnes" hidden="false" collective="false" import="true" type="model">
           <selectionEntryGroups>
@@ -18117,7 +18164,11 @@
                 <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="2729-286a-b003-691e" type="max"/>
               </constraints>
               <selectionEntries>
-                <selectionEntry id="2f80-c19f-71ba-7e3a" name="Barnes" hidden="false" collective="false" import="true" type="upgrade"/>
+                <selectionEntry id="2f80-c19f-71ba-7e3a" name="Barnes" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
                 <selectionEntry id="04de-c8dd-702d-fbcd" name="Barnes 1943" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="10.0"/>
@@ -18131,6 +18182,9 @@
               </selectionEntries>
             </selectionEntryGroup>
           </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
         </selectionEntry>
         <selectionEntry id="0455-1b2d-22be-b01a" name="Block Island" hidden="false" collective="false" import="true" type="model">
           <selectionEntryGroups>
@@ -18140,7 +18194,11 @@
                 <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="f634-cbd6-3c6a-8dc9" type="max"/>
               </constraints>
               <selectionEntries>
-                <selectionEntry id="483c-4174-1a6a-56d9" name="Block Island" hidden="false" collective="false" import="true" type="upgrade"/>
+                <selectionEntry id="483c-4174-1a6a-56d9" name="Block Island" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
                 <selectionEntry id="aebc-fbc9-09aa-700d" name="Block Island 1943" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="10.0"/>
@@ -18154,6 +18212,9 @@
               </selectionEntries>
             </selectionEntryGroup>
           </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
         </selectionEntry>
         <selectionEntry id="dac5-9e69-f25f-ca6c" name="Bretan" hidden="false" collective="false" import="true" type="model">
           <selectionEntryGroups>
@@ -18163,7 +18224,11 @@
                 <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="be1b-ee4b-7cbc-5846" type="max"/>
               </constraints>
               <selectionEntries>
-                <selectionEntry id="2fbe-e0c8-bd71-b12c" name="Bretan" hidden="false" collective="false" import="true" type="upgrade"/>
+                <selectionEntry id="2fbe-e0c8-bd71-b12c" name="Bretan" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
                 <selectionEntry id="969e-5fb9-9bd3-98ec" name="Bretan 1943" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="10.0"/>
@@ -18177,6 +18242,9 @@
               </selectionEntries>
             </selectionEntryGroup>
           </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
         </selectionEntry>
         <selectionEntry id="15ac-3a26-485a-93d8" name="Card" hidden="false" collective="false" import="true" type="model">
           <selectionEntryGroups>
@@ -18186,7 +18254,11 @@
                 <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="3d9d-64b0-db2c-8794" type="max"/>
               </constraints>
               <selectionEntries>
-                <selectionEntry id="0894-29c4-3934-3b6d" name="Card" hidden="false" collective="false" import="true" type="upgrade"/>
+                <selectionEntry id="0894-29c4-3934-3b6d" name="Card" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
                 <selectionEntry id="22cd-468a-95f2-8f18" name="Card 1943" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="10.0"/>
@@ -18200,6 +18272,9 @@
               </selectionEntries>
             </selectionEntryGroup>
           </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
         </selectionEntry>
         <selectionEntry id="c478-77a9-0546-90b0" name="Copahee" hidden="false" collective="false" import="true" type="model">
           <selectionEntryGroups>
@@ -18209,7 +18284,11 @@
                 <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="a7bd-72e8-4621-2970" type="max"/>
               </constraints>
               <selectionEntries>
-                <selectionEntry id="7421-394e-078c-4041" name="Copahee" hidden="false" collective="false" import="true" type="upgrade"/>
+                <selectionEntry id="7421-394e-078c-4041" name="Copahee" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
                 <selectionEntry id="0e18-1305-fcca-ddf3" name="Copahee 1943a" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="5.0"/>
@@ -18228,6 +18307,9 @@
               </selectionEntries>
             </selectionEntryGroup>
           </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
         </selectionEntry>
         <selectionEntry id="e569-332c-5795-2cc1" name="Core" hidden="false" collective="false" import="true" type="upgrade">
           <selectionEntryGroups>
@@ -18237,7 +18319,11 @@
                 <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="74d8-fce5-f4d2-9d79" type="max"/>
               </constraints>
               <selectionEntries>
-                <selectionEntry id="a1b8-a7ff-e8ce-4d7c" name="Core" hidden="false" collective="false" import="true" type="upgrade"/>
+                <selectionEntry id="a1b8-a7ff-e8ce-4d7c" name="Core" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
                 <selectionEntry id="258f-b027-bed3-2a2d" name="Core 1943" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="10.0"/>
@@ -18251,6 +18337,9 @@
               </selectionEntries>
             </selectionEntryGroup>
           </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
         </selectionEntry>
         <selectionEntry id="db80-6ffb-6dd1-53d4" name="Croatan" hidden="false" collective="false" import="true" type="model">
           <selectionEntryGroups>
@@ -18260,7 +18349,11 @@
                 <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="6d7f-dfa7-b40c-a1b3" type="max"/>
               </constraints>
               <selectionEntries>
-                <selectionEntry id="3063-8c13-0c33-c0ca" name="Croatan" hidden="false" collective="false" import="true" type="upgrade"/>
+                <selectionEntry id="3063-8c13-0c33-c0ca" name="Croatan" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
                 <selectionEntry id="12bf-2d04-bfa3-65e9" name="Croatan 1943a" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="10.0"/>
@@ -18279,6 +18372,9 @@
               </selectionEntries>
             </selectionEntryGroup>
           </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
         </selectionEntry>
         <selectionEntry id="5188-f918-05a5-8951" name="Nassau" hidden="false" collective="false" import="true" type="model">
           <selectionEntryGroups>
@@ -18288,7 +18384,11 @@
                 <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="2535-80b3-8e40-91fe" type="max"/>
               </constraints>
               <selectionEntries>
-                <selectionEntry id="8919-1f3e-d5b2-1645" name="Nassau" hidden="false" collective="false" import="true" type="upgrade"/>
+                <selectionEntry id="8919-1f3e-d5b2-1645" name="Nassau" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
                 <selectionEntry id="e948-b5de-fef9-b0f6" name="Nassau 1943" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="10.0"/>
@@ -18302,6 +18402,9 @@
               </selectionEntries>
             </selectionEntryGroup>
           </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
         </selectionEntry>
         <selectionEntry id="b178-66b0-10b1-4c1a" name="Prince William" hidden="false" collective="false" import="true" type="model">
           <selectionEntryGroups>
@@ -18311,7 +18414,11 @@
                 <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="9e1f-b082-c078-072c" type="max"/>
               </constraints>
               <selectionEntries>
-                <selectionEntry id="5778-3a43-66f2-9eac" name="Prince William" hidden="false" collective="false" import="true" type="upgrade"/>
+                <selectionEntry id="5778-3a43-66f2-9eac" name="Prince William" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
                 <selectionEntry id="82a6-e7d1-5c68-8a8a" name="Prince William 1943a" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="10.0"/>
@@ -18335,6 +18442,9 @@
               </selectionEntries>
             </selectionEntryGroup>
           </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
         </selectionEntry>
       </selectionEntries>
       <entryLinks>
@@ -18363,7 +18473,11 @@
                 <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="2a56-21eb-9a35-10a3" type="max"/>
               </constraints>
               <selectionEntries>
-                <selectionEntry id="8f95-f2d6-c923-c3a1" name="Admiralty Island" hidden="false" collective="false" import="true" type="upgrade"/>
+                <selectionEntry id="8f95-f2d6-c923-c3a1" name="Admiralty Island" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
                 <selectionEntry id="4b89-dbf6-47af-ef4b" name="Admiralty Island 1945" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="5.0"/>
@@ -18372,6 +18486,9 @@
               </selectionEntries>
             </selectionEntryGroup>
           </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
         </selectionEntry>
         <selectionEntry id="e4cc-8b5c-87f6-e401" name="Attu" hidden="false" collective="false" import="true" type="model">
           <selectionEntryGroups>
@@ -18381,7 +18498,11 @@
                 <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="1143-b34e-571f-261e" type="max"/>
               </constraints>
               <selectionEntries>
-                <selectionEntry id="3e78-973e-d420-ad1a" name="Attu" hidden="false" collective="false" import="true" type="upgrade"/>
+                <selectionEntry id="3e78-973e-d420-ad1a" name="Attu" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
                 <selectionEntry id="3558-fedd-1354-bd24" name="Attu 1945" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="5.0"/>
@@ -18390,6 +18511,9 @@
               </selectionEntries>
             </selectionEntryGroup>
           </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
         </selectionEntry>
         <selectionEntry id="992f-a300-3199-f52c" name="Bismark Sea" hidden="false" collective="false" import="true" type="model">
           <selectionEntryGroups>
@@ -18399,10 +18523,17 @@
                 <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="d3f2-1d37-547f-db6f" type="max"/>
               </constraints>
               <selectionEntries>
-                <selectionEntry id="faef-bd9f-9789-401a" name="Bismark Sea" hidden="false" collective="false" import="true" type="upgrade"/>
+                <selectionEntry id="faef-bd9f-9789-401a" name="Bismark Sea" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
               </selectionEntries>
             </selectionEntryGroup>
           </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
         </selectionEntry>
         <selectionEntry id="b041-783c-c6d9-390a" name="Bougainville" hidden="false" collective="false" import="true" type="model">
           <selectionEntryGroups>
@@ -18412,7 +18543,11 @@
                 <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="9bd9-7aee-d7ea-6635" type="max"/>
               </constraints>
               <selectionEntries>
-                <selectionEntry id="cd47-8434-d733-5335" name="Bougainville" hidden="false" collective="false" import="true" type="upgrade"/>
+                <selectionEntry id="cd47-8434-d733-5335" name="Bougainville" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
                 <selectionEntry id="3e4e-07b7-d8eb-6210" name="Bougainville 1945" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="5.0"/>
@@ -18421,6 +18556,9 @@
               </selectionEntries>
             </selectionEntryGroup>
           </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
         </selectionEntry>
         <selectionEntry id="3d57-d5cf-4d82-5efd" name="Cape Esperance" hidden="false" collective="false" import="true" type="model">
           <selectionEntryGroups>
@@ -18430,7 +18568,11 @@
                 <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="0e78-6609-a315-369e" type="max"/>
               </constraints>
               <selectionEntries>
-                <selectionEntry id="b8c5-e47b-80ab-dc17" name="Cape Esperance" hidden="false" collective="false" import="true" type="upgrade"/>
+                <selectionEntry id="b8c5-e47b-80ab-dc17" name="Cape Esperance" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
                 <selectionEntry id="2c01-0d16-74d6-988c" name="Cape Esperance 1945" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="5.0"/>
@@ -18439,6 +18581,9 @@
               </selectionEntries>
             </selectionEntryGroup>
           </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
         </selectionEntry>
         <selectionEntry id="8a50-3b88-33eb-b022" name="Casablanca" hidden="false" collective="false" import="true" type="model">
           <selectionEntryGroups>
@@ -18448,7 +18593,11 @@
                 <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="a7f1-b40c-0fa7-a722" type="max"/>
               </constraints>
               <selectionEntries>
-                <selectionEntry id="6591-80e4-985f-e2fc" name="Casablanca" hidden="false" collective="false" import="true" type="upgrade"/>
+                <selectionEntry id="6591-80e4-985f-e2fc" name="Casablanca" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
                 <selectionEntry id="5bf3-49ff-1e73-4e54" name="Casablanca 1945" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="5.0"/>
@@ -18457,6 +18606,9 @@
               </selectionEntries>
             </selectionEntryGroup>
           </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
         </selectionEntry>
         <selectionEntry id="c0ac-3e62-19c7-fa5f" name="Coral Sea" hidden="false" collective="false" import="true" type="model">
           <selectionEntryGroups>
@@ -18466,7 +18618,11 @@
                 <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="277f-c0ad-34be-cc94" type="max"/>
               </constraints>
               <selectionEntries>
-                <selectionEntry id="354d-34f6-79fe-2ef9" name="Coral Sea" hidden="false" collective="false" import="true" type="upgrade"/>
+                <selectionEntry id="354d-34f6-79fe-2ef9" name="Coral Sea" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
                 <selectionEntry id="cabe-edab-c9f0-fd94" name="Coral Sea 1945" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="5.0"/>
@@ -18475,6 +18631,9 @@
               </selectionEntries>
             </selectionEntryGroup>
           </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
         </selectionEntry>
         <selectionEntry id="cec7-f725-b76c-5a22" name="Corregidor" hidden="false" collective="false" import="true" type="model">
           <selectionEntryGroups>
@@ -18484,7 +18643,11 @@
                 <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="332e-f855-591f-134c" type="max"/>
               </constraints>
               <selectionEntries>
-                <selectionEntry id="032e-98e7-7bbb-36c9" name="Corregidor" hidden="false" collective="false" import="true" type="upgrade"/>
+                <selectionEntry id="032e-98e7-7bbb-36c9" name="Corregidor" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
                 <selectionEntry id="1578-c5ef-c6e4-db03" name="Corregidor 1945" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="5.0"/>
@@ -18493,6 +18656,9 @@
               </selectionEntries>
             </selectionEntryGroup>
           </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
         </selectionEntry>
         <selectionEntry id="0228-7589-01af-0645" name="Fanshaw Bay" hidden="false" collective="false" import="true" type="model">
           <selectionEntryGroups>
@@ -18502,7 +18668,11 @@
                 <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="c5ee-3829-f14f-d4ed" type="max"/>
               </constraints>
               <selectionEntries>
-                <selectionEntry id="d7ea-a697-d5c4-6e24" name="Fanshaw Bay" hidden="false" collective="false" import="true" type="upgrade"/>
+                <selectionEntry id="d7ea-a697-d5c4-6e24" name="Fanshaw Bay" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
                 <selectionEntry id="70ff-ce8a-04cf-ff5c" name="Fanshaw Bay 1945" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="5.0"/>
@@ -18511,6 +18681,9 @@
               </selectionEntries>
             </selectionEntryGroup>
           </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
         </selectionEntry>
         <selectionEntry id="b433-4f5b-ca35-75a0" name="Gambier Bay" hidden="false" collective="false" import="true" type="model">
           <selectionEntryGroups>
@@ -18520,10 +18693,17 @@
                 <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="2f98-bbb0-594e-7080" type="max"/>
               </constraints>
               <selectionEntries>
-                <selectionEntry id="ad8f-6859-2e15-0665" name="Gambier Bay" hidden="false" collective="false" import="true" type="upgrade"/>
+                <selectionEntry id="ad8f-6859-2e15-0665" name="Gambier Bay" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
               </selectionEntries>
             </selectionEntryGroup>
           </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
         </selectionEntry>
         <selectionEntry id="341b-ca28-c20a-a3ce" name="Guadalcanal" hidden="false" collective="false" import="true" type="model">
           <selectionEntryGroups>
@@ -18533,7 +18713,11 @@
                 <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="2ead-94fb-02a5-bca8" type="max"/>
               </constraints>
               <selectionEntries>
-                <selectionEntry id="dd35-5854-7042-319b" name="Guadalcanal" hidden="false" collective="false" import="true" type="upgrade"/>
+                <selectionEntry id="dd35-5854-7042-319b" name="Guadalcanal" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
                 <selectionEntry id="45d9-ecd9-dcda-2caa" name="Guadalcanal 1945" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="5.0"/>
@@ -18542,6 +18726,9 @@
               </selectionEntries>
             </selectionEntryGroup>
           </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
         </selectionEntry>
         <selectionEntry id="b785-cc63-29de-a71b" name="Hoggatt Bay" hidden="false" collective="false" import="true" type="model">
           <selectionEntryGroups>
@@ -18551,7 +18738,11 @@
                 <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="9637-5890-12ff-7f89" type="max"/>
               </constraints>
               <selectionEntries>
-                <selectionEntry id="b7cd-dae3-df5d-1525" name="Hoggatt Bay" hidden="false" collective="false" import="true" type="upgrade"/>
+                <selectionEntry id="b7cd-dae3-df5d-1525" name="Hoggatt Bay" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
                 <selectionEntry id="9b3c-14d6-f2dc-1c42" name="Hoggatt Bay 1945" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="5.0"/>
@@ -18560,6 +18751,9 @@
               </selectionEntries>
             </selectionEntryGroup>
           </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
         </selectionEntry>
         <selectionEntry id="9db2-881f-000d-4196" name="Hollandia" hidden="false" collective="false" import="true" type="model">
           <selectionEntryGroups>
@@ -18569,7 +18763,11 @@
                 <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="b06e-0620-55dd-a771" type="max"/>
               </constraints>
               <selectionEntries>
-                <selectionEntry id="49dd-5e7f-3979-e5c7" name="Hollandia" hidden="false" collective="false" import="true" type="upgrade"/>
+                <selectionEntry id="49dd-5e7f-3979-e5c7" name="Hollandia" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
                 <selectionEntry id="ac4c-a2d1-a423-7b22" name="Hollandia 1945" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="5.0"/>
@@ -18578,6 +18776,9 @@
               </selectionEntries>
             </selectionEntryGroup>
           </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
         </selectionEntry>
         <selectionEntry id="6975-7e0d-94d4-ef20" name="Kadashan Bay" hidden="false" collective="false" import="true" type="model">
           <selectionEntryGroups>
@@ -18587,7 +18788,11 @@
                 <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="28c1-0cd9-276d-9f30" type="max"/>
               </constraints>
               <selectionEntries>
-                <selectionEntry id="fc6d-0f90-e48c-c895" name="Kadashan Bay" hidden="false" collective="false" import="true" type="upgrade"/>
+                <selectionEntry id="fc6d-0f90-e48c-c895" name="Kadashan Bay" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
                 <selectionEntry id="9afe-f1c7-8810-b6aa" name="Kadashan Bay 1945" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="5.0"/>
@@ -18596,6 +18801,9 @@
               </selectionEntries>
             </selectionEntryGroup>
           </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
         </selectionEntry>
         <selectionEntry id="6002-bb83-ff87-c881" name="Kalinin Bay" hidden="false" collective="false" import="true" type="model">
           <selectionEntryGroups>
@@ -18605,10 +18813,17 @@
                 <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="1b77-c2c4-3179-94db" type="max"/>
               </constraints>
               <selectionEntries>
-                <selectionEntry id="f74a-ea4f-7cfe-0d87" name="Kalinin Bay" hidden="false" collective="false" import="true" type="upgrade"/>
+                <selectionEntry id="f74a-ea4f-7cfe-0d87" name="Kalinin Bay" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
               </selectionEntries>
             </selectionEntryGroup>
           </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
         </selectionEntry>
         <selectionEntry id="a04c-2f7d-b9ac-68ce" name="Kasaan Bay" hidden="false" collective="false" import="true" type="model">
           <selectionEntryGroups>
@@ -18618,7 +18833,11 @@
                 <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="3230-4612-8be6-4065" type="max"/>
               </constraints>
               <selectionEntries>
-                <selectionEntry id="83f9-cc1d-2263-f285" name="Kasaan Bay" hidden="false" collective="false" import="true" type="upgrade"/>
+                <selectionEntry id="83f9-cc1d-2263-f285" name="Kasaan Bay" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
                 <selectionEntry id="872e-33ee-41d1-a9e0" name="Kasaan Bay 1945" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="5.0"/>
@@ -18627,6 +18846,9 @@
               </selectionEntries>
             </selectionEntryGroup>
           </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
         </selectionEntry>
         <selectionEntry id="5bf5-3eb7-9c41-c8c6" name="Kitkun Bay" hidden="false" collective="false" import="true" type="model">
           <selectionEntryGroups>
@@ -18636,7 +18858,11 @@
                 <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="85ed-57b8-25a9-a9cb" type="max"/>
               </constraints>
               <selectionEntries>
-                <selectionEntry id="55cf-0206-2602-f407" name="Kitkun Bay" hidden="false" collective="false" import="true" type="upgrade"/>
+                <selectionEntry id="55cf-0206-2602-f407" name="Kitkun Bay" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
                 <selectionEntry id="2ebb-ea7a-58c3-dd74" name="Kitkun Bay 1945" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="5.0"/>
@@ -18645,6 +18871,9 @@
               </selectionEntries>
             </selectionEntryGroup>
           </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
         </selectionEntry>
         <selectionEntry id="e80b-e349-6a7c-61ed" name="Kwajalein" hidden="false" collective="false" import="true" type="model">
           <selectionEntryGroups>
@@ -18654,7 +18883,11 @@
                 <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="8881-aedb-2632-78c8" type="max"/>
               </constraints>
               <selectionEntries>
-                <selectionEntry id="78e2-8638-fe19-1e9d" name="Kwajalein" hidden="false" collective="false" import="true" type="upgrade"/>
+                <selectionEntry id="78e2-8638-fe19-1e9d" name="Kwajalein" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
                 <selectionEntry id="fb5c-1a98-dee1-414d" name="Kwajalein 1945" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="5.0"/>
@@ -18663,6 +18896,9 @@
               </selectionEntries>
             </selectionEntryGroup>
           </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
         </selectionEntry>
         <selectionEntry id="a10c-a06a-fcd2-e181" name="Liscombe Bay" hidden="false" collective="false" import="true" type="model">
           <selectionEntryGroups>
@@ -18672,10 +18908,17 @@
                 <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="7882-8cc4-3a9b-7a42" type="max"/>
               </constraints>
               <selectionEntries>
-                <selectionEntry id="bee5-aab9-980f-daf7" name="Liscombe Bay" hidden="false" collective="false" import="true" type="upgrade"/>
+                <selectionEntry id="bee5-aab9-980f-daf7" name="Liscombe Bay" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
               </selectionEntries>
             </selectionEntryGroup>
           </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
         </selectionEntry>
         <selectionEntry id="1afe-6746-fe1c-41a5" name="Lunga Point" hidden="false" collective="false" import="true" type="model">
           <selectionEntryGroups>
@@ -18685,7 +18928,11 @@
                 <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="dc18-f975-7d33-41f2" type="max"/>
               </constraints>
               <selectionEntries>
-                <selectionEntry id="ce15-539f-52ff-4c3d" name="Lunga Point" hidden="false" collective="false" import="true" type="upgrade"/>
+                <selectionEntry id="ce15-539f-52ff-4c3d" name="Lunga Point" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
                 <selectionEntry id="20a6-6255-cebb-5786" name="Lunga Point 1945" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="5.0"/>
@@ -18694,6 +18941,9 @@
               </selectionEntries>
             </selectionEntryGroup>
           </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
         </selectionEntry>
         <selectionEntry id="cb85-35fe-0410-4548" name="Makassar-Stait" hidden="false" collective="false" import="true" type="model">
           <selectionEntryGroups>
@@ -18703,7 +18953,11 @@
                 <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="3056-091c-d925-20ea" type="max"/>
               </constraints>
               <selectionEntries>
-                <selectionEntry id="7bd0-1f87-134c-8ed4" name="Makassar-Stait" hidden="false" collective="false" import="true" type="upgrade"/>
+                <selectionEntry id="7bd0-1f87-134c-8ed4" name="Makassar-Stait" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
                 <selectionEntry id="8607-06bf-8dad-cd90" name="Makassar-Stait 1945" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="5.0"/>
@@ -18712,6 +18966,9 @@
               </selectionEntries>
             </selectionEntryGroup>
           </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
         </selectionEntry>
         <selectionEntry id="4944-be48-9b81-11b3" name="Makin Island" hidden="false" collective="false" import="true" type="model">
           <selectionEntryGroups>
@@ -18721,7 +18978,11 @@
                 <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="63df-dae5-7757-1406" type="max"/>
               </constraints>
               <selectionEntries>
-                <selectionEntry id="d97c-f129-ff2d-f3e1" name="Makin Island" hidden="false" collective="false" import="true" type="upgrade"/>
+                <selectionEntry id="d97c-f129-ff2d-f3e1" name="Makin Island" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
                 <selectionEntry id="5617-5a86-d17a-c0b1" name="Makin Island 1945" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="5.0"/>
@@ -18730,6 +18991,9 @@
               </selectionEntries>
             </selectionEntryGroup>
           </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
         </selectionEntry>
         <selectionEntry id="6102-bd51-a80b-f6c3" name="Manila Bay" hidden="false" collective="false" import="true" type="model">
           <selectionEntryGroups>
@@ -18739,7 +19003,11 @@
                 <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="d515-a9fe-e4c3-cf68" type="max"/>
               </constraints>
               <selectionEntries>
-                <selectionEntry id="4fc4-392b-8b59-bc26" name="Manila Bay" hidden="false" collective="false" import="true" type="upgrade"/>
+                <selectionEntry id="4fc4-392b-8b59-bc26" name="Manila Bay" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
                 <selectionEntry id="7408-6a65-1461-f395" name="Manila Bay 1945" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="5.0"/>
@@ -18748,6 +19016,9 @@
               </selectionEntries>
             </selectionEntryGroup>
           </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
         </selectionEntry>
         <selectionEntry id="9e4d-e2b9-3620-6528" name="Marcus Island" hidden="false" collective="false" import="true" type="model">
           <selectionEntryGroups>
@@ -18757,7 +19028,11 @@
                 <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="6516-49c4-3ddf-a686" type="max"/>
               </constraints>
               <selectionEntries>
-                <selectionEntry id="5178-23a7-8e4a-d305" name="Marcus Island" hidden="false" collective="false" import="true" type="upgrade"/>
+                <selectionEntry id="5178-23a7-8e4a-d305" name="Marcus Island" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
                 <selectionEntry id="f738-8f0d-0309-dfb2" name="Marcus Island 1945" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="5.0"/>
@@ -18766,6 +19041,9 @@
               </selectionEntries>
             </selectionEntryGroup>
           </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
         </selectionEntry>
         <selectionEntry id="7aa0-30eb-95a3-984c" name="Matanikau" hidden="false" collective="false" import="true" type="model">
           <selectionEntryGroups>
@@ -18775,7 +19053,11 @@
                 <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="c23b-be6f-bde5-c275" type="max"/>
               </constraints>
               <selectionEntries>
-                <selectionEntry id="9470-68f6-17bf-a0ce" name="Matanikau" hidden="false" collective="false" import="true" type="upgrade"/>
+                <selectionEntry id="9470-68f6-17bf-a0ce" name="Matanikau" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
                 <selectionEntry id="6c09-114c-8f9d-903b" name="Matanikau 1945" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="5.0"/>
@@ -18784,6 +19066,9 @@
               </selectionEntries>
             </selectionEntryGroup>
           </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
         </selectionEntry>
         <selectionEntry id="3348-a518-4273-97a2" name="Mission Bay" hidden="false" collective="false" import="true" type="model">
           <selectionEntryGroups>
@@ -18793,7 +19078,11 @@
                 <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="55dd-53b1-9bfb-e26c" type="max"/>
               </constraints>
               <selectionEntries>
-                <selectionEntry id="5c4e-f5b7-c967-3996" name="Mission Bay" hidden="false" collective="false" import="true" type="upgrade"/>
+                <selectionEntry id="5c4e-f5b7-c967-3996" name="Mission Bay" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
                 <selectionEntry id="dfce-b92b-88ae-d115" name="Mission Bay 1945" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="5.0"/>
@@ -18802,6 +19091,9 @@
               </selectionEntries>
             </selectionEntryGroup>
           </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
         </selectionEntry>
         <selectionEntry id="4b80-b191-c7b0-e98d" name="Munda" hidden="false" collective="false" import="true" type="model">
           <selectionEntryGroups>
@@ -18811,7 +19103,11 @@
                 <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="429a-9b1f-239a-c4b6" type="max"/>
               </constraints>
               <selectionEntries>
-                <selectionEntry id="3809-ea2e-64f5-f451" name="Munda" hidden="false" collective="false" import="true" type="upgrade"/>
+                <selectionEntry id="3809-ea2e-64f5-f451" name="Munda" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
                 <selectionEntry id="6ab5-e49d-bcea-20cd" name="Munda 1945" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="5.0"/>
@@ -18820,6 +19116,9 @@
               </selectionEntries>
             </selectionEntryGroup>
           </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
         </selectionEntry>
         <selectionEntry id="fd8b-a95f-6985-a015" name="Natoma Bay" hidden="false" collective="false" import="true" type="model">
           <selectionEntryGroups>
@@ -18829,7 +19128,11 @@
                 <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="9966-1c61-70b7-5084" type="max"/>
               </constraints>
               <selectionEntries>
-                <selectionEntry id="a086-956b-32ec-d3db" name="Natoma Bay" hidden="false" collective="false" import="true" type="upgrade"/>
+                <selectionEntry id="a086-956b-32ec-d3db" name="Natoma Bay" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
                 <selectionEntry id="8bd6-ea71-57e8-d6c5" name="Natoma Bay 1945" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="5.0"/>
@@ -18838,6 +19141,9 @@
               </selectionEntries>
             </selectionEntryGroup>
           </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
         </selectionEntry>
         <selectionEntry id="52c5-a83a-f8c0-4e27" name="Nehenta Bay" hidden="false" collective="false" import="true" type="model">
           <selectionEntryGroups>
@@ -18847,7 +19153,11 @@
                 <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="5d08-396d-2b81-ab5a" type="max"/>
               </constraints>
               <selectionEntries>
-                <selectionEntry id="2bc4-0cd0-ccf7-222a" name="Nehenta Bay" hidden="false" collective="false" import="true" type="upgrade"/>
+                <selectionEntry id="2bc4-0cd0-ccf7-222a" name="Nehenta Bay" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
                 <selectionEntry id="04ab-0e93-3fab-0906" name="Nehenta Bay 1945" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="5.0"/>
@@ -18856,6 +19166,9 @@
               </selectionEntries>
             </selectionEntryGroup>
           </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
         </selectionEntry>
         <selectionEntry id="47e9-c64b-c29b-f20e" name="Ommaney Bay" hidden="false" collective="false" import="true" type="model">
           <selectionEntryGroups>
@@ -18865,10 +19178,17 @@
                 <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="14ea-d95b-0abf-8f0c" type="max"/>
               </constraints>
               <selectionEntries>
-                <selectionEntry id="8542-d4e7-b597-2bea" name="Ommaney Bay" hidden="false" collective="false" import="true" type="upgrade"/>
+                <selectionEntry id="8542-d4e7-b597-2bea" name="Ommaney Bay" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
               </selectionEntries>
             </selectionEntryGroup>
           </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
         </selectionEntry>
         <selectionEntry id="4808-8365-1663-f85c" name="Petrof Bay" hidden="false" collective="false" import="true" type="model">
           <selectionEntryGroups>
@@ -18878,7 +19198,11 @@
                 <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="914b-d493-c71c-777d" type="max"/>
               </constraints>
               <selectionEntries>
-                <selectionEntry id="11c3-bcb3-fe72-311f" name="Petrof Bay" hidden="false" collective="false" import="true" type="upgrade"/>
+                <selectionEntry id="11c3-bcb3-fe72-311f" name="Petrof Bay" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
                 <selectionEntry id="aee5-3047-4910-cc86" name="Petrof Bay 1945" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="5.0"/>
@@ -18887,6 +19211,9 @@
               </selectionEntries>
             </selectionEntryGroup>
           </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
         </selectionEntry>
         <selectionEntry id="65fc-4985-59ee-2882" name="Roi" hidden="false" collective="false" import="true" type="model">
           <selectionEntryGroups>
@@ -18896,7 +19223,11 @@
                 <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="1c45-dd57-84f6-999c" type="max"/>
               </constraints>
               <selectionEntries>
-                <selectionEntry id="1183-90cf-0d98-5da3" name="Roi" hidden="false" collective="false" import="true" type="upgrade"/>
+                <selectionEntry id="1183-90cf-0d98-5da3" name="Roi" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
                 <selectionEntry id="7c7a-d34e-0ca0-c508" name="Roi 1945" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="5.0"/>
@@ -18905,6 +19236,9 @@
               </selectionEntries>
             </selectionEntryGroup>
           </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
         </selectionEntry>
         <selectionEntry id="113d-b2de-1d10-92ba" name="Rudyerd Bay" hidden="false" collective="false" import="true" type="model">
           <selectionEntryGroups>
@@ -18914,7 +19248,11 @@
                 <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="a430-b7f7-8d70-074f" type="max"/>
               </constraints>
               <selectionEntries>
-                <selectionEntry id="397b-a815-5984-f29a" name="Rudyerd Bay" hidden="false" collective="false" import="true" type="upgrade"/>
+                <selectionEntry id="397b-a815-5984-f29a" name="Rudyerd Bay" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
                 <selectionEntry id="48d2-4928-3aeb-8c93" name="Rudyerd Bay 1945" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="5.0"/>
@@ -18923,6 +19261,9 @@
               </selectionEntries>
             </selectionEntryGroup>
           </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
         </selectionEntry>
         <selectionEntry id="906c-e3b5-0b77-7518" name="Saginaw Bay" hidden="false" collective="false" import="true" type="model">
           <selectionEntryGroups>
@@ -18932,7 +19273,11 @@
                 <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="754e-0637-7ae3-ee49" type="max"/>
               </constraints>
               <selectionEntries>
-                <selectionEntry id="1966-7fa8-b2b5-b826" name="Saginaw Bay" hidden="false" collective="false" import="true" type="upgrade"/>
+                <selectionEntry id="1966-7fa8-b2b5-b826" name="Saginaw Bay" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
                 <selectionEntry id="b0ab-d47c-5a8d-5c3a" name="Saginaw Bay 1945" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="5.0"/>
@@ -18941,6 +19286,9 @@
               </selectionEntries>
             </selectionEntryGroup>
           </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
         </selectionEntry>
         <selectionEntry id="510d-c4d8-03a0-83cd" name="Salamaua" hidden="false" collective="false" import="true" type="model">
           <selectionEntryGroups>
@@ -18950,7 +19298,11 @@
                 <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="d9dd-b19a-bff6-81fb" type="max"/>
               </constraints>
               <selectionEntries>
-                <selectionEntry id="3984-a887-6912-5505" name="Salamaua" hidden="false" collective="false" import="true" type="upgrade"/>
+                <selectionEntry id="3984-a887-6912-5505" name="Salamaua" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
                 <selectionEntry id="2724-2313-1c50-5516" name="Salamaua 1945" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="5.0"/>
@@ -18959,6 +19311,9 @@
               </selectionEntries>
             </selectionEntryGroup>
           </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
         </selectionEntry>
         <selectionEntry id="191e-3f72-f8d3-0f02" name="Sargent Bay" hidden="false" collective="false" import="true" type="model">
           <selectionEntryGroups>
@@ -18968,7 +19323,11 @@
                 <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="70e2-20b5-abea-db15" type="max"/>
               </constraints>
               <selectionEntries>
-                <selectionEntry id="a859-2d16-4a8c-47d5" name="Sargent Bay" hidden="false" collective="false" import="true" type="upgrade"/>
+                <selectionEntry id="a859-2d16-4a8c-47d5" name="Sargent Bay" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
                 <selectionEntry id="7cd5-0cf6-f1f3-31b4" name="Sargent Bay 1945" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="5.0"/>
@@ -18977,6 +19336,9 @@
               </selectionEntries>
             </selectionEntryGroup>
           </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
         </selectionEntry>
         <selectionEntry id="5ca7-c77a-9d56-26d5" name="Savo Island" hidden="false" collective="false" import="true" type="model">
           <selectionEntryGroups>
@@ -18986,7 +19348,11 @@
                 <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="3d57-dbb2-c1e9-e959" type="max"/>
               </constraints>
               <selectionEntries>
-                <selectionEntry id="b5ea-513e-1faa-f42f" name="Savo Island" hidden="false" collective="false" import="true" type="upgrade"/>
+                <selectionEntry id="b5ea-513e-1faa-f42f" name="Savo Island" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
                 <selectionEntry id="1e4f-5611-f70b-03de" name="Savo Island 1945" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="5.0"/>
@@ -18995,6 +19361,9 @@
               </selectionEntries>
             </selectionEntryGroup>
           </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
         </selectionEntry>
         <selectionEntry id="665e-861d-2139-1c52" name="Shamrock Bay" hidden="false" collective="false" import="true" type="model">
           <selectionEntryGroups>
@@ -19004,7 +19373,11 @@
                 <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="589c-14a4-6466-7e9f" type="max"/>
               </constraints>
               <selectionEntries>
-                <selectionEntry id="d737-2403-e9e3-83d7" name="Shamrock Bay" hidden="false" collective="false" import="true" type="upgrade"/>
+                <selectionEntry id="d737-2403-e9e3-83d7" name="Shamrock Bay" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
                 <selectionEntry id="32a0-b195-00d3-ae6d" name="Shamrock Bay 1945" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="5.0"/>
@@ -19013,6 +19386,9 @@
               </selectionEntries>
             </selectionEntryGroup>
           </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
         </selectionEntry>
         <selectionEntry id="a7ff-51c2-9981-947e" name="Shipley Bay" hidden="false" collective="false" import="true" type="model">
           <selectionEntryGroups>
@@ -19022,7 +19398,11 @@
                 <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="d434-b060-78df-7c5e" type="max"/>
               </constraints>
               <selectionEntries>
-                <selectionEntry id="21e7-c5ca-bf06-42ad" name="Shipley Bay" hidden="false" collective="false" import="true" type="upgrade"/>
+                <selectionEntry id="21e7-c5ca-bf06-42ad" name="Shipley Bay" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
                 <selectionEntry id="4bc1-36b3-74ee-d52c" name="Shipley Bay 1945" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="5.0"/>
@@ -19031,6 +19411,9 @@
               </selectionEntries>
             </selectionEntryGroup>
           </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
         </selectionEntry>
         <selectionEntry id="63fb-559b-e281-d0d1" name="Stikoh Bay" hidden="false" collective="false" import="true" type="model">
           <selectionEntryGroups>
@@ -19040,7 +19423,11 @@
                 <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="b04b-ece3-c38a-4714" type="max"/>
               </constraints>
               <selectionEntries>
-                <selectionEntry id="7d6b-8a9f-ac0e-9a1f" name="Sitkoh Bay" hidden="false" collective="false" import="true" type="upgrade"/>
+                <selectionEntry id="7d6b-8a9f-ac0e-9a1f" name="Sitkoh Bay" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
                 <selectionEntry id="9bff-be5b-ca7a-1ef6" name="Sitkoh Bay 1945" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="5.0"/>
@@ -19049,6 +19436,9 @@
               </selectionEntries>
             </selectionEntryGroup>
           </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
         </selectionEntry>
         <selectionEntry id="f78a-d6d8-07af-d69f" name="Solomons" hidden="false" collective="false" import="true" type="model">
           <selectionEntryGroups>
@@ -19058,7 +19448,11 @@
                 <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="dd89-9a95-4dbe-d554" type="max"/>
               </constraints>
               <selectionEntries>
-                <selectionEntry id="8c19-3c30-9118-e745" name="Solomons" hidden="false" collective="false" import="true" type="upgrade"/>
+                <selectionEntry id="8c19-3c30-9118-e745" name="Solomons" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
                 <selectionEntry id="9ccb-421e-53ee-e07e" name="Solomons 1945" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="5.0"/>
@@ -19067,6 +19461,9 @@
               </selectionEntries>
             </selectionEntryGroup>
           </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
         </selectionEntry>
         <selectionEntry id="595a-e9f5-6a46-bd66" name="St Lo" hidden="false" collective="false" import="true" type="model">
           <selectionEntryGroups>
@@ -19076,10 +19473,17 @@
                 <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="0a18-0de7-3522-fa6a" type="max"/>
               </constraints>
               <selectionEntries>
-                <selectionEntry id="6bf3-b356-6769-14f4" name="St Lo" hidden="false" collective="false" import="true" type="upgrade"/>
+                <selectionEntry id="6bf3-b356-6769-14f4" name="St Lo" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
               </selectionEntries>
             </selectionEntryGroup>
           </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
         </selectionEntry>
         <selectionEntry id="e660-26ba-0778-a1f9" name="Steamer Bay" hidden="false" collective="false" import="true" type="model">
           <selectionEntryGroups>
@@ -19089,7 +19493,11 @@
                 <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="7b09-7710-c4fc-eed0" type="max"/>
               </constraints>
               <selectionEntries>
-                <selectionEntry id="c423-cd66-d9af-295b" name="Steamer Bay" hidden="false" collective="false" import="true" type="upgrade"/>
+                <selectionEntry id="c423-cd66-d9af-295b" name="Steamer Bay" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
                 <selectionEntry id="523c-daac-8816-109c" name="Steamer Bay 1945" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="5.0"/>
@@ -19098,6 +19506,9 @@
               </selectionEntries>
             </selectionEntryGroup>
           </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
         </selectionEntry>
         <selectionEntry id="5377-7ddb-5e14-8af3" name="Takanis Bay" hidden="false" collective="false" import="true" type="model">
           <selectionEntryGroups>
@@ -19107,7 +19518,11 @@
                 <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="6c5c-2df6-b61b-92dc" type="max"/>
               </constraints>
               <selectionEntries>
-                <selectionEntry id="2164-6596-85e9-d507" name="Takanis Bay" hidden="false" collective="false" import="true" type="upgrade"/>
+                <selectionEntry id="2164-6596-85e9-d507" name="Takanis Bay" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
                 <selectionEntry id="5721-ba1e-c004-76f3" name="Takanis Bay 1945" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="5.0"/>
@@ -19116,6 +19531,9 @@
               </selectionEntries>
             </selectionEntryGroup>
           </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
         </selectionEntry>
         <selectionEntry id="8fe3-3f59-8ad4-f0fd" name="Thetis Bay" hidden="false" collective="false" import="true" type="model">
           <selectionEntryGroups>
@@ -19125,7 +19543,11 @@
                 <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="635c-b886-e53d-7a75" type="max"/>
               </constraints>
               <selectionEntries>
-                <selectionEntry id="68d0-7736-a7af-8763" name="Thetis Bay" hidden="false" collective="false" import="true" type="upgrade"/>
+                <selectionEntry id="68d0-7736-a7af-8763" name="Thetis Bay" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
                 <selectionEntry id="ffb7-6840-224d-61ef" name="Thetis Bay 1945" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="5.0"/>
@@ -19134,6 +19556,9 @@
               </selectionEntries>
             </selectionEntryGroup>
           </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
         </selectionEntry>
         <selectionEntry id="91df-250e-41b3-9bbf" name="Tripoli" hidden="false" collective="false" import="true" type="model">
           <selectionEntryGroups>
@@ -19143,7 +19568,11 @@
                 <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="882e-e1fc-baec-7aaa" type="max"/>
               </constraints>
               <selectionEntries>
-                <selectionEntry id="25e2-e18a-48b8-9b01" name="Tripoli" hidden="false" collective="false" import="true" type="upgrade"/>
+                <selectionEntry id="25e2-e18a-48b8-9b01" name="Tripoli" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
                 <selectionEntry id="aeae-d84e-0802-5df4" name="Tripoli 1945" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="5.0"/>
@@ -19152,6 +19581,9 @@
               </selectionEntries>
             </selectionEntryGroup>
           </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
         </selectionEntry>
         <selectionEntry id="6bca-d10c-5210-1a96" name="Tulagi" hidden="false" collective="false" import="true" type="model">
           <selectionEntryGroups>
@@ -19161,7 +19593,11 @@
                 <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="7ca0-21ed-e33b-3476" type="max"/>
               </constraints>
               <selectionEntries>
-                <selectionEntry id="ad98-7283-6cdb-d254" name="Tulagi" hidden="false" collective="false" import="true" type="upgrade"/>
+                <selectionEntry id="ad98-7283-6cdb-d254" name="Tulagi" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
                 <selectionEntry id="c5b2-2f31-52f4-721c" name="Tulagi 1945" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="5.0"/>
@@ -19170,6 +19606,9 @@
               </selectionEntries>
             </selectionEntryGroup>
           </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
         </selectionEntry>
         <selectionEntry id="a59c-a3a9-6279-4e5f" name="Wake Island" hidden="false" collective="false" import="true" type="model">
           <selectionEntryGroups>
@@ -19179,7 +19618,11 @@
                 <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="3fa9-d209-ceca-f21c" type="max"/>
               </constraints>
               <selectionEntries>
-                <selectionEntry id="7e02-e1ac-fdef-9b9b" name="Wake Island" hidden="false" collective="false" import="true" type="upgrade"/>
+                <selectionEntry id="7e02-e1ac-fdef-9b9b" name="Wake Island" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
                 <selectionEntry id="f928-8fac-6df3-e9d3" name="Wake Island 1945" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="5.0"/>
@@ -19188,6 +19631,9 @@
               </selectionEntries>
             </selectionEntryGroup>
           </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
         </selectionEntry>
         <selectionEntry id="abaf-1972-8851-3ff5" name="White Plains" hidden="false" collective="false" import="true" type="model">
           <selectionEntryGroups>
@@ -19197,7 +19643,11 @@
                 <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="7e2a-49ea-ca0b-1ed6" type="max"/>
               </constraints>
               <selectionEntries>
-                <selectionEntry id="e6aa-40f4-8339-6925" name="White Plains" hidden="false" collective="false" import="true" type="upgrade"/>
+                <selectionEntry id="e6aa-40f4-8339-6925" name="White Plains" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
                 <selectionEntry id="c537-70df-1f53-abd9" name="White Plains 1945" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="5.0"/>
@@ -19206,6 +19656,9 @@
               </selectionEntries>
             </selectionEntryGroup>
           </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
         </selectionEntry>
         <selectionEntry id="3117-0553-4ec2-dd29" name="Wingham Bay" hidden="false" collective="false" import="true" type="model">
           <selectionEntryGroups>
@@ -19215,7 +19668,11 @@
                 <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="3ada-e870-42b1-aaca" type="max"/>
               </constraints>
               <selectionEntries>
-                <selectionEntry id="e3aa-1d45-ef60-d93a" name="Wingham Bay" hidden="false" collective="false" import="true" type="upgrade"/>
+                <selectionEntry id="e3aa-1d45-ef60-d93a" name="Wingham Bay" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
                 <selectionEntry id="0bc8-b14c-7988-7959" name="Wingham Bay 1945" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="5.0"/>
@@ -19224,10 +19681,705 @@
               </selectionEntries>
             </selectionEntryGroup>
           </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
         </selectionEntry>
       </selectionEntries>
       <costs>
         <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="95.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="5d32-98e5-063a-92c5" name="Independance-Class Cruiser" hidden="false" collective="false" import="true" type="unit">
+      <categoryLinks>
+        <categoryLink id="6ce6-0141-1b38-cdcb" name="Aircraft Carrier" hidden="false" targetId="da58-44be-bb7f-80d6" primary="false"/>
+        <categoryLink id="8235-2055-b468-c0fd" name="The US Navy" hidden="false" targetId="a110-98d6-b8fa-8e9a" primary="false"/>
+      </categoryLinks>
+      <selectionEntries>
+        <selectionEntry id="d304-5ebf-19e8-ea9a" name="Bataan" hidden="false" collective="false" import="true" type="model">
+          <selectionEntryGroups>
+            <selectionEntryGroup id="01e9-4ab1-7ce1-4ab7" name="Refits" hidden="false" collective="false" import="true" defaultSelectionEntryId="1900-44e6-e196-3f78">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="a40e-a1f3-4866-af71" type="min"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="fefa-b0bc-6df3-3804" type="max"/>
+              </constraints>
+              <selectionEntries>
+                <selectionEntry id="1900-44e6-e196-3f78" name="Bataan" hidden="false" collective="false" import="true" type="upgrade"/>
+                <selectionEntry id="a69e-cd55-6eda-d796" name="Bataan 1945" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="5.0"/>
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
+        </selectionEntry>
+        <selectionEntry id="aa94-014b-f236-8d8f" name="Belleau Wood" hidden="false" collective="false" import="true" type="model">
+          <selectionEntryGroups>
+            <selectionEntryGroup id="08be-be47-716c-dffb" name="Refits" hidden="false" collective="false" import="true" defaultSelectionEntryId="b78c-62d5-5a75-b025">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="4163-0dee-e644-045b" type="min"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="934a-0456-e88e-70eb" type="max"/>
+              </constraints>
+              <selectionEntries>
+                <selectionEntry id="b78c-62d5-5a75-b025" name="Belleau Wood" hidden="false" collective="false" import="true" type="upgrade"/>
+                <selectionEntry id="7820-6791-db5e-4c75" name="Belleau Wood 1944" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="5.0"/>
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
+        </selectionEntry>
+        <selectionEntry id="4aa1-b7a0-d5c8-c647" name="Cabot" hidden="false" collective="false" import="true" type="model">
+          <selectionEntryGroups>
+            <selectionEntryGroup id="7141-ebec-3289-0b34" name="Refits" hidden="false" collective="false" import="true" defaultSelectionEntryId="7940-0d98-560c-d70f">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="954c-8961-031f-74c6" type="min"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="566a-66a3-2c55-fe6f" type="max"/>
+              </constraints>
+              <selectionEntries>
+                <selectionEntry id="7940-0d98-560c-d70f" name="Cabot" hidden="false" collective="false" import="true" type="upgrade"/>
+                <selectionEntry id="9c2e-211d-2b26-4910" name="Cabot 1944" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="-5.0"/>
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
+        </selectionEntry>
+        <selectionEntry id="1b45-5810-8137-e6de" name="Cowpens" hidden="false" collective="false" import="true" type="model">
+          <selectionEntryGroups>
+            <selectionEntryGroup id="e220-1a2a-0194-16bd" name="Refits" hidden="false" collective="false" import="true" defaultSelectionEntryId="8580-8ed1-00a0-adf4">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="b488-21b9-c80e-42c6" type="min"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="2abf-e2ef-764d-be93" type="max"/>
+              </constraints>
+              <selectionEntries>
+                <selectionEntry id="8580-8ed1-00a0-adf4" name="Cowpens" hidden="false" collective="false" import="true" type="upgrade"/>
+                <selectionEntry id="3516-c8cc-f956-0d4a" name="Cowpens 1944" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="-5.0"/>
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
+        </selectionEntry>
+        <selectionEntry id="a802-0ae8-0dd5-3f0d" name="Independance" hidden="false" collective="false" import="true" type="model">
+          <selectionEntryGroups>
+            <selectionEntryGroup id="b562-fa16-6b73-e8b7" name="Refits" hidden="false" collective="false" import="true" defaultSelectionEntryId="86cb-0306-f85b-554c">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="d765-d19a-b56b-4e4e" type="min"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="d716-9775-67c0-fd00" type="max"/>
+              </constraints>
+              <selectionEntries>
+                <selectionEntry id="86cb-0306-f85b-554c" name="Independace" hidden="false" collective="false" import="true" type="upgrade"/>
+                <selectionEntry id="8819-302b-b6c5-29f4" name="Independance 1944" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="5.0"/>
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
+        </selectionEntry>
+        <selectionEntry id="c6e0-3363-7f9c-1cfa" name="Langley" hidden="false" collective="false" import="true" type="model">
+          <selectionEntryGroups>
+            <selectionEntryGroup id="8a1c-fbb4-718c-f552" name="Refits" hidden="false" collective="false" import="true" defaultSelectionEntryId="ecca-bded-4664-883f">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="8dc1-3d31-4268-c8d1" type="min"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="2c5b-3f66-e28b-5cfe" type="max"/>
+              </constraints>
+              <selectionEntries>
+                <selectionEntry id="ecca-bded-4664-883f" name="Langley" hidden="false" collective="false" import="true" type="upgrade"/>
+                <selectionEntry id="dd28-b315-6162-0269" name="Langley 1945" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="-5.0"/>
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
+        </selectionEntry>
+        <selectionEntry id="a17c-0d4a-3d68-f9c8" name="Monterey" hidden="false" collective="false" import="true" type="upgrade">
+          <selectionEntryGroups>
+            <selectionEntryGroup id="7814-63db-3dc0-cea5" name="Refits" hidden="false" collective="false" import="true" defaultSelectionEntryId="a520-39bd-952c-c625">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="37bb-af48-cfc5-9567" type="min"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="529f-8881-4ced-dcf7" type="max"/>
+              </constraints>
+              <selectionEntries>
+                <selectionEntry id="a520-39bd-952c-c625" name="Monterey" hidden="false" collective="false" import="true" type="upgrade"/>
+                <selectionEntry id="8eae-f739-d4d9-afd7" name="Monterey 1944" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="-5.0"/>
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
+        </selectionEntry>
+        <selectionEntry id="de1a-661a-19b8-b4fa" name="Princeton" hidden="false" collective="false" import="true" type="upgrade">
+          <selectionEntryGroups>
+            <selectionEntryGroup id="2744-709d-5e9b-72ad" name="Refits" hidden="false" collective="false" import="true" defaultSelectionEntryId="4c94-35b3-79bf-4e53">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="6704-908c-cfa6-2965" type="min"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="8133-c016-71c8-50c9" type="max"/>
+              </constraints>
+              <selectionEntries>
+                <selectionEntry id="4c94-35b3-79bf-4e53" name="Princeton" hidden="false" collective="false" import="true" type="upgrade"/>
+              </selectionEntries>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
+        </selectionEntry>
+        <selectionEntry id="4028-18a1-6d92-9c3e" name="San Jacinto" hidden="false" collective="false" import="true" type="model">
+          <selectionEntryGroups>
+            <selectionEntryGroup id="7a88-ddb0-d829-b644" name="Refits" hidden="false" collective="false" import="true" defaultSelectionEntryId="c381-7864-d11f-f52b">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="cddc-9ad8-07e9-a3a1" type="min"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="3ad7-afb5-2975-768c" type="max"/>
+              </constraints>
+              <selectionEntries>
+                <selectionEntry id="c381-7864-d11f-f52b" name="San Jacinto" hidden="false" collective="false" import="true" type="upgrade"/>
+                <selectionEntry id="a4af-7943-b2ac-5a14" name="San Jacinto 1945" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="-5.0"/>
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
+        </selectionEntry>
+      </selectionEntries>
+      <entryLinks>
+        <entryLink id="f69b-9d59-394a-e3c8" name="Carrier Flights" hidden="false" collective="false" import="true" targetId="df8d-b7fa-ee1b-5a91" type="selectionEntryGroup">
+          <constraints>
+            <constraint field="selections" scope="parent" value="7.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="5da6-37a4-52a3-a934" type="min"/>
+            <constraint field="selections" scope="parent" value="7.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="c047-1042-0492-1fcb" type="max"/>
+          </constraints>
+        </entryLink>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="105.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="1a1d-6a91-4f7c-cae0" name="Lexington-Class Carrier" hidden="false" collective="false" import="true" type="unit">
+      <categoryLinks>
+        <categoryLink id="342c-a5d5-e6af-279d" name="Aircraft Carrier" hidden="false" targetId="da58-44be-bb7f-80d6" primary="false"/>
+        <categoryLink id="6890-ae4f-f9ac-4e08" name="The US Navy" hidden="false" targetId="a110-98d6-b8fa-8e9a" primary="false"/>
+      </categoryLinks>
+      <selectionEntries>
+        <selectionEntry id="8bfd-c840-1a8b-b616" name="Lexington" hidden="false" collective="false" import="true" type="model">
+          <selectionEntryGroups>
+            <selectionEntryGroup id="4ffd-a320-2a2c-1dfe" name="Refits" hidden="false" collective="false" import="true" defaultSelectionEntryId="19e8-b895-4c76-fee4">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="de5f-7fad-aeaa-2c81" type="min"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="8069-9b8f-bf17-7dd2" type="max"/>
+              </constraints>
+              <selectionEntries>
+                <selectionEntry id="19e8-b895-4c76-fee4" name="Lexington" hidden="false" collective="false" import="true" type="upgrade"/>
+                <selectionEntry id="95f7-0dff-fc8b-0762" name="Lexington 1942" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="-50.0"/>
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
+        </selectionEntry>
+        <selectionEntry id="4156-1513-9487-0b75" name="Saratoga" hidden="false" collective="false" import="true" type="model">
+          <selectionEntryGroups>
+            <selectionEntryGroup id="9a0e-7954-bedc-5467" name="Refits" hidden="false" collective="false" import="true" defaultSelectionEntryId="2440-7f5a-bf23-ef67">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="550d-d8e0-c4f3-35cd" type="min"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="bf78-bd0f-19a5-e2e4" type="max"/>
+              </constraints>
+              <selectionEntries>
+                <selectionEntry id="2440-7f5a-bf23-ef67" name="Saratoga" hidden="false" collective="false" import="true" type="upgrade"/>
+                <selectionEntry id="4417-2692-1186-1eaa" name="Saratoga 1942" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="25.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="0f9c-acea-ea67-058b" name="Saratoga 1943" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="40.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="de6c-54d4-780a-2da4" name="Saratoga 1944" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="155.0"/>
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
+        </selectionEntry>
+      </selectionEntries>
+      <entryLinks>
+        <entryLink id="fa89-d959-9030-1155" name="Carrier Flights" hidden="false" collective="false" import="true" targetId="df8d-b7fa-ee1b-5a91" type="selectionEntryGroup">
+          <constraints>
+            <constraint field="selections" scope="parent" value="20.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="e918-5a54-1268-99a3" type="min"/>
+            <constraint field="selections" scope="parent" value="20.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="4671-178e-430b-0592" type="max"/>
+          </constraints>
+        </entryLink>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="260.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="5950-1d24-37aa-2e89" name="Long Island-Class Carrier" hidden="false" collective="false" import="true" type="unit">
+      <categoryLinks>
+        <categoryLink id="18d8-fbc8-3798-cfbc" name="Aircraft Carrier" hidden="false" targetId="da58-44be-bb7f-80d6" primary="false"/>
+        <categoryLink id="5fdc-d10c-c29d-c7ce" name="The US Navy" hidden="false" targetId="a110-98d6-b8fa-8e9a" primary="false"/>
+      </categoryLinks>
+      <selectionEntries>
+        <selectionEntry id="47f8-561f-52ea-db08" name="USS Long Island" hidden="false" collective="false" import="true" type="model">
+          <selectionEntryGroups>
+            <selectionEntryGroup id="852a-5eeb-45cb-692b" name="Refits" hidden="false" collective="false" import="true" defaultSelectionEntryId="70d3-455e-d4fb-4ef5">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="e0f9-60c2-ad5f-9e64" type="min"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="a357-d955-f63a-6d61" type="max"/>
+              </constraints>
+              <selectionEntries>
+                <selectionEntry id="70d3-455e-d4fb-4ef5" name="Long Island" hidden="false" collective="false" import="true" type="upgrade"/>
+                <selectionEntry id="6b55-bfaa-302a-2b97" name="Long Island 1942" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="10.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="9aa3-62df-c8a9-2b37" name="Long Island 1944" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="20.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="db1c-ac38-6901-3a23" name="Long Island 1945" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="30.0"/>
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
+        </selectionEntry>
+        <selectionEntry id="30da-f4a4-2960-e3a3" name="HMS Archer" hidden="false" collective="false" import="true" type="model">
+          <selectionEntryGroups>
+            <selectionEntryGroup id="cdae-4f2d-0ac0-eaf2" name="Refits" hidden="false" collective="false" import="true" defaultSelectionEntryId="9e6c-4f21-488a-999c">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="131d-176e-4a6d-c327" type="min"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="6b55-5d93-477b-0d21" type="max"/>
+              </constraints>
+              <selectionEntries>
+                <selectionEntry id="9e6c-4f21-488a-999c" name="Archer" hidden="false" collective="false" import="true" type="upgrade"/>
+                <selectionEntry id="c1b0-28bc-793b-fb86" name="Archer 1942" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="10.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="8df3-1598-dec7-85bb" name="Archer 1944" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="20.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="ad91-5993-09c2-0df0" name="Archer 1945" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="30.0"/>
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
+        </selectionEntry>
+      </selectionEntries>
+      <entryLinks>
+        <entryLink id="645b-2580-49a9-5aa1" name="Carrier Flights" hidden="false" collective="false" import="true" targetId="df8d-b7fa-ee1b-5a91" type="selectionEntryGroup">
+          <constraints>
+            <constraint field="selections" scope="parent" value="4.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="d15e-c6c3-b39d-fe5e" type="min"/>
+            <constraint field="selections" scope="parent" value="4.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="9abb-fe30-dab1-6810" type="max"/>
+          </constraints>
+        </entryLink>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="75.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="ccd0-61e9-b15e-5629" name="Midway-Class Carrier" hidden="false" collective="false" import="true" type="unit">
+      <categoryLinks>
+        <categoryLink id="e3db-e681-4898-67a4" name="Aircraft Carrier" hidden="false" targetId="da58-44be-bb7f-80d6" primary="false"/>
+        <categoryLink id="caae-43c9-49b4-930f" name="The US Navy" hidden="false" targetId="a110-98d6-b8fa-8e9a" primary="false"/>
+      </categoryLinks>
+      <selectionEntries>
+        <selectionEntry id="3da0-a5cc-4337-1109" name="Midway" hidden="false" collective="false" import="true" type="model">
+          <selectionEntryGroups>
+            <selectionEntryGroup id="39cd-699d-46e6-3a8c" name="Refits" hidden="false" collective="false" import="true" defaultSelectionEntryId="0fe9-8318-fc58-820a">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="435a-9cad-f1f7-2341" type="min"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="cc82-e3b3-4957-a84f" type="max"/>
+              </constraints>
+              <selectionEntries>
+                <selectionEntry id="0fe9-8318-fc58-820a" name="Midway" hidden="false" collective="false" import="true" type="upgrade"/>
+              </selectionEntries>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
+        </selectionEntry>
+        <selectionEntry id="f153-d5c1-33c9-3fd6" name="Franklin D. Roosevelt" hidden="false" collective="false" import="true" type="model">
+          <selectionEntryGroups>
+            <selectionEntryGroup id="19cd-7eb6-a8a8-7c4a" name="Refits" hidden="false" collective="false" import="true" defaultSelectionEntryId="fb96-fa0b-b339-b689">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="f368-32fa-4b15-344a" type="min"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="b53c-eb87-6f96-f838" type="max"/>
+              </constraints>
+              <selectionEntries>
+                <selectionEntry id="fb96-fa0b-b339-b689" name="Franklin D. Roosevelt" hidden="false" collective="false" import="true" type="upgrade"/>
+              </selectionEntries>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
+        </selectionEntry>
+        <selectionEntry id="0bd2-9e80-e9df-7d92" name="Coral Sea" hidden="false" collective="false" import="true" type="model">
+          <selectionEntryGroups>
+            <selectionEntryGroup id="cbec-db98-4403-8520" name="Refits" hidden="false" collective="false" import="true" defaultSelectionEntryId="fe89-3669-4d65-c736">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="2548-ed48-ee33-79da" type="min"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="554b-baeb-3323-aad7" type="max"/>
+              </constraints>
+              <selectionEntries>
+                <selectionEntry id="fe89-3669-4d65-c736" name="Coral Sea" hidden="false" collective="false" import="true" type="upgrade"/>
+              </selectionEntries>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
+        </selectionEntry>
+      </selectionEntries>
+      <entryLinks>
+        <entryLink id="3afd-15c8-b8a6-5c67" name="Carrier Flights" hidden="false" collective="false" import="true" targetId="df8d-b7fa-ee1b-5a91" type="selectionEntryGroup">
+          <constraints>
+            <constraint field="selections" scope="parent" value="34.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="2b2d-069b-9c36-652c" type="min"/>
+            <constraint field="selections" scope="parent" value="34.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="ae83-2966-0423-bd2d" type="max"/>
+          </constraints>
+        </entryLink>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="450.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="e599-8985-c5b6-7d00" name="Ranger-Class Carrier" hidden="false" collective="false" import="true" type="unit">
+      <categoryLinks>
+        <categoryLink id="8b36-cf82-434c-69f2" name="Aircraft Carrier" hidden="false" targetId="da58-44be-bb7f-80d6" primary="false"/>
+        <categoryLink id="8781-a1ad-dcb7-6d39" name="The US Navy" hidden="false" targetId="a110-98d6-b8fa-8e9a" primary="false"/>
+      </categoryLinks>
+      <selectionEntries>
+        <selectionEntry id="2084-3874-66e4-aeab" name="Ranger" hidden="false" collective="false" import="true" type="model">
+          <selectionEntryGroups>
+            <selectionEntryGroup id="10b6-0ec7-1b67-487c" name="Refits" hidden="false" collective="false" import="true" defaultSelectionEntryId="2025-8db4-cda4-205b">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="a214-4031-27db-57c9" type="min"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="7b84-3141-10b0-a248" type="max"/>
+              </constraints>
+              <selectionEntries>
+                <selectionEntry id="2025-8db4-cda4-205b" name="Ranger" hidden="false" collective="false" import="true" type="upgrade"/>
+                <selectionEntry id="fa8b-4261-9021-c4cb" name="Ranger 1941" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="5.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="1bdf-ae2b-3448-821c" name="Ranger 1942" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="45.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="83ef-a382-78ea-9a25" name="Ranger 1943" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="20.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="c8f4-ffe8-dc77-2f91" name="Ranger 1944" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="10.0"/>
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
+        </selectionEntry>
+      </selectionEntries>
+      <entryLinks>
+        <entryLink id="f82e-0a58-80be-aeff" name="Carrier Flights" hidden="false" collective="false" import="true" targetId="df8d-b7fa-ee1b-5a91" type="selectionEntryGroup">
+          <constraints>
+            <constraint field="selections" scope="parent" value="19.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="c2f6-254f-e0da-7292" type="min"/>
+            <constraint field="selections" scope="parent" value="19.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="25ec-5579-727c-1252" type="max"/>
+          </constraints>
+        </entryLink>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="220.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="05d6-d7ca-855d-f1f3" name="Sangamon-Class Carrier" hidden="false" collective="false" import="true" type="unit">
+      <categoryLinks>
+        <categoryLink id="93f7-33e2-405e-2f6b" name="Aircraft Carrier" hidden="false" targetId="da58-44be-bb7f-80d6" primary="false"/>
+        <categoryLink id="a639-a6eb-d719-9406" name="The US Navy" hidden="false" targetId="a110-98d6-b8fa-8e9a" primary="false"/>
+      </categoryLinks>
+      <selectionEntries>
+        <selectionEntry id="c024-51bf-6bae-85c7" name="Chenango" hidden="false" collective="false" import="true" type="model">
+          <selectionEntryGroups>
+            <selectionEntryGroup id="5a7f-612f-7f60-79c4" name="Refits" hidden="false" collective="false" import="true" defaultSelectionEntryId="b557-cd3a-8fe2-ea8f">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="f17b-53bd-4b34-6b28" type="min"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="8507-1e0f-9427-e5f3" type="max"/>
+              </constraints>
+              <selectionEntries>
+                <selectionEntry id="b557-cd3a-8fe2-ea8f" name="Chenango" hidden="false" collective="false" import="true" type="upgrade"/>
+                <selectionEntry id="6fa9-8a04-8beb-f40c" name="Chenango 1943" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="5.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="497c-8488-3260-f10b" name="Chenango 1944" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="15.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="667f-1803-0ed5-d21f" name="Chenango 1945" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="45.0"/>
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
+        </selectionEntry>
+        <selectionEntry id="722e-d6d6-1071-5351" name="Sangamon" hidden="false" collective="false" import="true" type="model">
+          <selectionEntryGroups>
+            <selectionEntryGroup id="836e-8121-201d-af83" name="Refits" hidden="false" collective="false" import="true" defaultSelectionEntryId="8fa0-39a1-d222-c402">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="6811-8d5c-f54e-f553" type="min"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="e510-05f0-1136-1ca4" type="max"/>
+              </constraints>
+              <selectionEntries>
+                <selectionEntry id="8fa0-39a1-d222-c402" name="Sangamon" hidden="false" collective="false" import="true" type="upgrade"/>
+                <selectionEntry id="78ad-8290-7eab-8bfe" name="Sangamon 1943" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="5.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="8088-290f-c582-66d3" name="Sangamon 1944" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="15.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="a941-d8dc-ba22-520b" name="Sangamon 1945" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="45.0"/>
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
+        </selectionEntry>
+        <selectionEntry id="9486-f885-c40d-e0fe" name="Santee" hidden="false" collective="false" import="true" type="model">
+          <selectionEntryGroups>
+            <selectionEntryGroup id="cac4-7068-2c52-b830" name="Refits" hidden="false" collective="false" import="true" defaultSelectionEntryId="6cc7-dbd7-2dd3-7b51">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="ce9e-909f-0fa2-b47f" type="min"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="0635-103e-0902-74db" type="max"/>
+              </constraints>
+              <selectionEntries>
+                <selectionEntry id="6cc7-dbd7-2dd3-7b51" name="Santee" hidden="false" collective="false" import="true" type="upgrade"/>
+                <selectionEntry id="e026-2296-2650-215a" name="Santee 1943" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="5.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="df6c-d7c6-b983-557f" name="Santee 1944" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="15.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="30b0-86e9-e7c6-1437" name="Santee 1945" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="45.0"/>
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
+        </selectionEntry>
+        <selectionEntry id="334d-bb23-3ecd-fcdf" name="Suwannee" hidden="false" collective="false" import="true" type="model">
+          <selectionEntryGroups>
+            <selectionEntryGroup id="891d-7328-f51a-5d0d" name="Refits" hidden="false" collective="false" import="true" defaultSelectionEntryId="abd2-1c46-032d-7572">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="33ac-ca46-4bb5-c9b1" type="min"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="90ba-88f3-e38f-7d1c" type="max"/>
+              </constraints>
+              <selectionEntries>
+                <selectionEntry id="abd2-1c46-032d-7572" name="Suwannee" hidden="false" collective="false" import="true" type="upgrade"/>
+                <selectionEntry id="d78a-3014-1046-de24" name="Suwannee 1943" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="5.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="384e-0306-cb7c-f387" name="Suwannee 1944" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="15.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="fad3-7ba5-a914-f741" name="Suwannee 1945" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="45.0"/>
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
+        </selectionEntry>
+      </selectionEntries>
+      <entryLinks>
+        <entryLink id="e5fb-f467-6a84-2936" name="Carrier Flights" hidden="false" collective="false" import="true" targetId="df8d-b7fa-ee1b-5a91" type="selectionEntryGroup">
+          <constraints>
+            <constraint field="selections" scope="parent" value="7.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="8894-6987-71c4-443c" type="max"/>
+            <constraint field="selections" scope="parent" value="7.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="993d-289d-329c-94a3" type="min"/>
+          </constraints>
+        </entryLink>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="100.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="d263-35e9-4a40-ec4f" name="Wasp-Class Carrier" hidden="false" collective="false" import="true" type="unit">
+      <categoryLinks>
+        <categoryLink id="ddbb-a072-99b2-3e9c" name="Aircraft Carrier" hidden="false" targetId="da58-44be-bb7f-80d6" primary="false"/>
+        <categoryLink id="df71-fa5f-178f-c4f4" name="The US Navy" hidden="false" targetId="a110-98d6-b8fa-8e9a" primary="false"/>
+      </categoryLinks>
+      <selectionEntries>
+        <selectionEntry id="57df-e005-a5b2-0f03" name="Wasp" hidden="false" collective="false" import="true" type="model">
+          <selectionEntryGroups>
+            <selectionEntryGroup id="3443-3bce-a20d-a8e6" name="Refits" hidden="false" collective="false" import="true" defaultSelectionEntryId="0f5a-bbe9-e769-46ae">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="2aa1-fd0e-81dd-5c7e" type="min"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="36eb-a9c1-1c62-b3bf" type="max"/>
+              </constraints>
+              <selectionEntries>
+                <selectionEntry id="0f5a-bbe9-e769-46ae" name="Wasp" hidden="false" collective="false" import="true" type="upgrade"/>
+                <selectionEntry id="ac77-7c43-1896-4620" name="Wasp 1942" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="35.0"/>
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
+        </selectionEntry>
+      </selectionEntries>
+      <entryLinks>
+        <entryLink id="1a9f-63e8-2d6b-e1d6" name="Carrier Flights" hidden="false" collective="false" import="true" targetId="df8d-b7fa-ee1b-5a91" type="selectionEntryGroup">
+          <constraints>
+            <constraint field="selections" scope="parent" value="21.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="fb5d-e56d-6f71-b3d6" type="max"/>
+            <constraint field="selections" scope="parent" value="21.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="b1cc-bbec-0e39-aa93" type="min"/>
+          </constraints>
+        </entryLink>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="240.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="30ac-cbee-2472-c257" name="Yorktown-Class Carrier" hidden="false" collective="false" import="true" type="unit">
+      <categoryLinks>
+        <categoryLink id="7db3-f8f5-26c5-84b5" name="Aircraft Carrier" hidden="false" targetId="da58-44be-bb7f-80d6" primary="false"/>
+        <categoryLink id="2e14-0736-c2ad-ae8a" name="The US Navy" hidden="false" targetId="a110-98d6-b8fa-8e9a" primary="false"/>
+      </categoryLinks>
+      <selectionEntries>
+        <selectionEntry id="db8f-01d9-0bef-876b" name="Enterprise" hidden="false" collective="false" import="true" type="model">
+          <selectionEntryGroups>
+            <selectionEntryGroup id="5d8e-e4ca-7eb7-9ed1" name="Refits" hidden="false" collective="false" import="true" defaultSelectionEntryId="0258-faf3-d704-ef3f">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="b8a1-0cb4-4d63-c943" type="min"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="1b5e-3eff-f044-a1df" type="max"/>
+              </constraints>
+              <selectionEntries>
+                <selectionEntry id="0258-faf3-d704-ef3f" name="Enterprise" hidden="false" collective="false" import="true" type="upgrade"/>
+                <selectionEntry id="a8dc-872e-0a8f-7e71" name="Enterprise 1940" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="20.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="c718-7318-5522-4229" name="Enterprise 1942" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="30.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="3e0c-43b1-986f-d5ea" name="Enterprise 1943" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="95.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="ffac-d386-5e8c-71a7" name="Enterprise 1945" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="105.0"/>
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
+        </selectionEntry>
+        <selectionEntry id="7017-9962-c1c2-12af" name="Hornet" hidden="false" collective="false" import="true" type="model">
+          <selectionEntryGroups>
+            <selectionEntryGroup id="dcbc-0991-3453-f494" name="Refits" hidden="false" collective="false" import="true" defaultSelectionEntryId="cb71-ec37-c828-6745">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="7d27-55b3-2339-1e81" type="min"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="d80c-2ff8-c116-a155" type="max"/>
+              </constraints>
+              <selectionEntries>
+                <selectionEntry id="cb71-ec37-c828-6745" name="Hornet" hidden="false" collective="false" import="true" type="upgrade"/>
+                <selectionEntry id="d99f-6be7-b675-088d" name="Hornet 1941" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="20.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="932b-fdd0-e581-c0b5" name="Hornet 1942" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="25.0"/>
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
+        </selectionEntry>
+        <selectionEntry id="ea21-8fcc-12a2-46d9" name="Yorktown" hidden="false" collective="false" import="true" type="model">
+          <selectionEntryGroups>
+            <selectionEntryGroup id="2867-d3ed-149e-3fb9" name="Refits" hidden="false" collective="false" import="true" defaultSelectionEntryId="56ed-122b-159b-13ca">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="fd1b-e398-eb33-3470" type="min"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="3f06-569c-5391-4277" type="max"/>
+              </constraints>
+              <selectionEntries>
+                <selectionEntry id="56ed-122b-159b-13ca" name="Yorktown" hidden="false" collective="false" import="true" type="upgrade"/>
+                <selectionEntry id="d04e-684a-401c-764a" name="Yorktown 1940" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="20.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="f388-a420-28fd-22b0" name="Yorktown 1942" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="25.0"/>
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
+        </selectionEntry>
+      </selectionEntries>
+      <entryLinks>
+        <entryLink id="7b48-59b7-28fb-a799" name="Carrier Flights" hidden="false" collective="false" import="true" targetId="df8d-b7fa-ee1b-5a91" type="selectionEntryGroup">
+          <constraints>
+            <constraint field="selections" scope="parent" value="24.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="aea2-ad57-352a-b755" type="max"/>
+            <constraint field="selections" scope="parent" value="24.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="996a-7021-6a20-acaf" type="min"/>
+          </constraints>
+        </entryLink>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="280.0"/>
       </costs>
     </selectionEntry>
   </sharedSelectionEntries>
