@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<catalogue id="764e-277a-ff05-fdc6" name="The US Navy" revision="1" battleScribeVersion="2.03" library="false" gameSystemId="d551-9646-dd17-819a" gameSystemRevision="1" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
+<catalogue id="764e-277a-ff05-fdc6" name="The US Navy" revision="2" battleScribeVersion="2.03" library="false" gameSystemId="d551-9646-dd17-819a" gameSystemRevision="1" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
   <entryLinks>
     <entryLink id="0dc1-d61d-4554-08ed" name="Portland-Class Cruiser" hidden="false" collective="false" import="true" targetId="b8aa-d7c0-c29e-3d4d" type="selectionEntry">
       <categoryLinks>
@@ -24,11 +24,6 @@
     <entryLink id="a3de-c929-4a68-a0d5" name="Essex-Class Aircraft Carrier" hidden="false" collective="false" import="true" targetId="2e47-ccf3-f53c-78c5" type="selectionEntry">
       <categoryLinks>
         <categoryLink id="7f27-95b7-2688-7a9f" name="New CategoryLink" hidden="false" targetId="da58-44be-bb7f-80d6" primary="true"/>
-      </categoryLinks>
-    </entryLink>
-    <entryLink id="2ed1-6f45-f8ad-5cb1" name="Corsair Flights" hidden="false" collective="false" import="true" targetId="879c-f66d-b935-5b51" type="selectionEntry">
-      <categoryLinks>
-        <categoryLink id="c771-07ef-0c11-4c4e" name="New CategoryLink" hidden="false" targetId="c08d-d9af-1109-9c27" primary="true"/>
       </categoryLinks>
     </entryLink>
     <entryLink id="5f12-8c1d-dca3-2012" name="Pennsylvania-Class Battleship" hidden="false" collective="false" import="true" targetId="7dc1-fd5f-2f0d-e55c" type="selectionEntry">
@@ -235,6 +230,141 @@
     <entryLink id="af40-72a6-0c03-e757" name="Gato-Class Submarine" hidden="false" collective="false" import="true" targetId="37db-6a6a-fee2-a06e" type="selectionEntry">
       <categoryLinks>
         <categoryLink id="f598-6a9f-e6f4-c903" name="New CategoryLink" hidden="false" targetId="3c73-d3d0-7c07-b8e5" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="0c8c-5044-0eb5-2d46" name="Bell P-39D Airacobra - Fighter" hidden="false" collective="false" import="true" targetId="76f3-7203-b5e7-2858" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="3b71-84df-af1e-75c2" name="New CategoryLink" hidden="false" targetId="c08d-d9af-1109-9c27" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="144a-f6ff-7f97-a594" name="Bell P-39D Airacobra - Bomber" hidden="false" collective="false" import="true" targetId="02d4-24a7-b320-64a0" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="3f6f-a074-0fc8-aaf4" name="New CategoryLink" hidden="false" targetId="c08d-d9af-1109-9c27" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="f5ec-56dc-b06d-ac89" name="Boeing B-17D Flying Fortress - Level Bomber" hidden="false" collective="false" import="true" targetId="f787-b196-5590-814d" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="d1bc-79ff-9bca-328f" name="New CategoryLink" hidden="false" targetId="c08d-d9af-1109-9c27" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="f203-8e43-1ca0-b771" name="Curtiss P-40C Warhawk - Fighter" hidden="false" collective="false" import="true" targetId="e7b1-db6e-a03e-065a" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="d692-ca41-328f-ca86" name="New CategoryLink" hidden="false" targetId="c08d-d9af-1109-9c27" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="2d05-1515-6c7b-ecbd" name="Curtiss SB2C-1 Helldiver - Dive-bomber" hidden="false" collective="false" import="true" targetId="9d86-97df-7cc7-d7da" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="58e1-0ecf-d78d-a8c5" name="New CategoryLink" hidden="false" targetId="c08d-d9af-1109-9c27" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="ecde-2ec6-c407-55c9" name="Douglas SBD-2 Dauntless - Dive-Bomber" hidden="false" collective="false" import="true" targetId="e5d5-40aa-a05f-522f" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="69ca-6692-0907-364c" name="New CategoryLink" hidden="false" targetId="c08d-d9af-1109-9c27" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="f4d5-b09c-3c89-eea0" name="Douglas TBD-1 Devastator - Bomber" hidden="false" collective="false" import="true" targetId="7e20-4555-f577-3827" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="a91d-3915-bbaa-7555" name="New CategoryLink" hidden="false" targetId="c08d-d9af-1109-9c27" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="09f2-8c16-d4a6-5d8a" name="Douglas TBD-1 Devastator - Torpedo-Bomber" hidden="false" collective="false" import="true" targetId="eeaf-f298-fb07-8fe1" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="f0d7-32f0-6865-4f31" name="New CategoryLink" hidden="false" targetId="c08d-d9af-1109-9c27" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="405c-d02c-8713-0335" name="Grumman F4F-3 Wildcat - Bomber" hidden="false" collective="false" import="true" targetId="bee6-4eb3-cd24-aa3c" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="8db9-0ce0-b443-6141" name="New CategoryLink" hidden="false" targetId="c08d-d9af-1109-9c27" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="cc46-f4f5-ae6d-d875" name="Grumman F4F-3 Wildcat - Fighter" hidden="false" collective="false" import="true" targetId="bedf-d209-ab36-02e1" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="252e-50f0-578f-92f4" name="New CategoryLink" hidden="false" targetId="c08d-d9af-1109-9c27" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="bc2b-d424-a6f0-404a" name="Grumman F6F-3 Hellcat - Fighter" hidden="false" collective="false" import="true" targetId="aef2-f27c-37f6-f5ea" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="e4cd-bb79-5fc0-35f1" name="New CategoryLink" hidden="false" targetId="c08d-d9af-1109-9c27" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="6cc6-f3e3-4d14-c7bf" name="Grumman TBF-1/TBM-1C Avenger - ASW" hidden="false" collective="false" import="true" targetId="2457-a900-ea4b-5bdb" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="015a-01ff-f560-565b" name="New CategoryLink" hidden="false" targetId="c08d-d9af-1109-9c27" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="8525-b8fb-a653-2d28" name="Grumman TBF-1C/TBM-1C Avenger - Torpedo-Bomber" hidden="false" collective="false" import="true" targetId="42e1-7417-b78e-77a0" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="b131-edd0-f4fe-85e0" name="New CategoryLink" hidden="false" targetId="c08d-d9af-1109-9c27" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="7b57-7bae-4a30-7c27" name="Lockheed Hudson - Bomber" hidden="false" collective="false" import="true" targetId="5049-d2f8-f83f-d003" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="d28d-6d19-0ba4-69a1" name="New CategoryLink" hidden="false" targetId="c08d-d9af-1109-9c27" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="858c-80ac-6efb-c9cf" name="North American B-25C Mitchell - Bomber" hidden="false" collective="false" import="true" targetId="d197-be57-b5d2-5f93" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="a6f6-42f4-958d-5ff8" name="New CategoryLink" hidden="false" targetId="c08d-d9af-1109-9c27" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="4db3-5c3f-e6b2-8822" name="North American B-25C Mitchell - Torpedo-Bomber" hidden="false" collective="false" import="true" targetId="cc66-4bd7-e965-00d3" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="7565-10e3-cb37-5ece" name="New CategoryLink" hidden="false" targetId="c08d-d9af-1109-9c27" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="10a3-b4a8-5d08-edde" name="North American B-25C Mitchell - ASW" hidden="false" collective="false" import="true" targetId="1721-4e2d-0b13-8842" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="4c38-fec8-9ddb-5786" name="New CategoryLink" hidden="false" targetId="c08d-d9af-1109-9c27" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="11c2-98b4-6794-2fa1" name="Consolidated BPY-2/3/4 Catalina - ASW" hidden="false" collective="false" import="true" targetId="814f-86f8-62f2-a933" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="5bdf-8646-e44d-ad81" name="New CategoryLink" hidden="false" targetId="c08d-d9af-1109-9c27" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="fdfb-71cc-2722-01a2" name="Consolidated PBY-2/3/4 Catalina - Bomber" hidden="false" collective="false" import="true" targetId="dcde-3f4f-ccaa-0278" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="8c34-df7f-3921-875d" name="New CategoryLink" hidden="false" targetId="c08d-d9af-1109-9c27" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="aa94-9551-ae39-9d6a" name="Consolidated PBY-2/3/4 Catalina - Torpedo-Bomber" hidden="false" collective="false" import="true" targetId="a35a-26a4-b93b-8c2c" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="8a8e-4670-0920-4729" name="New CategoryLink" hidden="false" targetId="c08d-d9af-1109-9c27" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="2e34-b921-bb2d-a7ee" name="North American P-51A Mustang - Fighter" hidden="false" collective="false" import="true" targetId="e76a-0617-2bd1-29ad" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="33f8-0bc1-99c6-5f52" name="New CategoryLink" hidden="false" targetId="c08d-d9af-1109-9c27" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="d411-94f4-20ab-5335" name="North American P-51A Mustang - Bomber" hidden="false" collective="false" import="true" targetId="c943-80d3-1d4c-e525" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="bd0f-ec06-3aa8-32ca" name="New CategoryLink" hidden="false" targetId="c08d-d9af-1109-9c27" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="a2be-7bba-20fe-7601" name="Vought F4U-1 Corsair - Fighter" hidden="false" collective="false" import="true" targetId="e187-3dc3-13b8-4722" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="1c22-743c-5d20-0946" name="New CategoryLink" hidden="false" targetId="c08d-d9af-1109-9c27" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="749f-79a2-8850-eacb" name="Vought F4U-4 Corsair - Bomber" hidden="false" collective="false" import="true" targetId="68b5-4bc3-28e4-1241" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="30d4-f409-cc6c-3b67" name="New CategoryLink" hidden="false" targetId="c08d-d9af-1109-9c27" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="0440-d7c7-0952-104a" name="Vought SB2U Vindicator - Dive-Bomber" hidden="false" collective="false" import="true" targetId="4663-a2f9-858c-1624" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="1834-ccc8-ffbe-b1ea" name="New CategoryLink" hidden="false" targetId="c08d-d9af-1109-9c27" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="f6e7-5fa0-321b-cc3c" name="Elco&apos;77 MTB" hidden="false" collective="false" import="true" targetId="db5f-09fa-db60-11bc" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="2db0-6384-a0ab-1b35" name="New CategoryLink" hidden="false" targetId="cf88-2062-68e4-b49a" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="88ec-8f84-c574-8d7b" name="Elco&apos;80 MTB" hidden="false" collective="false" import="true" targetId="802c-298f-9436-ed2a" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="9d64-59f8-3fcf-c90f" name="New CategoryLink" hidden="false" targetId="cf88-2062-68e4-b49a" primary="true"/>
       </categoryLinks>
     </entryLink>
   </entryLinks>
@@ -8873,88 +9003,6 @@
         <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="270.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="879c-f66d-b935-5b51" name="Corsair Flights" hidden="false" collective="false" import="true" type="upgrade">
-      <categoryLinks>
-        <categoryLink id="0bf1-148f-69c1-163b" name="Aircraft Flight" hidden="false" targetId="c08d-d9af-1109-9c27" primary="false"/>
-        <categoryLink id="36b6-f714-08d4-ce0a" name="The US Navy" hidden="false" targetId="a110-98d6-b8fa-8e9a" primary="false"/>
-      </categoryLinks>
-      <selectionEntries>
-        <selectionEntry id="9d5a-5686-7fec-e03d" name="1942" hidden="false" collective="false" import="true" type="upgrade">
-          <selectionEntries>
-            <selectionEntry id="5d44-9ff2-c20a-c4db" name="Vought F4U-1 Corsair" hidden="false" collective="false" import="true" type="upgrade">
-              <profiles>
-                <profile id="a284-398b-868f-1684" name="Vought F4U-1 Corsair" hidden="false" typeId="94d1-ba1c-98de-f273" typeName="Aircraft">
-                  <characteristics>
-                    <characteristic name="Flight" typeId="9d24-de86-2e13-2aa2">Vought F4U-1 Corsair</characteristic>
-                    <characteristic name="Carrier Capable" typeId="82c4-41a8-080d-5ee3">No</characteristic>
-                    <characteristic name="Role" typeId="81db-f323-b61e-5f1f">Fighter</characteristic>
-                    <characteristic name="Flank Speed" typeId="e29b-b9eb-d470-d6f8">30&quot;</characteristic>
-                    <characteristic name="Dogfight" typeId="bbad-b699-5476-bdfc">+3</characteristic>
-                    <characteristic name="Damage Dice" typeId="7241-6bab-e1b3-41a5">0</characteristic>
-                    <characteristic name="Traits" typeId="480e-9141-ccd3-fb18">Tough</characteristic>
-                    <characteristic name="Points" typeId="4987-2d92-bb96-5dd5"/>
-                  </characteristics>
-                </profile>
-              </profiles>
-              <costs>
-                <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
-              </costs>
-            </selectionEntry>
-          </selectionEntries>
-          <costs>
-            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
-          </costs>
-        </selectionEntry>
-        <selectionEntry id="ebf1-e6f7-fbc4-6d78" name="1944" hidden="false" collective="false" import="true" type="upgrade">
-          <selectionEntries>
-            <selectionEntry id="27c5-82ad-96ee-ce0d" name="Vought F4U-1 Corsair (Fighter)" hidden="false" collective="false" import="true" type="upgrade">
-              <profiles>
-                <profile id="a29d-cd24-217c-cd5b" name="Vought F4U-1 Corsair" hidden="false" typeId="94d1-ba1c-98de-f273" typeName="Aircraft">
-                  <characteristics>
-                    <characteristic name="Flight" typeId="9d24-de86-2e13-2aa2">Vought F4U-1 Corsair</characteristic>
-                    <characteristic name="Carrier Capable" typeId="82c4-41a8-080d-5ee3">Yes</characteristic>
-                    <characteristic name="Role" typeId="81db-f323-b61e-5f1f">Fighter</characteristic>
-                    <characteristic name="Flank Speed" typeId="e29b-b9eb-d470-d6f8">32&quot;</characteristic>
-                    <characteristic name="Dogfight" typeId="bbad-b699-5476-bdfc">+4</characteristic>
-                    <characteristic name="Damage Dice" typeId="7241-6bab-e1b3-41a5">0</characteristic>
-                    <characteristic name="Traits" typeId="480e-9141-ccd3-fb18">Tough</characteristic>
-                    <characteristic name="Points" typeId="4987-2d92-bb96-5dd5"/>
-                  </characteristics>
-                </profile>
-              </profiles>
-              <costs>
-                <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
-              </costs>
-            </selectionEntry>
-            <selectionEntry id="988c-e764-3e6c-30c3" name="Vought F4U-1 Corsair (Bomber)" hidden="false" collective="false" import="true" type="upgrade">
-              <profiles>
-                <profile id="d0ca-211c-be15-067c" name="Vought F4U-1 Corsair" hidden="false" typeId="94d1-ba1c-98de-f273" typeName="Aircraft">
-                  <characteristics>
-                    <characteristic name="Flight" typeId="9d24-de86-2e13-2aa2">Vought F4U-1 Corsair</characteristic>
-                    <characteristic name="Carrier Capable" typeId="82c4-41a8-080d-5ee3">Yes</characteristic>
-                    <characteristic name="Role" typeId="81db-f323-b61e-5f1f">Bomber</characteristic>
-                    <characteristic name="Flank Speed" typeId="e29b-b9eb-d470-d6f8">32&quot;</characteristic>
-                    <characteristic name="Dogfight" typeId="bbad-b699-5476-bdfc">+3</characteristic>
-                    <characteristic name="Damage Dice" typeId="7241-6bab-e1b3-41a5">4</characteristic>
-                    <characteristic name="Traits" typeId="480e-9141-ccd3-fb18">Tough</characteristic>
-                    <characteristic name="Points" typeId="4987-2d92-bb96-5dd5"/>
-                  </characteristics>
-                </profile>
-              </profiles>
-              <costs>
-                <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
-              </costs>
-            </selectionEntry>
-          </selectionEntries>
-          <costs>
-            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
-          </costs>
-        </selectionEntry>
-      </selectionEntries>
-      <costs>
-        <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="25.0"/>
-      </costs>
-    </selectionEntry>
     <selectionEntry id="7dc1-fd5f-2f0d-e55c" name="Pennsylvania-Class Battleship" hidden="false" collective="false" import="true" type="unit">
       <categoryLinks>
         <categoryLink id="f6ff-21f1-06d6-9cff" name="Battleship" hidden="false" targetId="5153-aef8-326b-3c5f" primary="false"/>
@@ -16116,7 +16164,7 @@
         <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="100.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="cf8a-2491-d1ce-73ad" name="Des Moies-Class Cruiser" hidden="false" collective="false" import="true" type="unit">
+    <selectionEntry id="cf8a-2491-d1ce-73ad" name="Des Moines-Class Cruiser" hidden="false" collective="false" import="true" type="unit">
       <categoryLinks>
         <categoryLink id="d540-7550-a334-f3be" name="Cruiser" hidden="false" targetId="f46e-c2a8-5a64-daf9" primary="false"/>
         <categoryLink id="f03b-43a0-61b4-f3af" name="The US Navy" hidden="false" targetId="a110-98d6-b8fa-8e9a" primary="false"/>
@@ -21482,7 +21530,11 @@
                 <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="079c-664c-4d56-672b" type="max"/>
               </constraints>
               <selectionEntries>
-                <selectionEntry id="6b0f-2faa-8eb9-b3ff" name="Balch" hidden="false" collective="false" import="true" type="upgrade"/>
+                <selectionEntry id="6b0f-2faa-8eb9-b3ff" name="Balch" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
                 <selectionEntry id="3b9f-0281-6f48-d484" name="Balch 1941" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="5.0"/>
@@ -21506,6 +21558,9 @@
               </selectionEntries>
             </selectionEntryGroup>
           </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
         </selectionEntry>
         <selectionEntry id="9624-4ab3-1a78-2f01" name="Clark" hidden="false" collective="false" import="true" type="model">
           <selectionEntryGroups>
@@ -21515,7 +21570,11 @@
                 <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="8d2f-b522-e921-5593" type="max"/>
               </constraints>
               <selectionEntries>
-                <selectionEntry id="cbbc-de10-f0f5-6841" name="Clark" hidden="false" collective="false" import="true" type="upgrade"/>
+                <selectionEntry id="cbbc-de10-f0f5-6841" name="Clark" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
                 <selectionEntry id="a9ca-f11b-517d-608c" name="Clark 1941" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="5.0"/>
@@ -21539,6 +21598,9 @@
               </selectionEntries>
             </selectionEntryGroup>
           </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
         </selectionEntry>
         <selectionEntry id="a810-cbee-5ba3-2109" name="McDougal" hidden="false" collective="false" import="true" type="model">
           <selectionEntryGroups>
@@ -21548,7 +21610,11 @@
                 <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="1993-9036-fd3f-9b20" type="max"/>
               </constraints>
               <selectionEntries>
-                <selectionEntry id="20d9-a133-c726-5d99" name="McDougal" hidden="false" collective="false" import="true" type="upgrade"/>
+                <selectionEntry id="20d9-a133-c726-5d99" name="McDougal" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
                 <selectionEntry id="f282-9c30-ba72-9a6b" name="McDougal 1941" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="5.0"/>
@@ -21577,6 +21643,9 @@
               </selectionEntries>
             </selectionEntryGroup>
           </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
         </selectionEntry>
         <selectionEntry id="0c1b-4890-e203-36eb" name="Moffet" hidden="false" collective="false" import="true" type="model">
           <selectionEntryGroups>
@@ -21586,7 +21655,11 @@
                 <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="d2fe-5eff-ff36-779a" type="max"/>
               </constraints>
               <selectionEntries>
-                <selectionEntry id="f479-c719-75a0-08f3" name="Moffet" hidden="false" collective="false" import="true" type="upgrade"/>
+                <selectionEntry id="f479-c719-75a0-08f3" name="Moffet" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
                 <selectionEntry id="ac82-0472-5438-1a45" name="Moffet 1941" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="5.0"/>
@@ -21610,6 +21683,9 @@
               </selectionEntries>
             </selectionEntryGroup>
           </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
         </selectionEntry>
         <selectionEntry id="6918-f032-4e2f-ba59" name="Phelps" hidden="false" collective="false" import="true" type="model">
           <selectionEntryGroups>
@@ -21619,7 +21695,11 @@
                 <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="803e-505a-3a89-e31a" type="max"/>
               </constraints>
               <selectionEntries>
-                <selectionEntry id="03f8-381b-4a22-82cd" name="Phelps" hidden="false" collective="false" import="true" type="upgrade"/>
+                <selectionEntry id="03f8-381b-4a22-82cd" name="Phelps" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
                 <selectionEntry id="016b-9bf9-bbad-285b" name="Phelps 1941" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="5.0"/>
@@ -21648,6 +21728,9 @@
               </selectionEntries>
             </selectionEntryGroup>
           </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
         </selectionEntry>
         <selectionEntry id="aabe-f56c-bee2-d4b3" name="Selfridge" hidden="false" collective="false" import="true" type="model">
           <selectionEntryGroups>
@@ -21657,7 +21740,11 @@
                 <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="9f8f-0363-be21-3755" type="max"/>
               </constraints>
               <selectionEntries>
-                <selectionEntry id="60bc-54b9-b238-35de" name="Selfridge" hidden="false" collective="false" import="true" type="upgrade"/>
+                <selectionEntry id="60bc-54b9-b238-35de" name="Selfridge" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
                 <selectionEntry id="410d-0a42-e6c5-a389" name="Selfridge 1941" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="5.0"/>
@@ -21681,6 +21768,9 @@
               </selectionEntries>
             </selectionEntryGroup>
           </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
         </selectionEntry>
         <selectionEntry id="606f-275b-542e-589b" name="Winslow" hidden="false" collective="false" import="true" type="model">
           <selectionEntryGroups>
@@ -21690,7 +21780,11 @@
                 <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="f721-00ee-fcec-90a6" type="max"/>
               </constraints>
               <selectionEntries>
-                <selectionEntry id="c7e2-d479-ed5c-7aa0" name="Winslow" hidden="false" collective="false" import="true" type="upgrade"/>
+                <selectionEntry id="c7e2-d479-ed5c-7aa0" name="Winslow" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
                 <selectionEntry id="5cb2-0bab-85a2-9aca" name="Winslow 1941" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="5.0"/>
@@ -21719,6 +21813,9 @@
               </selectionEntries>
             </selectionEntryGroup>
           </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
         </selectionEntry>
         <selectionEntry id="2227-a665-5e88-a432" name="Porter" hidden="false" collective="false" import="true" type="model">
           <selectionEntryGroups>
@@ -21728,7 +21825,11 @@
                 <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="3077-266d-fa8f-01f1" type="max"/>
               </constraints>
               <selectionEntries>
-                <selectionEntry id="d278-5632-dc0e-1394" name="Porter" hidden="false" collective="false" import="true" type="upgrade"/>
+                <selectionEntry id="d278-5632-dc0e-1394" name="Porter" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
                 <selectionEntry id="762d-8d14-6147-dab3" name="Porter 1941" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="5.0"/>
@@ -21742,6 +21843,9 @@
               </selectionEntries>
             </selectionEntryGroup>
           </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
         </selectionEntry>
       </selectionEntries>
       <costs>
@@ -21762,7 +21866,11 @@
                 <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="e561-6e8f-ed6e-e169" type="max"/>
               </constraints>
               <selectionEntries>
-                <selectionEntry id="d61b-3389-127b-d3be" name="Anderson" hidden="false" collective="false" import="true" type="upgrade"/>
+                <selectionEntry id="d61b-3389-127b-d3be" name="Anderson" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
                 <selectionEntry id="3624-152f-d810-a3c6" name="Anderson 1940" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="5.0"/>
@@ -21798,8 +21906,16 @@
                 <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="f03f-e5ed-2410-b2fb" type="max"/>
               </constraints>
               <selectionEntries>
-                <selectionEntry id="c79a-ad0d-2b47-7247" name="Buck" hidden="false" collective="false" import="true" type="upgrade"/>
-                <selectionEntry id="4069-7b43-171e-9657" name="Buck 1941" hidden="false" collective="false" import="true" type="upgrade"/>
+                <selectionEntry id="c79a-ad0d-2b47-7247" name="Buck" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="4069-7b43-171e-9657" name="Buck 1941" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
                 <selectionEntry id="8e31-deac-1be5-2a7b" name="Buck 1942" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="10.0"/>
@@ -21813,6 +21929,9 @@
               </selectionEntries>
             </selectionEntryGroup>
           </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
         </selectionEntry>
         <selectionEntry id="187e-ee9b-2a5c-e031" name="Hammann" hidden="false" collective="false" import="true" type="model">
           <selectionEntryGroups>
@@ -21822,7 +21941,11 @@
                 <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="ac12-dbc0-6d0c-a17f" type="max"/>
               </constraints>
               <selectionEntries>
-                <selectionEntry id="2f33-cb77-e527-42ba" name="Hammann" hidden="false" collective="false" import="true" type="upgrade"/>
+                <selectionEntry id="2f33-cb77-e527-42ba" name="Hammann" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
                 <selectionEntry id="98da-7b83-77da-e446" name="Hammann 1940" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="5.0"/>
@@ -21853,7 +21976,11 @@
                 <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="4bdb-0b07-ef56-56f0" type="max"/>
               </constraints>
               <selectionEntries>
-                <selectionEntry id="bb4a-11c0-5e82-21ac" name="Hughes" hidden="false" collective="false" import="true" type="upgrade"/>
+                <selectionEntry id="bb4a-11c0-5e82-21ac" name="Hughes" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
                 <selectionEntry id="7957-a522-2456-8f6d" name="Hughes 1940" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="5.0"/>
@@ -21884,8 +22011,16 @@
                 <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="1d0c-2709-6002-6060" type="max"/>
               </constraints>
               <selectionEntries>
-                <selectionEntry id="8ff4-5121-84a7-2ce3" name="Morris" hidden="false" collective="false" import="true" type="upgrade"/>
-                <selectionEntry id="7a79-a6d4-b648-45eb" name="Morris 1941" hidden="false" collective="false" import="true" type="upgrade"/>
+                <selectionEntry id="8ff4-5121-84a7-2ce3" name="Morris" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="7a79-a6d4-b648-45eb" name="Morris 1941" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
                 <selectionEntry id="6990-9e99-f0ef-db48" name="Morris 1942" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="10.0"/>
@@ -21904,6 +22039,9 @@
               </selectionEntries>
             </selectionEntryGroup>
           </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
         </selectionEntry>
         <selectionEntry id="3a12-18a8-0246-4fe2" name="Mustin" hidden="false" collective="false" import="true" type="upgrade">
           <selectionEntryGroups>
@@ -21913,7 +22051,11 @@
                 <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="cd39-ba00-77e2-dcbb" type="max"/>
               </constraints>
               <selectionEntries>
-                <selectionEntry id="9985-ae6b-207a-abbb" name="Mustin" hidden="false" collective="false" import="true" type="upgrade"/>
+                <selectionEntry id="9985-ae6b-207a-abbb" name="Mustin" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
                 <selectionEntry id="fc4b-dd98-0ee3-b9c0" name="Mustin 1940" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="5.0"/>
@@ -21954,8 +22096,16 @@
                 <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="c01c-1254-92f1-e9f4" type="max"/>
               </constraints>
               <selectionEntries>
-                <selectionEntry id="b615-1812-9b0b-9e17" name="O&apos;Brien" hidden="false" collective="false" import="true" type="upgrade"/>
-                <selectionEntry id="e935-d4b1-c105-4f90" name="O&apos;Brien 1941" hidden="false" collective="false" import="true" type="upgrade"/>
+                <selectionEntry id="b615-1812-9b0b-9e17" name="O&apos;Brien" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="e935-d4b1-c105-4f90" name="O&apos;Brien 1941" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
                 <selectionEntry id="c7b3-d8d4-df58-6a59" name="O&apos;Brien 1942" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="10.0"/>
@@ -21964,6 +22114,9 @@
               </selectionEntries>
             </selectionEntryGroup>
           </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
         </selectionEntry>
         <selectionEntry id="2804-ecd0-fe36-a003" name="Roe" hidden="false" collective="false" import="true" type="model">
           <selectionEntryGroups>
@@ -21973,8 +22126,16 @@
                 <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="a09e-c8c0-f0e4-2358" type="max"/>
               </constraints>
               <selectionEntries>
-                <selectionEntry id="676b-8dc8-c9c0-f436" name="Roe" hidden="false" collective="false" import="true" type="upgrade"/>
-                <selectionEntry id="6e78-3271-c9f3-c408" name="Roe 1941" hidden="false" collective="false" import="true" type="upgrade"/>
+                <selectionEntry id="676b-8dc8-c9c0-f436" name="Roe" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="6e78-3271-c9f3-c408" name="Roe 1941" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
                 <selectionEntry id="a331-c0df-1357-2ffb" name="Roe 1942" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="10.0"/>
@@ -21988,6 +22149,9 @@
               </selectionEntries>
             </selectionEntryGroup>
           </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
         </selectionEntry>
         <selectionEntry id="0428-d360-5eaf-0d5a" name="Russell" hidden="false" collective="false" import="true" type="model">
           <selectionEntryGroups>
@@ -21997,8 +22161,16 @@
                 <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="3a5e-7208-81b7-fd2a" type="max"/>
               </constraints>
               <selectionEntries>
-                <selectionEntry id="6007-8496-cf71-1603" name="Russell" hidden="false" collective="false" import="true" type="upgrade"/>
-                <selectionEntry id="8446-c2fa-2cc7-ba95" name="Russell 1941" hidden="false" collective="false" import="true" type="upgrade"/>
+                <selectionEntry id="6007-8496-cf71-1603" name="Russell" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="8446-c2fa-2cc7-ba95" name="Russell 1941" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
                 <selectionEntry id="fb07-99d9-5911-d80e" name="Russell 1942" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="10.0"/>
@@ -22017,6 +22189,9 @@
               </selectionEntries>
             </selectionEntryGroup>
           </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
         </selectionEntry>
         <selectionEntry id="7992-e3ed-e728-43b7" name="Sims" hidden="false" collective="false" import="true" type="model">
           <selectionEntryGroups>
@@ -22026,7 +22201,11 @@
                 <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="f4c9-0d77-3706-1c0f" type="max"/>
               </constraints>
               <selectionEntries>
-                <selectionEntry id="10ae-727c-f6f8-3f24" name="Sims" hidden="false" collective="false" import="true" type="upgrade"/>
+                <selectionEntry id="10ae-727c-f6f8-3f24" name="Sims" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
                 <selectionEntry id="875c-28d8-0e84-c0df" name="Sims 1940" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="5.0"/>
@@ -22057,8 +22236,16 @@
                 <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="0bc3-f6fd-f9c1-1b37" type="max"/>
               </constraints>
               <selectionEntries>
-                <selectionEntry id="b482-8e85-d339-46d4" name="Wainwright" hidden="false" collective="false" import="true" type="upgrade"/>
-                <selectionEntry id="d9c2-c06d-3770-7439" name="Wainwright 1941" hidden="false" collective="false" import="true" type="upgrade"/>
+                <selectionEntry id="b482-8e85-d339-46d4" name="Wainwright" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="d9c2-c06d-3770-7439" name="Wainwright 1941" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
                 <selectionEntry id="75b0-8e62-dc53-cfc1" name="Wainwright 1942" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="10.0"/>
@@ -22082,6 +22269,9 @@
               </selectionEntries>
             </selectionEntryGroup>
           </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
         </selectionEntry>
         <selectionEntry id="a728-8d91-ed07-404c" name="Walke" hidden="false" collective="false" import="true" type="model">
           <selectionEntryGroups>
@@ -22091,8 +22281,16 @@
                 <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="0f40-1c3e-2a0b-bdc3" type="max"/>
               </constraints>
               <selectionEntries>
-                <selectionEntry id="6534-8ee6-ebec-c3b3" name="Walke" hidden="false" collective="false" import="true" type="upgrade"/>
-                <selectionEntry id="050c-60b8-2395-2a60" name="Walke 1941" hidden="false" collective="false" import="true" type="upgrade"/>
+                <selectionEntry id="6534-8ee6-ebec-c3b3" name="Walke" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="050c-60b8-2395-2a60" name="Walke 1941" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
                 <selectionEntry id="a219-db14-06b2-268f" name="Walke 1942" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="10.0"/>
@@ -22101,6 +22299,9 @@
               </selectionEntries>
             </selectionEntryGroup>
           </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
         </selectionEntry>
       </selectionEntries>
       <costs>
@@ -22121,7 +22322,11 @@
                 <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="58e3-2c46-e2f7-3452" type="max"/>
               </constraints>
               <selectionEntries>
-                <selectionEntry id="345b-94af-967f-b023" name="Gato-Class" hidden="false" collective="false" import="true" type="upgrade"/>
+                <selectionEntry id="345b-94af-967f-b023" name="Gato-Class" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
                 <selectionEntry id="0b1e-a46f-c811-e4ac" name="Gato-Class 1942" hidden="false" collective="false" import="true" type="upgrade">
                   <costs>
                     <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="15.0"/>
@@ -22140,10 +22345,313 @@
               </selectionEntries>
             </selectionEntryGroup>
           </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
         </selectionEntry>
       </selectionEntries>
       <costs>
         <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="50.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="76f3-7203-b5e7-2858" name="Bell P-39D Airacobra - Fighter" hidden="false" collective="false" import="true" type="model">
+      <categoryLinks>
+        <categoryLink id="2d9b-212a-5a87-36f5" name="Aircraft Flight" hidden="false" targetId="c08d-d9af-1109-9c27" primary="false"/>
+        <categoryLink id="45b1-c15c-f127-2ac6" name="The US Navy" hidden="false" targetId="a110-98d6-b8fa-8e9a" primary="false"/>
+      </categoryLinks>
+      <costs>
+        <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="20.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="02d4-24a7-b320-64a0" name="Bell P-39D Airacobra - Bomber" hidden="false" collective="false" import="true" type="model">
+      <categoryLinks>
+        <categoryLink id="fad9-a59e-083e-0292" name="Aircraft Flight" hidden="false" targetId="c08d-d9af-1109-9c27" primary="false"/>
+        <categoryLink id="b0c2-ba9a-99b5-f7a4" name="The US Navy" hidden="false" targetId="a110-98d6-b8fa-8e9a" primary="false"/>
+      </categoryLinks>
+      <costs>
+        <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="20.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="f787-b196-5590-814d" name="Boeing B-17D Flying Fortress - Level Bomber" hidden="false" collective="false" import="true" type="model">
+      <categoryLinks>
+        <categoryLink id="e7c9-263e-2439-e9ee" name="Aircraft Flight" hidden="false" targetId="c08d-d9af-1109-9c27" primary="false"/>
+        <categoryLink id="15ae-79b0-d508-1c72" name="The US Navy" hidden="false" targetId="a110-98d6-b8fa-8e9a" primary="false"/>
+      </categoryLinks>
+      <costs>
+        <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="15.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="e7b1-db6e-a03e-065a" name="Curtiss P-40C Warhawk - Fighter" hidden="false" collective="false" import="true" type="model">
+      <categoryLinks>
+        <categoryLink id="25ae-a162-d7f8-5dee" name="Aircraft Flight" hidden="false" targetId="c08d-d9af-1109-9c27" primary="false"/>
+        <categoryLink id="b705-5fea-b1e8-760b" name="The US Navy" hidden="false" targetId="a110-98d6-b8fa-8e9a" primary="false"/>
+      </categoryLinks>
+      <costs>
+        <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="20.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="9d86-97df-7cc7-d7da" name="Curtiss SB2C-1 Helldiver - Dive-bomber" hidden="false" collective="false" import="true" type="model">
+      <categoryLinks>
+        <categoryLink id="5195-edd1-51b0-165c" name="Aircraft Flight" hidden="false" targetId="c08d-d9af-1109-9c27" primary="false"/>
+        <categoryLink id="06bf-8130-e7e4-27f2" name="The US Navy" hidden="false" targetId="a110-98d6-b8fa-8e9a" primary="false"/>
+      </categoryLinks>
+      <costs>
+        <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="10.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="e5d5-40aa-a05f-522f" name="Douglas SBD-2 Dauntless - Dive-Bomber" hidden="false" collective="false" import="true" type="model">
+      <categoryLinks>
+        <categoryLink id="0433-bf9a-f763-596f" name="Aircraft Flight" hidden="false" targetId="c08d-d9af-1109-9c27" primary="false"/>
+        <categoryLink id="477d-5e62-8280-7747" name="The US Navy" hidden="false" targetId="a110-98d6-b8fa-8e9a" primary="false"/>
+      </categoryLinks>
+      <costs>
+        <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="15.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="7e20-4555-f577-3827" name="Douglas TBD-1 Devastator - Bomber" hidden="false" collective="false" import="true" type="model">
+      <categoryLinks>
+        <categoryLink id="5ce9-2bad-0dd8-775a" name="Aircraft Flight" hidden="false" targetId="c08d-d9af-1109-9c27" primary="false"/>
+        <categoryLink id="1f7b-3284-d007-47df" name="The US Navy" hidden="false" targetId="a110-98d6-b8fa-8e9a" primary="false"/>
+      </categoryLinks>
+      <costs>
+        <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="10.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="eeaf-f298-fb07-8fe1" name="Douglas TBD-1 Devastator - Torpedo-Bomber" hidden="false" collective="false" import="true" type="model">
+      <categoryLinks>
+        <categoryLink id="cebe-215c-acf7-7350" name="The US Navy" hidden="false" targetId="a110-98d6-b8fa-8e9a" primary="false"/>
+      </categoryLinks>
+      <costs>
+        <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="10.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="bee6-4eb3-cd24-aa3c" name="Grumman F4F-3 Wildcat - Bomber" hidden="false" collective="false" import="true" type="upgrade">
+      <categoryLinks>
+        <categoryLink id="e4b9-690d-13bd-10a8" name="Aircraft Flight" hidden="false" targetId="c08d-d9af-1109-9c27" primary="false"/>
+        <categoryLink id="91ff-6428-e26f-9f06" name="The US Navy" hidden="false" targetId="a110-98d6-b8fa-8e9a" primary="false"/>
+      </categoryLinks>
+      <selectionEntryGroups>
+        <selectionEntryGroup id="59ad-2474-ca7e-cb8a" name="Year" hidden="false" collective="false" import="true" defaultSelectionEntryId="884b-f806-b552-daef">
+          <constraints>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="039d-958d-02f7-1c62" type="min"/>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="1672-2c8b-42b5-40d7" type="max"/>
+          </constraints>
+          <selectionEntries>
+            <selectionEntry id="884b-f806-b552-daef" name="1940" hidden="false" collective="false" import="true" type="upgrade"/>
+            <selectionEntry id="e1df-33fb-3226-8f05" name="1941" hidden="false" collective="false" import="true" type="upgrade"/>
+          </selectionEntries>
+        </selectionEntryGroup>
+      </selectionEntryGroups>
+      <costs>
+        <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="15.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="bedf-d209-ab36-02e1" name="Grumman F4F-3 Wildcat - Fighter" hidden="false" collective="false" import="true" type="model">
+      <categoryLinks>
+        <categoryLink id="b3c9-7b93-a271-4699" name="The US Navy" hidden="false" targetId="a110-98d6-b8fa-8e9a" primary="false"/>
+      </categoryLinks>
+      <selectionEntryGroups>
+        <selectionEntryGroup id="e517-d2f3-774b-d23e" name="Year" hidden="false" collective="false" import="true" defaultSelectionEntryId="210c-4f13-d9f7-976d">
+          <constraints>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="2d72-a146-c280-bd64" type="min"/>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="6665-c25d-1f6d-74f9" type="max"/>
+          </constraints>
+          <selectionEntries>
+            <selectionEntry id="210c-4f13-d9f7-976d" name="1940" hidden="false" collective="false" import="true" type="upgrade"/>
+            <selectionEntry id="0b26-f721-aca2-7770" name="1941" hidden="false" collective="false" import="true" type="upgrade"/>
+          </selectionEntries>
+        </selectionEntryGroup>
+      </selectionEntryGroups>
+      <costs>
+        <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="15.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="aef2-f27c-37f6-f5ea" name="Grumman F6F-3 Hellcat - Fighter" hidden="false" collective="false" import="true" type="model">
+      <categoryLinks>
+        <categoryLink id="c9bf-4dac-2bdf-a0a2" name="Aircraft Flight" hidden="false" targetId="c08d-d9af-1109-9c27" primary="false"/>
+        <categoryLink id="c215-b8b9-0124-ca48" name="The US Navy" hidden="false" targetId="a110-98d6-b8fa-8e9a" primary="false"/>
+      </categoryLinks>
+      <costs>
+        <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="20.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="2457-a900-ea4b-5bdb" name="Grumman TBF-1/TBM-1C Avenger - ASW" hidden="false" collective="false" import="true" type="model">
+      <categoryLinks>
+        <categoryLink id="4702-9687-fa5a-729d" name="New CategoryLink" hidden="false" targetId="c08d-d9af-1109-9c27" primary="true"/>
+        <categoryLink id="0986-de80-0bf1-4d55" name="The US Navy" hidden="false" targetId="a110-98d6-b8fa-8e9a" primary="false"/>
+      </categoryLinks>
+      <costs>
+        <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="20.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="42e1-7417-b78e-77a0" name="Grumman TBF-1C/TBM-1C Avenger - Torpedo-Bomber" hidden="false" collective="false" import="true" type="model">
+      <categoryLinks>
+        <categoryLink id="2957-0ebf-a82e-8a1f" name="Aircraft Flight" hidden="false" targetId="c08d-d9af-1109-9c27" primary="false"/>
+        <categoryLink id="83d9-0b96-553e-1a45" name="The US Navy" hidden="false" targetId="a110-98d6-b8fa-8e9a" primary="false"/>
+      </categoryLinks>
+      <costs>
+        <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="20.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="5049-d2f8-f83f-d003" name="Lockheed Hudson - Bomber" hidden="false" collective="false" import="true" type="model">
+      <categoryLinks>
+        <categoryLink id="578d-3fb6-632d-611f" name="Aircraft Flight" hidden="false" targetId="c08d-d9af-1109-9c27" primary="false"/>
+        <categoryLink id="0620-7d60-19fc-33a4" name="The US Navy" hidden="false" targetId="a110-98d6-b8fa-8e9a" primary="false"/>
+      </categoryLinks>
+      <costs>
+        <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="15.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="d197-be57-b5d2-5f93" name="North American B-25C Mitchell - Bomber" hidden="false" collective="false" import="true" type="model">
+      <categoryLinks>
+        <categoryLink id="4245-5855-fec5-d125" name="Aircraft Flight" hidden="false" targetId="c08d-d9af-1109-9c27" primary="false"/>
+        <categoryLink id="25b5-5bfc-a09e-bfe3" name="The US Navy" hidden="false" targetId="a110-98d6-b8fa-8e9a" primary="false"/>
+      </categoryLinks>
+      <costs>
+        <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="15.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="cc66-4bd7-e965-00d3" name="North American B-25C Mitchell - Torpedo-Bomber" hidden="false" collective="false" import="true" type="model">
+      <categoryLinks>
+        <categoryLink id="8f92-7530-f1be-1fbd" name="Aircraft Flight" hidden="false" targetId="c08d-d9af-1109-9c27" primary="false"/>
+        <categoryLink id="ea0e-31ba-4c85-1f7b" name="The US Navy" hidden="false" targetId="a110-98d6-b8fa-8e9a" primary="false"/>
+      </categoryLinks>
+      <costs>
+        <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="15.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="1721-4e2d-0b13-8842" name="North American B-25C Mitchell - ASW" hidden="false" collective="false" import="true" type="model">
+      <categoryLinks>
+        <categoryLink id="41ec-7ca1-8ae4-41f6" name="Aircraft Flight" hidden="false" targetId="c08d-d9af-1109-9c27" primary="false"/>
+        <categoryLink id="54b2-0972-d903-4dfc" name="The US Navy" hidden="false" targetId="a110-98d6-b8fa-8e9a" primary="false"/>
+      </categoryLinks>
+      <costs>
+        <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="15.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="814f-86f8-62f2-a933" name="Consolidated BPY-2/3/4 Catalina - ASW" hidden="false" collective="false" import="true" type="model">
+      <categoryLinks>
+        <categoryLink id="b35e-73d5-dd93-43f4" name="Aircraft Flight" hidden="false" targetId="c08d-d9af-1109-9c27" primary="false"/>
+        <categoryLink id="4f99-d150-9afb-2f45" name="The US Navy" hidden="false" targetId="a110-98d6-b8fa-8e9a" primary="false"/>
+      </categoryLinks>
+      <costs>
+        <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="20.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="dcde-3f4f-ccaa-0278" name="Consolidated PBY-2/3/4 Catalina - Bomber" hidden="false" collective="false" import="true" type="model">
+      <categoryLinks>
+        <categoryLink id="78de-eeba-b7cb-c064" name="The US Navy" hidden="false" targetId="a110-98d6-b8fa-8e9a" primary="false"/>
+      </categoryLinks>
+      <costs>
+        <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="15.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="a35a-26a4-b93b-8c2c" name="Consolidated PBY-2/3/4 Catalina - Torpedo-Bomber" hidden="false" collective="false" import="true" type="model">
+      <categoryLinks>
+        <categoryLink id="3171-5bfe-debe-efe4" name="Aircraft Flight" hidden="false" targetId="c08d-d9af-1109-9c27" primary="false"/>
+        <categoryLink id="7331-fe0c-04db-4765" name="The US Navy" hidden="false" targetId="a110-98d6-b8fa-8e9a" primary="false"/>
+      </categoryLinks>
+      <costs>
+        <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="15.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="e76a-0617-2bd1-29ad" name="North American P-51A Mustang - Fighter" hidden="false" collective="false" import="true" type="model">
+      <categoryLinks>
+        <categoryLink id="a2b5-427e-a671-fda0" name="Aircraft Flight" hidden="false" targetId="c08d-d9af-1109-9c27" primary="false"/>
+        <categoryLink id="f2e0-a4e0-1f3c-697e" name="The US Navy" hidden="false" targetId="a110-98d6-b8fa-8e9a" primary="false"/>
+      </categoryLinks>
+      <selectionEntryGroups>
+        <selectionEntryGroup id="bebc-a2e0-5d0b-6206" name="Year" hidden="false" collective="false" import="true" defaultSelectionEntryId="d2b7-239c-694b-1a55">
+          <constraints>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="4e06-4267-8040-7457" type="min"/>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="2d9a-c585-a3c6-431c" type="max"/>
+          </constraints>
+          <selectionEntries>
+            <selectionEntry id="d2b7-239c-694b-1a55" name="1941" hidden="false" collective="false" import="true" type="upgrade"/>
+            <selectionEntry id="82fe-2f86-9768-fc6a" name="1944" hidden="false" collective="false" import="true" type="upgrade"/>
+          </selectionEntries>
+        </selectionEntryGroup>
+      </selectionEntryGroups>
+      <costs>
+        <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="10.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="c943-80d3-1d4c-e525" name="North American P-51A Mustang - Bomber" hidden="false" collective="false" import="true" type="model">
+      <categoryLinks>
+        <categoryLink id="9a6b-7db0-0dc6-3abd" name="Aircraft Flight" hidden="false" targetId="c08d-d9af-1109-9c27" primary="false"/>
+        <categoryLink id="37ea-7ba5-30c9-cd57" name="The US Navy" hidden="false" targetId="a110-98d6-b8fa-8e9a" primary="false"/>
+      </categoryLinks>
+      <selectionEntryGroups>
+        <selectionEntryGroup id="1a4a-17c9-b46c-3170" name="Year" hidden="false" collective="false" import="true" defaultSelectionEntryId="445e-70f3-8e1f-bd63">
+          <constraints>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="9ea3-8d32-8543-a550" type="min"/>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="a93e-0161-88be-b481" type="max"/>
+          </constraints>
+          <selectionEntries>
+            <selectionEntry id="445e-70f3-8e1f-bd63" name="1941" hidden="false" collective="false" import="true" type="upgrade"/>
+            <selectionEntry id="24d7-7bc9-2663-b8ef" name="1944" hidden="false" collective="false" import="true" type="upgrade"/>
+          </selectionEntries>
+        </selectionEntryGroup>
+      </selectionEntryGroups>
+      <costs>
+        <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="20.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="e187-3dc3-13b8-4722" name="Vought F4U-1 Corsair - Fighter" hidden="false" collective="false" import="true" type="model">
+      <categoryLinks>
+        <categoryLink id="c30f-e2c5-367e-dd85" name="Aircraft Flight" hidden="false" targetId="c08d-d9af-1109-9c27" primary="false"/>
+        <categoryLink id="1758-07bf-1aa5-08fc" name="The US Navy" hidden="false" targetId="a110-98d6-b8fa-8e9a" primary="false"/>
+      </categoryLinks>
+      <selectionEntryGroups>
+        <selectionEntryGroup id="c11f-5469-6502-22c8" name="Year" hidden="false" collective="false" import="true" defaultSelectionEntryId="a891-96cc-7a7d-8d0d">
+          <constraints>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="a305-da81-cceb-adc9" type="min"/>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="1542-ba20-96cd-9959" type="max"/>
+          </constraints>
+          <selectionEntries>
+            <selectionEntry id="a891-96cc-7a7d-8d0d" name="1942" hidden="false" collective="false" import="true" type="upgrade"/>
+            <selectionEntry id="fde4-7e47-dddc-289b" name="1944" hidden="false" collective="false" import="true" type="upgrade"/>
+          </selectionEntries>
+        </selectionEntryGroup>
+      </selectionEntryGroups>
+      <costs>
+        <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="25.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="68b5-4bc3-28e4-1241" name="Vought F4U-4 Corsair - Bomber" hidden="false" collective="false" import="true" type="model">
+      <categoryLinks>
+        <categoryLink id="0c47-f20a-36c2-fabe" name="Aircraft Flight" hidden="false" targetId="c08d-d9af-1109-9c27" primary="false"/>
+        <categoryLink id="3270-282b-5014-3671" name="The US Navy" hidden="false" targetId="a110-98d6-b8fa-8e9a" primary="false"/>
+      </categoryLinks>
+      <costs>
+        <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="25.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="4663-a2f9-858c-1624" name="Vought SB2U Vindicator - Dive-Bomber" hidden="false" collective="false" import="true" type="model">
+      <categoryLinks>
+        <categoryLink id="a95a-7ce9-22f4-2c05" name="Aircraft Flight" hidden="false" targetId="c08d-d9af-1109-9c27" primary="false"/>
+        <categoryLink id="a08a-2795-6103-27b1" name="The US Navy" hidden="false" targetId="a110-98d6-b8fa-8e9a" primary="false"/>
+      </categoryLinks>
+      <costs>
+        <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="5.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="db5f-09fa-db60-11bc" name="Elco&apos;77 MTB" hidden="false" collective="false" import="true" type="model">
+      <categoryLinks>
+        <categoryLink id="6a78-f53b-0093-68e6" name="Motor Torpedo Boat" hidden="false" targetId="cf88-2062-68e4-b49a" primary="false"/>
+        <categoryLink id="0a12-d881-2876-efe6" name="The US Navy" hidden="false" targetId="a110-98d6-b8fa-8e9a" primary="false"/>
+      </categoryLinks>
+      <costs>
+        <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="20.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="802c-298f-9436-ed2a" name="Elco&apos;80 MTB" hidden="false" collective="false" import="true" type="model">
+      <categoryLinks>
+        <categoryLink id="1f28-3548-d82e-c2e7" name="Motor Torpedo Boat" hidden="false" targetId="cf88-2062-68e4-b49a" primary="false"/>
+        <categoryLink id="ff05-ef83-29ba-268a" name="The US Navy" hidden="false" targetId="a110-98d6-b8fa-8e9a" primary="false"/>
+      </categoryLinks>
+      <costs>
+        <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="20.0"/>
       </costs>
     </selectionEntry>
   </sharedSelectionEntries>
