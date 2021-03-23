@@ -13241,212 +13241,811 @@
         <categoryLink id="d8f2-7f91-a752-04b0" name="The Royal Navy" hidden="false" targetId="1866-60ae-9c4d-4339" primary="false"/>
       </categoryLinks>
       <selectionEntries>
-        <selectionEntry id="faf4-4db5-f271-bc82" name="Vanity" hidden="false" collective="false" import="true" type="upgrade">
+        <selectionEntry id="faf4-4db5-f271-bc82" name="Vanity" hidden="false" collective="false" import="true" type="model">
+          <selectionEntryGroups>
+            <selectionEntryGroup id="9c91-d25f-3344-ab0a" name="Refits" hidden="false" collective="false" import="true" defaultSelectionEntryId="6b81-2105-5321-c357">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="735a-dfc9-301f-cd5f" type="min"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="9bde-961d-296b-1bc8" type="max"/>
+              </constraints>
+              <selectionEntries>
+                <selectionEntry id="6b81-2105-5321-c357" name="Vanity" hidden="false" collective="false" import="true" type="upgrade"/>
+              </selectionEntries>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
           <costs>
             <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
           </costs>
         </selectionEntry>
-        <selectionEntry id="57fc-d55c-4c74-ec8e" name="Vega" hidden="false" collective="false" import="true" type="upgrade">
+        <selectionEntry id="57fc-d55c-4c74-ec8e" name="Vega" hidden="false" collective="false" import="true" type="model">
+          <selectionEntryGroups>
+            <selectionEntryGroup id="8d09-3e49-5fcf-3c15" name="Refits" hidden="false" collective="false" import="true" defaultSelectionEntryId="7187-bbaf-1af9-b077">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="bc90-e577-56be-f842" type="min"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="88f0-e09b-d5d5-b77c" type="max"/>
+              </constraints>
+              <selectionEntries>
+                <selectionEntry id="7187-bbaf-1af9-b077" name="Vega" hidden="false" collective="false" import="true" type="upgrade"/>
+              </selectionEntries>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
           <costs>
             <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
           </costs>
         </selectionEntry>
-        <selectionEntry id="c131-6c65-fa95-964a" name="Verdun" hidden="false" collective="false" import="true" type="upgrade">
+        <selectionEntry id="c131-6c65-fa95-964a" name="Verdun" hidden="false" collective="false" import="true" type="model">
+          <selectionEntryGroups>
+            <selectionEntryGroup id="84f8-358f-070c-1856" name="Refits" hidden="false" collective="false" import="true">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="a5cf-c814-4f4e-3632" type="min"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="7674-d89b-13c4-3533" type="max"/>
+              </constraints>
+              <selectionEntries>
+                <selectionEntry id="997a-2355-8ea2-9730" name="Verdun" hidden="false" collective="false" import="true" type="upgrade"/>
+              </selectionEntries>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
           <costs>
             <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
           </costs>
         </selectionEntry>
-        <selectionEntry id="804c-f0d4-c34f-22b8" name="Vimiera" hidden="false" collective="false" import="true" type="upgrade">
+        <selectionEntry id="804c-f0d4-c34f-22b8" name="Vimiera" hidden="false" collective="false" import="true" type="model">
+          <selectionEntryGroups>
+            <selectionEntryGroup id="97e6-1384-9f5b-553e" name="Refits" hidden="false" collective="false" import="true" defaultSelectionEntryId="bd34-c748-e376-4f0a">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="a442-18b2-7b76-0ddc" type="min"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="aa7a-6ec2-833e-eff3" type="max"/>
+              </constraints>
+              <selectionEntries>
+                <selectionEntry id="bd34-c748-e376-4f0a" name="Vimiera" hidden="false" collective="false" import="true" type="upgrade"/>
+              </selectionEntries>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="-5.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="bcce-5398-d587-6e54" name="Vivien" hidden="false" collective="false" import="true" type="model">
+          <selectionEntryGroups>
+            <selectionEntryGroup id="f7f8-6abe-83de-aee4" name="Refits" hidden="false" collective="false" import="true" defaultSelectionEntryId="3e98-79de-bb44-223c">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="15cf-c65d-6bab-8e3b" type="min"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="d7d7-a036-14ed-0e3e" type="max"/>
+              </constraints>
+              <selectionEntries>
+                <selectionEntry id="3e98-79de-bb44-223c" name="Viven" hidden="false" collective="false" import="true" type="upgrade"/>
+              </selectionEntries>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
           <costs>
             <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
           </costs>
         </selectionEntry>
-        <selectionEntry id="bcce-5398-d587-6e54" name="Vivien" hidden="false" collective="false" import="true" type="upgrade">
+        <selectionEntry id="27f9-a35b-5d24-5c64" name="Viceroy" hidden="false" collective="false" import="true" type="model">
+          <selectionEntryGroups>
+            <selectionEntryGroup id="1d87-86dd-a941-10ee" name="Refits" hidden="false" collective="false" import="true" defaultSelectionEntryId="4fb0-2a59-dc73-807b">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="10f7-5b1f-f70d-bb83" type="min"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="d3e9-0d73-692f-08cf" type="max"/>
+              </constraints>
+              <selectionEntries>
+                <selectionEntry id="4fb0-2a59-dc73-807b" name="Viceroy" hidden="false" collective="false" import="true" type="upgrade"/>
+              </selectionEntries>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
           <costs>
             <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
           </costs>
         </selectionEntry>
-        <selectionEntry id="27f9-a35b-5d24-5c64" name="Viceroy" hidden="false" collective="false" import="true" type="upgrade">
+        <selectionEntry id="2f15-7e80-8324-b0c2" name="Valentine" hidden="false" collective="false" import="true" type="model">
+          <selectionEntryGroups>
+            <selectionEntryGroup id="68d6-d499-ba40-32e6" name="Refits" hidden="false" collective="false" import="true" defaultSelectionEntryId="a00a-2d82-9374-81c5">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="f54f-8a92-83e6-b80e" type="min"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="3d16-3b4a-25bb-3b91" type="max"/>
+              </constraints>
+              <selectionEntries>
+                <selectionEntry id="a00a-2d82-9374-81c5" name="Valentine" hidden="false" collective="false" import="true" type="upgrade"/>
+              </selectionEntries>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
           <costs>
             <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
           </costs>
         </selectionEntry>
-        <selectionEntry id="2f15-7e80-8324-b0c2" name="Valentine" hidden="false" collective="false" import="true" type="upgrade">
+        <selectionEntry id="5a91-52c6-a490-bff5" name="Valorous" hidden="false" collective="false" import="true" type="model">
+          <selectionEntryGroups>
+            <selectionEntryGroup id="8c9c-e201-8e42-a24d" name="Refits" hidden="false" collective="false" import="true" defaultSelectionEntryId="3281-4c73-d040-85f5">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="affb-0dec-cd07-b49f" type="min"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="4ae2-dbdb-1ae0-27a6" type="max"/>
+              </constraints>
+              <selectionEntries>
+                <selectionEntry id="3281-4c73-d040-85f5" name="Valorous" hidden="false" collective="false" import="true" type="upgrade"/>
+              </selectionEntries>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
           <costs>
             <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
           </costs>
         </selectionEntry>
-        <selectionEntry id="5a91-52c6-a490-bff5" name="Valorous" hidden="false" collective="false" import="true" type="upgrade">
+        <selectionEntry id="dfe9-9a08-f3ed-22ba" name="Vanessa" hidden="false" collective="false" import="true" type="model">
+          <selectionEntryGroups>
+            <selectionEntryGroup id="6e86-bfc4-7ef9-ca4f" name="Refits" hidden="false" collective="false" import="true" defaultSelectionEntryId="b348-0f9b-412d-a7cb">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="a8fb-3074-c7c1-53ad" type="min"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="caa9-f268-13f9-f676" type="max"/>
+              </constraints>
+              <selectionEntries>
+                <selectionEntry id="b348-0f9b-412d-a7cb" name="Vanessa" hidden="false" collective="false" import="true" type="upgrade"/>
+                <selectionEntry id="918e-e5f6-8e37-b3a7" name="Vanessa 1940" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="-10.0"/>
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
           <costs>
             <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
           </costs>
         </selectionEntry>
-        <selectionEntry id="dfe9-9a08-f3ed-22ba" name="Vanessa" hidden="false" collective="false" import="true" type="upgrade">
+        <selectionEntry id="4d34-30c0-0ebe-24fd" name="Vanoc" hidden="false" collective="false" import="true" type="model">
+          <selectionEntryGroups>
+            <selectionEntryGroup id="2065-fa2e-82aa-317f" name="Refits" hidden="false" collective="false" import="true" defaultSelectionEntryId="89d6-525d-ce23-730f">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="0d9f-468d-08b6-856f" type="min"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="39dd-a624-499f-a0b2" type="max"/>
+              </constraints>
+              <selectionEntries>
+                <selectionEntry id="89d6-525d-ce23-730f" name="Vanoc" hidden="false" collective="false" import="true" type="upgrade"/>
+                <selectionEntry id="b2c2-d466-c490-3fb2" name="Vanoc 1940" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="-5.0"/>
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="-5.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="9d35-b012-fbc4-d700" name="Vanquisher" hidden="false" collective="false" import="true" type="model">
+          <selectionEntryGroups>
+            <selectionEntryGroup id="7eb7-2355-6792-2653" name="Refits" hidden="false" collective="false" import="true" defaultSelectionEntryId="3822-93bd-ccb7-043a">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="fa26-a562-32ea-b8bc" type="min"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="9826-f0cc-2275-7daa" type="max"/>
+              </constraints>
+              <selectionEntries>
+                <selectionEntry id="3822-93bd-ccb7-043a" name="Vanquisher" hidden="false" collective="false" import="true" type="upgrade"/>
+                <selectionEntry id="cbbb-f776-1262-48d2" name="Vanquisher 1940" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="-10.0"/>
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
           <costs>
             <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
           </costs>
         </selectionEntry>
-        <selectionEntry id="4d34-30c0-0ebe-24fd" name="Vanoc" hidden="false" collective="false" import="true" type="upgrade">
+        <selectionEntry id="0a84-a30e-61b4-5469" name="Velox" hidden="false" collective="false" import="true" type="model">
+          <selectionEntryGroups>
+            <selectionEntryGroup id="5e2d-3f7d-8543-4477" name="Refits" hidden="false" collective="false" import="true" defaultSelectionEntryId="d17d-291e-0281-ef28">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="126a-ca90-ce34-2cb4" type="min"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="2eda-82b3-6f16-c331" type="max"/>
+              </constraints>
+              <selectionEntries>
+                <selectionEntry id="d17d-291e-0281-ef28" name="Velox" hidden="false" collective="false" import="true" type="upgrade"/>
+                <selectionEntry id="1a8d-71bf-71e1-5cdc" name="Velox 1940" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="-5.0"/>
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="-5.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="0dca-816e-e0ce-3e31" name="Versatile" hidden="false" collective="false" import="true" type="model">
+          <selectionEntryGroups>
+            <selectionEntryGroup id="25c8-4890-04ba-caa4" name="Refits" hidden="false" collective="false" import="true" defaultSelectionEntryId="9ee9-9541-dd04-9efd">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="d628-c358-96ca-c8d7" type="min"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="d1d9-049e-af09-b8bc" type="max"/>
+              </constraints>
+              <selectionEntries>
+                <selectionEntry id="9ee9-9541-dd04-9efd" name="Versatile" hidden="false" collective="false" import="true" type="upgrade"/>
+                <selectionEntry id="3ac4-6574-5b81-3bdf" name="Versitile 1940" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="-5.0"/>
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="-5.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="16c1-999c-570b-6c56" name="Vesper" hidden="false" collective="false" import="true" type="model">
+          <selectionEntryGroups>
+            <selectionEntryGroup id="15ef-bfb8-3daa-a9df" name="Refits" hidden="false" collective="false" import="true" defaultSelectionEntryId="cd75-996b-266a-aa82">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="8870-0fbf-7aa2-c2fb" type="min"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="e9d7-ed97-040d-cb40" type="max"/>
+              </constraints>
+              <selectionEntries>
+                <selectionEntry id="cd75-996b-266a-aa82" name="Vesper" hidden="false" collective="false" import="true" type="upgrade"/>
+                <selectionEntry id="5adf-af84-ac14-055d" name="Vesper 1940" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="-10.0"/>
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
           <costs>
             <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
           </costs>
         </selectionEntry>
-        <selectionEntry id="9d35-b012-fbc4-d700" name="Vanquisher" hidden="false" collective="false" import="true" type="upgrade">
+        <selectionEntry id="9764-ccb2-6ddd-4932" name="Vidette" hidden="false" collective="false" import="true" type="model">
+          <selectionEntryGroups>
+            <selectionEntryGroup id="5cd0-be06-b6a5-a475" name="Refits" hidden="false" collective="false" import="true" defaultSelectionEntryId="10e1-09a5-240c-8e50">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="ee79-d8d9-22d5-4eeb" type="min"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="95c5-029e-c1a4-f99d" type="max"/>
+              </constraints>
+              <selectionEntries>
+                <selectionEntry id="10e1-09a5-240c-8e50" name="Vidette" hidden="false" collective="false" import="true" type="upgrade"/>
+                <selectionEntry id="826b-ea92-e313-e5be" name="Vidette 1940" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="-10.0"/>
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
           <costs>
             <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
           </costs>
         </selectionEntry>
-        <selectionEntry id="0a84-a30e-61b4-5469" name="Velox" hidden="false" collective="false" import="true" type="upgrade">
+        <selectionEntry id="cd5a-0199-4d03-041d" name="Vimy" hidden="false" collective="false" import="true" type="model">
+          <selectionEntryGroups>
+            <selectionEntryGroup id="80ca-e357-47f2-d074" name="Refits" hidden="false" collective="false" import="true" defaultSelectionEntryId="2b6b-c641-05e1-e5e6">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="2615-be0a-4dd9-96eb" type="min"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="d2ec-c293-cafb-b3c3" type="max"/>
+              </constraints>
+              <selectionEntries>
+                <selectionEntry id="2b6b-c641-05e1-e5e6" name="Vimy" hidden="false" collective="false" import="true" type="upgrade"/>
+                <selectionEntry id="e8ff-ebc7-9b3e-f5e5" name="Vimy 1940" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="-10.0"/>
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
           <costs>
             <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
           </costs>
         </selectionEntry>
-        <selectionEntry id="0dca-816e-e0ce-3e31" name="Versatile" hidden="false" collective="false" import="true" type="upgrade">
+        <selectionEntry id="94d5-1461-4ed3-2285" name="Viscount" hidden="false" collective="false" import="true" type="model">
+          <selectionEntryGroups>
+            <selectionEntryGroup id="1417-a1c4-282e-0ee2" name="Refits" hidden="false" collective="false" import="true" defaultSelectionEntryId="a37d-ea43-b7d7-2023">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="4ff7-17a7-4c6e-c4c4" type="min"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="8eb4-c994-cf97-a2ba" type="max"/>
+              </constraints>
+              <selectionEntries>
+                <selectionEntry id="a37d-ea43-b7d7-2023" name="Viscount" hidden="false" collective="false" import="true" type="upgrade"/>
+                <selectionEntry id="43d1-4128-b2a0-57b5" name="Viscount 1940" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="-10.0"/>
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
           <costs>
             <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
           </costs>
         </selectionEntry>
-        <selectionEntry id="16c1-999c-570b-6c56" name="Vesper" hidden="false" collective="false" import="true" type="upgrade">
+        <selectionEntry id="4a9e-5d44-6b0f-df97" name="Venetia" hidden="false" collective="false" import="true" type="model">
+          <selectionEntryGroups>
+            <selectionEntryGroup id="0265-bfb5-9f9c-a3b4" name="Refits" hidden="false" collective="false" import="true" defaultSelectionEntryId="b321-cfa3-1d54-0587">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="7e1f-b85a-6214-e30b" type="min"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="e2bd-9c84-23ec-16d9" type="max"/>
+              </constraints>
+              <selectionEntries>
+                <selectionEntry id="b321-cfa3-1d54-0587" name="Venetia" hidden="false" collective="false" import="true" type="upgrade"/>
+                <selectionEntry id="0719-1978-ee68-63be" name="Venetia 1940" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="-10.0"/>
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
           <costs>
             <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
           </costs>
         </selectionEntry>
-        <selectionEntry id="9764-ccb2-6ddd-4932" name="Vidette" hidden="false" collective="false" import="true" type="upgrade">
+        <selectionEntry id="ad61-2824-5a59-3a95" name="Vivacious" hidden="false" collective="false" import="true" type="model">
+          <selectionEntryGroups>
+            <selectionEntryGroup id="b2b3-97dc-07dd-5b2f" name="Refits" hidden="false" collective="false" import="true" defaultSelectionEntryId="5cce-e95e-67ae-5241">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="345c-9bc4-5979-27c4" type="min"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="82c9-7cfe-0aa3-2271" type="max"/>
+              </constraints>
+              <selectionEntries>
+                <selectionEntry id="5cce-e95e-67ae-5241" name="Vivacious" hidden="false" collective="false" import="true" type="upgrade"/>
+                <selectionEntry id="57a1-e68c-8fbc-df18" name="Vivacious 1940" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="-10.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="cf05-a0f4-eff0-6878" name="Vivacious 1943" hidden="false" collective="false" import="true" type="upgrade"/>
+              </selectionEntries>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
           <costs>
             <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
           </costs>
         </selectionEntry>
-        <selectionEntry id="cd5a-0199-4d03-041d" name="Vimy" hidden="false" collective="false" import="true" type="upgrade">
+        <selectionEntry id="f517-70f6-ef7c-f901" name="Vortigern" hidden="false" collective="false" import="true" type="model">
+          <selectionEntryGroups>
+            <selectionEntryGroup id="b13d-b4a7-67df-c022" name="Refits" hidden="false" collective="false" import="true" defaultSelectionEntryId="8391-9188-7573-4791">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="56c3-d829-8737-1400" type="min"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="583f-60b5-5144-7603" type="max"/>
+              </constraints>
+              <selectionEntries>
+                <selectionEntry id="8391-9188-7573-4791" name="Vortigern" hidden="false" collective="false" import="true" type="upgrade"/>
+                <selectionEntry id="4517-fb12-1089-37c9" name="Vortigern 1940" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="-5.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="1ca7-e74c-e9a8-8953" name="Vortigern 1941" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="5.0"/>
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="-5.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="5daa-17d9-95d4-f812" name="Vampire" hidden="false" collective="false" import="true" type="model">
+          <selectionEntryGroups>
+            <selectionEntryGroup id="0b07-d92e-f866-a757" name="Refits" hidden="false" collective="false" import="true" defaultSelectionEntryId="6e0d-910e-0407-f952">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="5804-2e3a-7a93-9606" type="min"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="025f-6f89-8b95-777b" type="max"/>
+              </constraints>
+              <selectionEntries>
+                <selectionEntry id="6e0d-910e-0407-f952" name="Vampire" hidden="false" collective="false" import="true" type="upgrade"/>
+                <selectionEntry id="7fd2-9fc3-715d-6019" name="Vampire 1940" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="-10.0"/>
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
           <costs>
             <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
           </costs>
         </selectionEntry>
-        <selectionEntry id="94d5-1461-4ed3-2285" name="Viscount" hidden="false" collective="false" import="true" type="upgrade">
+        <selectionEntry id="51d0-f888-bec4-2821" name="Vendetta" hidden="false" collective="false" import="true" type="model">
+          <selectionEntryGroups>
+            <selectionEntryGroup id="8055-84d0-7f29-5689" name="Refits" hidden="false" collective="false" import="true" defaultSelectionEntryId="f18e-0d66-7059-4656">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="5ebb-cd91-0a4d-0e87" type="min"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="901c-7182-54a0-539c" type="max"/>
+              </constraints>
+              <selectionEntries>
+                <selectionEntry id="f18e-0d66-7059-4656" name="Vendetta" hidden="false" collective="false" import="true" type="upgrade"/>
+                <selectionEntry id="6692-70b4-2c0e-a338" name="Vendetta 1940" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="-10.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="7c15-9932-bfdc-dfee" name="Vendetta 1943" hidden="false" collective="false" import="true" type="upgrade"/>
+              </selectionEntries>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
           <costs>
             <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
           </costs>
         </selectionEntry>
-        <selectionEntry id="4a9e-5d44-6b0f-df97" name="Venetia" hidden="false" collective="false" import="true" type="upgrade">
+        <selectionEntry id="cecb-79c0-60cf-4aa5" name="Voyager" hidden="false" collective="false" import="true" type="model">
+          <selectionEntryGroups>
+            <selectionEntryGroup id="63e4-f8f2-452c-9282" name="Refits" hidden="false" collective="false" import="true" defaultSelectionEntryId="3c23-d197-9863-31ee">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="5a9e-cecc-726c-be9a" type="min"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="3706-fe61-3477-227b" type="max"/>
+              </constraints>
+              <selectionEntries>
+                <selectionEntry id="3c23-d197-9863-31ee" name="Voyager" hidden="false" collective="false" import="true" type="upgrade"/>
+                <selectionEntry id="3e5e-bd1c-fd8e-23ca" name="Voyager 1940" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="-10.0"/>
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
           <costs>
             <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
           </costs>
         </selectionEntry>
-        <selectionEntry id="ad61-2824-5a59-3a95" name="Vivacious" hidden="false" collective="false" import="true" type="upgrade">
+        <selectionEntry id="80a9-802d-2230-a443" name="Westminster" hidden="false" collective="false" import="true" type="model">
+          <selectionEntryGroups>
+            <selectionEntryGroup id="24ed-96cb-3766-004b" name="Refits" hidden="false" collective="false" import="true" defaultSelectionEntryId="0a01-8617-be11-1ef8">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="858b-bd1c-d02b-c888" type="min"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="4c8b-05ad-fda3-b632" type="max"/>
+              </constraints>
+              <selectionEntries>
+                <selectionEntry id="0a01-8617-be11-1ef8" name="Westminster" hidden="false" collective="false" import="true" type="upgrade"/>
+              </selectionEntries>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
           <costs>
             <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
           </costs>
         </selectionEntry>
-        <selectionEntry id="f517-70f6-ef7c-f901" name="Vortigern" hidden="false" collective="false" import="true" type="upgrade">
+        <selectionEntry id="e47a-e60c-a634-be26" name="Whitley" hidden="false" collective="false" import="true" type="model">
+          <selectionEntryGroups>
+            <selectionEntryGroup id="9004-67e3-4448-8261" name="Refits" hidden="false" collective="false" import="true" defaultSelectionEntryId="f54d-596e-6a5e-6c6b">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="3a31-ee5b-f687-6adb" type="min"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="6793-3c93-ebbc-0c34" type="max"/>
+              </constraints>
+              <selectionEntries>
+                <selectionEntry id="f54d-596e-6a5e-6c6b" name="Whitley" hidden="false" collective="false" import="true" type="upgrade"/>
+              </selectionEntries>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
           <costs>
             <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
           </costs>
         </selectionEntry>
-        <selectionEntry id="5daa-17d9-95d4-f812" name="Vampire" hidden="false" collective="false" import="true" type="upgrade">
+        <selectionEntry id="694d-f62c-aeff-16ef" name="Winchester" hidden="false" collective="false" import="true" type="model">
+          <selectionEntryGroups>
+            <selectionEntryGroup id="75ad-51b3-a0b8-9423" name="Refits" hidden="false" collective="false" import="true" defaultSelectionEntryId="ed82-19cb-d94a-d2e9">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="f497-3bec-fb1f-2e63" type="min"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="5a79-010a-e77a-87fb" type="max"/>
+              </constraints>
+              <selectionEntries>
+                <selectionEntry id="ed82-19cb-d94a-d2e9" name="Winchester" hidden="false" collective="false" import="true" type="upgrade"/>
+              </selectionEntries>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
           <costs>
             <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
           </costs>
         </selectionEntry>
-        <selectionEntry id="51d0-f888-bec4-2821" name="Vendetta" hidden="false" collective="false" import="true" type="upgrade">
+        <selectionEntry id="bbc5-411f-5dda-e4a4" name="Wolfhound" hidden="false" collective="false" import="true" type="model">
+          <selectionEntryGroups>
+            <selectionEntryGroup id="838e-74f5-2655-bcb4" name="Refits" hidden="false" collective="false" import="true" defaultSelectionEntryId="5c49-7c5e-8f4c-bf23">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="f7aa-410f-cece-f2e4" type="min"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="030b-96c2-e783-96f5" type="max"/>
+              </constraints>
+              <selectionEntries>
+                <selectionEntry id="5c49-7c5e-8f4c-bf23" name="Wolfhound" hidden="false" collective="false" import="true" type="upgrade"/>
+              </selectionEntries>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
           <costs>
             <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
           </costs>
         </selectionEntry>
-        <selectionEntry id="cecb-79c0-60cf-4aa5" name="Voyager" hidden="false" collective="false" import="true" type="upgrade">
+        <selectionEntry id="1cae-8448-c805-0aac" name="Wolsey" hidden="false" collective="false" import="true" type="model">
+          <selectionEntryGroups>
+            <selectionEntryGroup id="23be-5fd0-41df-6d42" name="Refits" hidden="false" collective="false" import="true" defaultSelectionEntryId="d5b6-e24d-c190-15b0">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="21ad-51cd-9772-b0e9" type="min"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="69a0-bf6a-d8d7-973a" type="max"/>
+              </constraints>
+              <selectionEntries>
+                <selectionEntry id="d5b6-e24d-c190-15b0" name="Wolsey" hidden="false" collective="false" import="true" type="upgrade"/>
+              </selectionEntries>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
           <costs>
             <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
           </costs>
         </selectionEntry>
-        <selectionEntry id="80a9-802d-2230-a443" name="Westminster" hidden="false" collective="false" import="true" type="upgrade">
+        <selectionEntry id="19fc-8c31-9891-4b05" name="Woolston" hidden="false" collective="false" import="true" type="model">
+          <selectionEntryGroups>
+            <selectionEntryGroup id="62ca-e9c3-38ea-1d5b" name="Refits" hidden="false" collective="false" import="true" defaultSelectionEntryId="b388-82f7-c811-2bda">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="7d0f-c690-63ca-4749" type="min"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="424b-5ce3-122b-9f7b" type="max"/>
+              </constraints>
+              <selectionEntries>
+                <selectionEntry id="b388-82f7-c811-2bda" name="Woolston" hidden="false" collective="false" import="true" type="upgrade"/>
+              </selectionEntries>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
           <costs>
             <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
           </costs>
         </selectionEntry>
-        <selectionEntry id="e47a-e60c-a634-be26" name="Whitley" hidden="false" collective="false" import="true" type="upgrade">
+        <selectionEntry id="5088-8ac3-c857-8701" name="Wryneck" hidden="false" collective="false" import="true" type="model">
+          <selectionEntryGroups>
+            <selectionEntryGroup id="477d-753d-4cee-fe2e" name="Refits" hidden="false" collective="false" import="true" defaultSelectionEntryId="45ea-c683-e9ff-fd6c">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="8b2c-96b2-165c-68c0" type="min"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="da6e-40f7-0f37-e15f" type="max"/>
+              </constraints>
+              <selectionEntries>
+                <selectionEntry id="45ea-c683-e9ff-fd6c" name="Wryneck" hidden="false" collective="false" import="true" type="upgrade"/>
+              </selectionEntries>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
           <costs>
             <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
           </costs>
         </selectionEntry>
-        <selectionEntry id="694d-f62c-aeff-16ef" name="Winchester" hidden="false" collective="false" import="true" type="upgrade">
+        <selectionEntry id="2ce7-56a3-fedf-c406" name="Walker" hidden="false" collective="false" import="true" type="model">
+          <selectionEntryGroups>
+            <selectionEntryGroup id="c6a8-ebd9-6107-0375" name="Refits" hidden="false" collective="false" import="true" defaultSelectionEntryId="e7cb-b35e-f299-3b24">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="1bb7-2e9d-d2ec-424a" type="min"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="e0c5-57b1-dd85-90c6" type="max"/>
+              </constraints>
+              <selectionEntries>
+                <selectionEntry id="e7cb-b35e-f299-3b24" name="Walker" hidden="false" collective="false" import="true" type="upgrade"/>
+                <selectionEntry id="b327-6a86-ed07-f603" name="Walker 1940" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="-10.0"/>
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
           <costs>
             <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
           </costs>
         </selectionEntry>
-        <selectionEntry id="bbc5-411f-5dda-e4a4" name="Wolfhound" hidden="false" collective="false" import="true" type="upgrade">
+        <selectionEntry id="6fd8-473d-d135-2a7f" name="Warwick" hidden="false" collective="false" import="true" type="model">
+          <selectionEntryGroups>
+            <selectionEntryGroup id="040c-abb0-55e1-e578" name="Refits" hidden="false" collective="false" import="true" defaultSelectionEntryId="e222-0a30-6257-ab98">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="ed77-8c25-463a-ea18" type="min"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="0fcf-7052-f73a-b9d3" type="max"/>
+              </constraints>
+              <selectionEntries>
+                <selectionEntry id="e222-0a30-6257-ab98" name="Warwick" hidden="false" collective="false" import="true" type="upgrade"/>
+                <selectionEntry id="a50d-43f7-7afb-b03f" name="Warwick 1940" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="-10.0"/>
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
           <costs>
             <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
           </costs>
         </selectionEntry>
-        <selectionEntry id="1cae-8448-c805-0aac" name="Wolsey" hidden="false" collective="false" import="true" type="upgrade">
+        <selectionEntry id="98ed-b988-6183-8a61" name="Watchman" hidden="false" collective="false" import="true" type="model">
+          <selectionEntryGroups>
+            <selectionEntryGroup id="b6f9-1f20-2586-63b5" name="Refits" hidden="false" collective="false" import="true" defaultSelectionEntryId="b9db-cfcf-b76e-8a24">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="5107-6797-ca1c-40f3" type="min"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="399c-38fb-763b-3479" type="max"/>
+              </constraints>
+              <selectionEntries>
+                <selectionEntry id="b9db-cfcf-b76e-8a24" name="Watchman" hidden="false" collective="false" import="true" type="upgrade"/>
+                <selectionEntry id="8bc4-2486-4933-1ac7" name="Watchman 1940" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="-10.0"/>
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
           <costs>
             <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
           </costs>
         </selectionEntry>
-        <selectionEntry id="19fc-8c31-9891-4b05" name="Woolston" hidden="false" collective="false" import="true" type="upgrade">
+        <selectionEntry id="2c7e-d837-632c-2fbe" name="Westcott" hidden="false" collective="false" import="true" type="model">
+          <selectionEntryGroups>
+            <selectionEntryGroup id="2e65-9e7c-0ce4-e1ec" name="Refits" hidden="false" collective="false" import="true" defaultSelectionEntryId="a79e-88cb-5c1a-ad7a">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="626b-aa9f-497f-e3e9" type="min"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="49ea-71ab-6324-c606" type="max"/>
+              </constraints>
+              <selectionEntries>
+                <selectionEntry id="a79e-88cb-5c1a-ad7a" name="Westcott" hidden="false" collective="false" import="true" type="upgrade"/>
+                <selectionEntry id="16b1-b079-8daa-394b" name="Westcott 1940" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="-10.0"/>
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
           <costs>
             <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
           </costs>
         </selectionEntry>
-        <selectionEntry id="5088-8ac3-c857-8701" name="Wryneck" hidden="false" collective="false" import="true" type="upgrade">
+        <selectionEntry id="0af6-a72f-f63c-3559" name="Winchelsea" hidden="false" collective="false" import="true" type="model">
+          <selectionEntryGroups>
+            <selectionEntryGroup id="041a-7eb9-7584-a291" name="Refits" hidden="false" collective="false" import="true" defaultSelectionEntryId="b9fb-57e8-ec01-fa74">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="9b01-9cfe-a1c9-7643" type="min"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="8697-f8aa-8e8d-f897" type="max"/>
+              </constraints>
+              <selectionEntries>
+                <selectionEntry id="b9fb-57e8-ec01-fa74" name="Winchelsea" hidden="false" collective="false" import="true" type="upgrade"/>
+                <selectionEntry id="30a6-d493-a2a3-22f5" name="Winchelsea 1940" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="-10.0"/>
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
           <costs>
             <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
           </costs>
         </selectionEntry>
-        <selectionEntry id="2ce7-56a3-fedf-c406" name="Walker" hidden="false" collective="false" import="true" type="upgrade">
+        <selectionEntry id="0b8c-f219-594b-a8a1" name="Wrestler" hidden="false" collective="false" import="true" type="model">
+          <selectionEntryGroups>
+            <selectionEntryGroup id="a9e6-bcec-01a2-ff06" name="Refits" hidden="false" collective="false" import="true" defaultSelectionEntryId="e0d5-8d38-fadb-fb4e">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="19fc-b645-9014-2cfb" type="min"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="1443-74a5-389d-702f" type="max"/>
+              </constraints>
+              <selectionEntries>
+                <selectionEntry id="e0d5-8d38-fadb-fb4e" name="Wrestler" hidden="false" collective="false" import="true" type="upgrade"/>
+                <selectionEntry id="4636-f388-682b-fbae" name="Wrestler 1940" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="-10.0"/>
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
           <costs>
             <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
           </costs>
         </selectionEntry>
-        <selectionEntry id="6fd8-473d-d135-2a7f" name="Warwick" hidden="false" collective="false" import="true" type="upgrade">
+        <selectionEntry id="a52d-00d7-fe75-fcf8" name="Wakeful" hidden="false" collective="false" import="true" type="model">
+          <selectionEntryGroups>
+            <selectionEntryGroup id="3d91-e291-7fcc-140a" name="Refits" hidden="false" collective="false" import="true" defaultSelectionEntryId="db47-146c-d6e9-8a41">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="e2e1-44e0-88d3-528a" type="min"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="6011-c827-b031-8d0d" type="max"/>
+              </constraints>
+              <selectionEntries>
+                <selectionEntry id="db47-146c-d6e9-8a41" name="Wakeful" hidden="false" collective="false" import="true" type="upgrade"/>
+              </selectionEntries>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
           <costs>
-            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="5.0"/>
           </costs>
         </selectionEntry>
-        <selectionEntry id="98ed-b988-6183-8a61" name="Watchman" hidden="false" collective="false" import="true" type="upgrade">
+        <selectionEntry id="5af3-86f4-f4da-a159" name="Walpole" hidden="false" collective="false" import="true" type="model">
+          <selectionEntryGroups>
+            <selectionEntryGroup id="8b45-0053-be77-6f08" name="Refits" hidden="false" collective="false" import="true" defaultSelectionEntryId="0246-b9ec-1241-d88d">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="513a-5406-b0b2-c456" type="min"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="9349-297f-d353-9e32" type="max"/>
+              </constraints>
+              <selectionEntries>
+                <selectionEntry id="0246-b9ec-1241-d88d" name="Walpole" hidden="false" collective="false" import="true" type="upgrade"/>
+                <selectionEntry id="1f06-ae4d-0d87-9da6" name="Walpole 1940" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="-10.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="df04-ffec-b31c-ba4d" name="Walpole 1944" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="-5.0"/>
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
           <costs>
-            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="5.0"/>
           </costs>
         </selectionEntry>
-        <selectionEntry id="2c7e-d837-632c-2fbe" name="Westcott" hidden="false" collective="false" import="true" type="upgrade">
+        <selectionEntry id="a6fd-54bf-e0bf-55a8" name="Wessex" hidden="false" collective="false" import="true" type="model">
+          <selectionEntryGroups>
+            <selectionEntryGroup id="f27e-619f-e7ee-1190" name="Refits" hidden="false" collective="false" import="true" defaultSelectionEntryId="ef0e-9f62-1824-f5e5">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="91a1-7cf6-01dd-febb" type="min"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="9b88-ea2e-8f1c-92cc" type="max"/>
+              </constraints>
+              <selectionEntries>
+                <selectionEntry id="ef0e-9f62-1824-f5e5" name="Wessex" hidden="false" collective="false" import="true" type="upgrade"/>
+              </selectionEntries>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
           <costs>
-            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="5.0"/>
           </costs>
         </selectionEntry>
-        <selectionEntry id="0af6-a72f-f63c-3559" name="Winchelsea" hidden="false" collective="false" import="true" type="upgrade">
+        <selectionEntry id="5c93-d675-6704-caf2" name="Whirlwind" hidden="false" collective="false" import="true" type="model">
+          <selectionEntryGroups>
+            <selectionEntryGroup id="2042-5d49-0c10-c108" name="Refits" hidden="false" collective="false" import="true" defaultSelectionEntryId="12f1-3b54-7beb-759d">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="de38-2b4d-4f16-e60c" type="min"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="bf26-6cdf-8eb4-eaf7" type="max"/>
+              </constraints>
+              <selectionEntries>
+                <selectionEntry id="12f1-3b54-7beb-759d" name="Whirlwind" hidden="false" collective="false" import="true" type="upgrade"/>
+              </selectionEntries>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
           <costs>
-            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="5.0"/>
           </costs>
         </selectionEntry>
-        <selectionEntry id="0b8c-f219-594b-a8a1" name="Wrestler" hidden="false" collective="false" import="true" type="upgrade">
+        <selectionEntry id="a1da-5f42-3142-7d0c" name="Windsor" hidden="false" collective="false" import="true" type="model">
+          <selectionEntryGroups>
+            <selectionEntryGroup id="7a45-8f7b-73ab-541d" name="Refits" hidden="false" collective="false" import="true" defaultSelectionEntryId="91df-a173-32c6-f566">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="f45c-2b0c-0459-3b09" type="min"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="35ee-9f22-c0f5-33d4" type="max"/>
+              </constraints>
+              <selectionEntries>
+                <selectionEntry id="91df-a173-32c6-f566" name="Windsor" hidden="false" collective="false" import="true" type="upgrade"/>
+                <selectionEntry id="db4e-d9c6-b883-5006" name="Windsor 1940" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="-10.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="5bfe-5bba-991b-2ef5" name="Windsor 1943" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="-5.0"/>
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
           <costs>
-            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="5.0"/>
           </costs>
         </selectionEntry>
-        <selectionEntry id="a52d-00d7-fe75-fcf8" name="Wakeful" hidden="false" collective="false" import="true" type="upgrade">
-          <costs>
-            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
-          </costs>
-        </selectionEntry>
-        <selectionEntry id="5af3-86f4-f4da-a159" name="Walpole" hidden="false" collective="false" import="true" type="upgrade">
-          <costs>
-            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
-          </costs>
-        </selectionEntry>
-        <selectionEntry id="a6fd-54bf-e0bf-55a8" name="Wessex" hidden="false" collective="false" import="true" type="upgrade">
-          <costs>
-            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
-          </costs>
-        </selectionEntry>
-        <selectionEntry id="5c93-d675-6704-caf2" name="Whirlwind" hidden="false" collective="false" import="true" type="upgrade">
-          <costs>
-            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
-          </costs>
-        </selectionEntry>
-        <selectionEntry id="a1da-5f42-3142-7d0c" name="Windsor" hidden="false" collective="false" import="true" type="upgrade">
-          <costs>
-            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
-          </costs>
-        </selectionEntry>
-        <selectionEntry id="37d5-d7b8-ad4f-c362" name="Waterhen" hidden="false" collective="false" import="true" type="upgrade">
+        <selectionEntry id="37d5-d7b8-ad4f-c362" name="Waterhen" hidden="false" collective="false" import="true" type="model">
+          <selectionEntryGroups>
+            <selectionEntryGroup id="7469-dfb0-2736-69a3" name="Refits" hidden="false" collective="false" import="true">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="51f6-dc75-16f1-745b" type="min"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="e584-7601-bf61-9749" type="max"/>
+              </constraints>
+              <selectionEntries>
+                <selectionEntry id="f5cb-9550-96ae-7eac" name="Waterhen" hidden="false" collective="false" import="true" type="upgrade"/>
+                <selectionEntry id="4f65-f389-6adc-78e4" name="Waterhen 1940" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="-10.0"/>
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
           <costs>
             <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
           </costs>
