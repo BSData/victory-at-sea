@@ -69,6 +69,7 @@
     <categoryEntry id="be79-ea08-0c7b-609c" name="Civilian" hidden="false"/>
     <categoryEntry id="3c73-d3d0-7c07-b8e5" name="Submarine" hidden="false"/>
     <categoryEntry id="cf88-2062-68e4-b49a" name="Motor Torpedo Boat" hidden="false"/>
+    <categoryEntry id="70af-4d8e-9f49-4a1e" name="The Royal Netherlands Navy" hidden="false"/>
   </categoryEntries>
   <forceEntries>
     <forceEntry id="9707-b4d0-2007-bbf6" name="Fleet" hidden="false">

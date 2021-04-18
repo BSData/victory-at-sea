@@ -1,0 +1,2727 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<catalogue id="87fa-2181-1873-4d3e" name="The Regia Marina" revision="1" battleScribeVersion="2.03" library="false" gameSystemId="d551-9646-dd17-819a" gameSystemRevision="1" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
+  <entryLinks>
+    <entryLink id="fdca-9faf-9044-df73" name="Andrea Doria-Class Battleship" hidden="false" collective="false" import="true" targetId="4be2-4f21-4908-3d15" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="e20b-6498-2b67-8c40" name="New CategoryLink" hidden="false" targetId="5153-aef8-326b-3c5f" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="56c2-7409-6b78-8a25" name="Conte Di Cavour-Class Battleship" hidden="false" collective="false" import="true" targetId="dbaa-6373-e88a-323a" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="7c3b-c7c1-b13e-a578" name="New CategoryLink" hidden="false" targetId="5153-aef8-326b-3c5f" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="c8ff-8f95-ecea-8192" name="Littorio-Class Battleship" hidden="false" collective="false" import="true" targetId="b50d-2f4b-35de-a888" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="31ff-d2fd-0f79-5b90" name="New CategoryLink" hidden="false" targetId="5153-aef8-326b-3c5f" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="d51d-f7f1-f676-d01d" name="Aquila-Class Carrier" hidden="false" collective="false" import="true" targetId="56b0-5b74-20b7-7427" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="b119-950a-6334-c395" name="New CategoryLink" hidden="false" targetId="da58-44be-bb7f-80d6" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="781b-192e-66d3-eeec" name="Capitani Romani-Class Cruiser" hidden="false" collective="false" import="true" targetId="ce2b-0663-cd73-bc32" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="f433-ec39-aec6-2652" name="New CategoryLink" hidden="false" targetId="f46e-c2a8-5a64-daf9" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="19b7-f250-4a72-a0a3" name="Alberto Da Gussano-Class Cruiser" hidden="false" collective="false" import="true" targetId="5fd0-3a55-2b59-270c" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="c3d9-92a8-d942-7362" name="New CategoryLink" hidden="false" targetId="f46e-c2a8-5a64-daf9" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="62e6-89a5-1db3-2ec0" name="Duca D&apos;Aosta-Class Cruiser" hidden="false" collective="false" import="true" targetId="03ce-424e-ad4b-47c6" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="5a3f-4f44-1c81-05d9" name="New CategoryLink" hidden="false" targetId="f46e-c2a8-5a64-daf9" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="8fdf-1321-1cff-e16d" name="Duca Delgi Abruzzi-Class Cruiser" hidden="false" collective="false" import="true" targetId="c5a1-8aee-7bad-6e49" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="fecf-ec27-3589-2e5e" name="New CategoryLink" hidden="false" targetId="f46e-c2a8-5a64-daf9" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="86fe-28c1-3c71-dce5" name="Etna-Class Cruiser" hidden="false" collective="false" import="true" targetId="a07f-5c56-214b-5a87" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="8353-ebce-289b-bceb" name="New CategoryLink" hidden="false" targetId="f46e-c2a8-5a64-daf9" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="bda4-3d16-b271-0643" name="Luigi Cadorna-Class Cruiser" hidden="false" collective="false" import="true" targetId="d7be-3ed8-0927-5db6" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="6da8-a4b5-dde0-3a51" name="New CategoryLink" hidden="false" targetId="f46e-c2a8-5a64-daf9" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="37a5-d3a7-2348-ba48" name="Montecuccoli-Class Cruiser" hidden="false" collective="false" import="true" targetId="2d97-99c4-78a1-da2c" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="3ea7-ffe4-102a-46d6" name="New CategoryLink" hidden="false" targetId="f46e-c2a8-5a64-daf9" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="2002-9d2b-d970-4faa" name="Trento-Class Cruiser" hidden="false" collective="false" import="true" targetId="32d8-7ed5-0230-2494" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="eaeb-4be2-c92f-1ab0" name="New CategoryLink" hidden="false" targetId="f46e-c2a8-5a64-daf9" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="b8e3-e323-5a5d-93dc" name="Zara-Class Cruiser" hidden="false" collective="false" import="true" targetId="ec96-83aa-7ac0-c4e8" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="b4cc-f010-4b66-fde2" name="New CategoryLink" hidden="false" targetId="f46e-c2a8-5a64-daf9" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="6ac0-a140-7399-1125" name="Folgore-Class Destroyer" hidden="false" collective="false" import="true" targetId="afd1-71bc-f244-fe73" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="bc96-fece-9830-5f05" name="New CategoryLink" hidden="false" targetId="b241-6ad8-94a2-cc48" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="558b-5660-35cb-0d85" name="Freccia-Class Destroyer" hidden="false" collective="false" import="true" targetId="3928-9d28-9051-acb4" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="2445-902d-efd7-b38a" name="New CategoryLink" hidden="false" targetId="b241-6ad8-94a2-cc48" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="6e9f-9786-76f4-dfa7" name="Maestrale-Class Destroyer" hidden="false" collective="false" import="true" targetId="dd91-9ed8-e613-7846" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="b834-1787-1692-1882" name="New CategoryLink" hidden="false" targetId="b241-6ad8-94a2-cc48" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="201b-522b-51fe-0335" name="Navigatori-Class Destroyer" hidden="false" collective="false" import="true" targetId="7449-c1a2-e5bf-6c19" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="f3a4-56b5-6afe-bb55" name="New CategoryLink" hidden="false" targetId="b241-6ad8-94a2-cc48" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="ed55-613e-84d7-8334" name="Oriani-Class Destroyer" hidden="false" collective="false" import="true" targetId="a690-16f9-2941-1c16" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="3880-b7ed-9ff6-8e39" name="New CategoryLink" hidden="false" targetId="b241-6ad8-94a2-cc48" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="1075-4064-ed14-4f16" name="Soldati-Class Destroyer" hidden="false" collective="false" import="true" targetId="c05a-bb53-fe43-c3a7" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="456d-6c19-1ef3-18bb" name="New CategoryLink" hidden="false" targetId="b241-6ad8-94a2-cc48" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="581e-0d3b-6033-2e0a" name="Marcello-Class Submarine" hidden="false" collective="false" import="true" targetId="f26d-ab07-b802-d5a9" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="d52b-bf7f-34bd-71c2" name="New CategoryLink" hidden="false" targetId="3c73-d3d0-7c07-b8e5" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="5aad-2c2a-4949-337b" name="Breda Ba.201 - Dive-Bomber" hidden="false" collective="false" import="true" targetId="381a-3ca2-6390-7ac7" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="d05d-ade4-04a0-4c08" name="New CategoryLink" hidden="false" targetId="c08d-d9af-1109-9c27" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="52f0-35e0-4dfe-ef17" name="Fiat G.50 Freccia - Bomber" hidden="false" collective="false" import="true" targetId="8fcc-5731-29fb-59d0" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="29e0-9004-d129-3f55" name="New CategoryLink" hidden="false" targetId="c08d-d9af-1109-9c27" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="ae49-097c-c7c2-5787" name="Fiat G.50 Freccia - Fighter" hidden="false" collective="false" import="true" targetId="190a-0ab8-087f-7c83" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="6b83-bedf-3f8c-c357" name="New CategoryLink" hidden="false" targetId="c08d-d9af-1109-9c27" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="8a1a-785b-33df-8dd2" name="Junkers Ju 87 Picchiatello - Dive-Bomber" hidden="false" collective="false" import="true" targetId="3131-49e3-79a4-e67f" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="1fa0-574a-a90b-81c1" name="New CategoryLink" hidden="false" targetId="c08d-d9af-1109-9c27" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="0d81-6a48-c919-aa03" name="Macchi C.202 Folgore" hidden="false" collective="false" import="true" targetId="b27f-4e3d-7b4b-6207" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="5ff1-1d55-7331-35dd" name="New CategoryLink" hidden="false" targetId="c08d-d9af-1109-9c27" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="8aa9-d216-2a31-13f4" name="Macchi C.202 Folgore - Bomber" hidden="false" collective="false" import="true" targetId="9142-921f-f017-604e" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="dddc-538f-f636-d232" name="New CategoryLink" hidden="false" targetId="c08d-d9af-1109-9c27" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="d3c0-18e2-fbfb-e753" name="Reggiane Re.2000 Falco I - Fighter" hidden="false" collective="false" import="true" targetId="4fa9-c3ac-ee73-0abd" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="00be-8586-cb27-c58a" name="New CategoryLink" hidden="false" targetId="c08d-d9af-1109-9c27" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="74c2-8e03-6f56-c721" name="Reggiane Re.2001 Falco II - Fighter" hidden="false" collective="false" import="true" targetId="15af-ace4-1b7e-1f17" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="b079-ab62-3508-38a3" name="New CategoryLink" hidden="false" targetId="c08d-d9af-1109-9c27" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="5edb-2823-6969-71a0" name="Reggiane Re.2001 Falco II - Bomber" hidden="false" collective="false" import="true" targetId="6ca2-cfe0-ef86-3ea3" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="f44a-75ad-16c6-9af9" name="New CategoryLink" hidden="false" targetId="c08d-d9af-1109-9c27" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="504a-d9c3-fe2f-3619" name="Savoia Marchetti SM.79 Sparviero - Bomber" hidden="false" collective="false" import="true" targetId="564c-7a93-30a3-a528" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="f734-73ee-c9fb-9316" name="New CategoryLink" hidden="false" targetId="c08d-d9af-1109-9c27" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="53c7-ded2-e1b2-5951" name="Savoia Marchetti SM.79 Sparviero - Torpedo-Bomber" hidden="false" collective="false" import="true" targetId="b533-39d0-74b6-6ab9" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="82b7-cb26-0c3e-58a9" name="New CategoryLink" hidden="false" targetId="c08d-d9af-1109-9c27" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="c39c-60d4-4434-bf96" name="MAS Boat" hidden="false" collective="false" import="true" targetId="0b67-1c5c-72b1-edf9" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="ef43-78c1-b289-c27b" name="New CategoryLink" hidden="false" targetId="cf88-2062-68e4-b49a" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="5e19-995d-fee4-a3fe" name="MS Boat Type I" hidden="false" collective="false" import="true" targetId="26c0-4b0c-75aa-b7ec" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="ab39-4e6d-793a-f3ae" name="New CategoryLink" hidden="false" targetId="cf88-2062-68e4-b49a" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="3e62-e9da-6dc3-5803" name="MS Boat Type 2" hidden="false" collective="false" import="true" targetId="1c25-9ffa-0c7d-a737" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="b1c0-f20e-d565-e22f" name="New CategoryLink" hidden="false" targetId="cf88-2062-68e4-b49a" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="e7b3-9663-4ead-bf66" name="MT Boat" hidden="false" collective="false" import="true" targetId="d498-80c1-94c3-b3ba" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="4ca0-d9e3-1a7b-ada7" name="New CategoryLink" hidden="false" targetId="cf88-2062-68e4-b49a" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="ffaa-7483-b6f1-fdbe" name="VAS Boat" hidden="false" collective="false" import="true" targetId="81ef-98d5-3877-8eb2" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="cec4-6ce1-df5c-cc6e" name="New CategoryLink" hidden="false" targetId="cf88-2062-68e4-b49a" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+  </entryLinks>
+  <sharedSelectionEntries>
+    <selectionEntry id="4be2-4f21-4908-3d15" name="Andrea Doria-Class Battleship" hidden="false" collective="false" import="true" type="unit">
+      <categoryLinks>
+        <categoryLink id="762e-4fb7-0cd4-6d4f" name="Battleship" hidden="false" targetId="5153-aef8-326b-3c5f" primary="false"/>
+        <categoryLink id="6589-d0e1-a2fc-0d1b" name="The Regia Marina" hidden="false" targetId="e21e-0bb6-f52f-c37d" primary="false"/>
+      </categoryLinks>
+      <selectionEntries>
+        <selectionEntry id="3c63-ebc4-b72d-1c7f" name="Andrea Doria" hidden="false" collective="false" import="true" type="model">
+          <selectionEntryGroups>
+            <selectionEntryGroup id="438a-7077-a217-3e70" name="Refits" hidden="false" collective="false" import="true" defaultSelectionEntryId="1dc1-c21e-8706-adaa">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="1e5e-b6db-e687-8d0b" type="min"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="0289-6ae9-d818-84ab" type="max"/>
+              </constraints>
+              <selectionEntries>
+                <selectionEntry id="1dc1-c21e-8706-adaa" name="Andrea Doria" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="878c-2eb3-92af-40c6" name="Andrea Doria 1942" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="5.0"/>
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="-5.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="8e3f-170d-ae1f-9d14" name="Caio Duilio" hidden="false" collective="false" import="true" type="model">
+          <selectionEntryGroups>
+            <selectionEntryGroup id="66cb-4574-3b2f-127c" name="Refits" hidden="false" collective="false" import="true" defaultSelectionEntryId="a2f0-094c-bde6-d8d1">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="239c-6151-a853-af48" type="min"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="c909-8894-2662-7c5d" type="max"/>
+              </constraints>
+              <selectionEntries>
+                <selectionEntry id="a2f0-094c-bde6-d8d1" name="Caio Duilio" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="0040-c9aa-e1fc-8cad" name="Caio Duilio 1942" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="5.0"/>
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="370.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="dbaa-6373-e88a-323a" name="Conte Di Cavour-Class Battleship" hidden="false" collective="false" import="true" type="unit">
+      <categoryLinks>
+        <categoryLink id="4554-5a5b-8de8-b860" name="Battleship" hidden="false" targetId="5153-aef8-326b-3c5f" primary="false"/>
+        <categoryLink id="421e-5f9e-5de4-db86" name="The Regia Marina" hidden="false" targetId="e21e-0bb6-f52f-c37d" primary="false"/>
+      </categoryLinks>
+      <selectionEntries>
+        <selectionEntry id="4939-353c-7120-656a" name="Conte di Cavour" hidden="false" collective="false" import="true" type="model">
+          <selectionEntryGroups>
+            <selectionEntryGroup id="0754-ad3d-0120-98bf" name="Refits" hidden="false" collective="false" import="true" defaultSelectionEntryId="552b-3c30-4392-cedb">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="562b-c44d-6c90-953b" type="min"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="024e-c2dd-2708-109b" type="max"/>
+              </constraints>
+              <selectionEntries>
+                <selectionEntry id="552b-3c30-4392-cedb" name="Conte di Cavour" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="5.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="ab88-299e-8967-04fd" name="Giulio Cesare" hidden="false" collective="false" import="true" type="model">
+          <selectionEntryGroups>
+            <selectionEntryGroup id="b440-a853-48c5-c23f" name="Refits" hidden="false" collective="false" import="true" defaultSelectionEntryId="7139-0588-5f87-a911">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="5ee2-fb1c-ae6f-ef2c" type="min"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="b782-5992-5322-bb84" type="max"/>
+              </constraints>
+              <selectionEntries>
+                <selectionEntry id="7139-0588-5f87-a911" name="Giulio Cesare" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="4d48-d82b-30f3-1d18" name="Giulio Cesare 1941" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="ce9b-7d1b-c672-41b9" name="Leonardo da Vinci" hidden="false" collective="false" import="true" type="model">
+          <selectionEntryGroups>
+            <selectionEntryGroup id="41a4-6c18-e34b-6720" name="Refits" hidden="false" collective="false" import="true" defaultSelectionEntryId="9ab6-6e65-331b-e1ba">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="64bd-2d08-3c09-47ab" type="min"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="5677-df19-d80c-fcbe" type="max"/>
+              </constraints>
+              <selectionEntries>
+                <selectionEntry id="9ab6-6e65-331b-e1ba" name="Leonardo da Vinci" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="370.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="b50d-2f4b-35de-a888" name="Littorio-Class Battleship" hidden="false" collective="false" import="true" type="unit">
+      <categoryLinks>
+        <categoryLink id="0bd2-fc4c-7698-386c" name="Battleship" hidden="false" targetId="5153-aef8-326b-3c5f" primary="false"/>
+        <categoryLink id="a5f4-7461-0cf5-1f61" name="The Regia Marina" hidden="false" targetId="e21e-0bb6-f52f-c37d" primary="false"/>
+      </categoryLinks>
+      <selectionEntries>
+        <selectionEntry id="64bb-7dd0-4ced-6f9f" name="Littorio" hidden="false" collective="false" import="true" type="model">
+          <selectionEntryGroups>
+            <selectionEntryGroup id="f143-ad00-2bda-ec98" name="Refits" hidden="false" collective="false" import="true" defaultSelectionEntryId="095e-ef28-d447-0262">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="f27c-a8e9-f574-cf42" type="min"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="e52c-2638-a7d6-0f7e" type="max"/>
+              </constraints>
+              <selectionEntries>
+                <selectionEntry id="095e-ef28-d447-0262" name="Littorio" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="f080-9072-3359-ecb3" name="Littorio 1942" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="60.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="9843-171f-c774-20fd" name="Littorio 1943" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="55.0"/>
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="69f8-976f-33d0-0365" name="Roma" hidden="false" collective="false" import="true" type="model">
+          <selectionEntryGroups>
+            <selectionEntryGroup id="8198-067a-8efa-60eb" name="Refits" hidden="false" collective="false" import="true" defaultSelectionEntryId="bd1e-0da3-4203-de91">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="f3ed-d782-5a49-967a" type="min"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="6661-1ea4-ca34-1c66" type="max"/>
+              </constraints>
+              <selectionEntries>
+                <selectionEntry id="bd1e-0da3-4203-de91" name="Roma" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="538a-109e-d68c-ef34" name="Roma 1942" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="60.0"/>
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="9854-c030-135a-5405" name="Vittorio Veneta" hidden="false" collective="false" import="true" type="model">
+          <selectionEntryGroups>
+            <selectionEntryGroup id="cf04-3109-ca71-09aa" name="Refits" hidden="false" collective="false" import="true" defaultSelectionEntryId="d457-04cf-9e99-dfe6">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="8607-c661-ccc0-a237" type="min"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="3769-c181-5ee0-bf1b" type="max"/>
+              </constraints>
+              <selectionEntries>
+                <selectionEntry id="d457-04cf-9e99-dfe6" name="Vittorio Veneta" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="4616-58cf-d90b-c35f" name="Vittorio Veneta 1942" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="60.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="6afe-6d9a-ba3d-ba5a" name="Vittorio Veneta 1943" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="55.0"/>
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="550.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="56b0-5b74-20b7-7427" name="Aquila-Class Carrier" hidden="false" collective="false" import="true" type="unit">
+      <categoryLinks>
+        <categoryLink id="c34a-6365-b73c-f5c8" name="Aircraft Carrier" hidden="false" targetId="da58-44be-bb7f-80d6" primary="false"/>
+        <categoryLink id="d43b-0eca-70a8-6cf9" name="The Regia Marina" hidden="false" targetId="e21e-0bb6-f52f-c37d" primary="false"/>
+      </categoryLinks>
+      <selectionEntries>
+        <selectionEntry id="29d6-3402-b739-a99d" name="Re.2001 Folding Wing Fighters" hidden="false" collective="false" import="true" type="upgrade">
+          <constraints>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="7bd7-f03e-eb92-4972" type="max"/>
+          </constraints>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="20.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="290f-aa15-2a3c-1551" name="Aquila" hidden="false" collective="false" import="true" type="model">
+          <selectionEntryGroups>
+            <selectionEntryGroup id="2583-f499-95ac-bfea" name="Refits" hidden="false" collective="false" import="true" defaultSelectionEntryId="6b77-a14f-5156-6f3a">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="e1ad-54b3-4c52-e0a2" type="min"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="2a57-931d-6fc1-c594" type="max"/>
+              </constraints>
+              <selectionEntries>
+                <selectionEntry id="6b77-a14f-5156-6f3a" name="Aquila" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <entryLinks>
+        <entryLink id="c094-b664-355f-091a" name="Carrier Flights" hidden="false" collective="false" import="true" targetId="c217-42fb-f5b2-2cc5" type="selectionEntryGroup">
+          <constraints>
+            <constraint field="selections" scope="parent" value="12.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="220c-c791-d16b-49fc" type="min"/>
+            <constraint field="selections" scope="parent" value="12.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="3811-29fe-4eac-a9ec" type="max"/>
+          </constraints>
+        </entryLink>
+      </entryLinks>
+      <costs>
+        <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="210.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="ce2b-0663-cd73-bc32" name="Capitani Romani-Class Cruiser" hidden="false" collective="false" import="true" type="unit">
+      <categoryLinks>
+        <categoryLink id="0819-5b6c-6b2b-5eb0" name="Cruiser" hidden="false" targetId="f46e-c2a8-5a64-daf9" primary="false"/>
+        <categoryLink id="4f54-aa8e-33fa-f645" name="The Regia Marina" hidden="false" targetId="e21e-0bb6-f52f-c37d" primary="false"/>
+      </categoryLinks>
+      <selectionEntries>
+        <selectionEntry id="3fd3-c274-0af1-3caf" name="Attilio Regolo" hidden="false" collective="false" import="true" type="model">
+          <selectionEntryGroups>
+            <selectionEntryGroup id="8a68-2b37-8735-4ba9" name="Refits" hidden="false" collective="false" import="true" defaultSelectionEntryId="e113-2e4d-b12f-f84d">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="7e98-374f-db12-2a53" type="min"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="f966-827f-b1ab-3cfc" type="max"/>
+              </constraints>
+              <selectionEntries>
+                <selectionEntry id="e113-2e4d-b12f-f84d" name="Attilio Regolo" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="115d-eff0-3186-9324" name="Attilio Regolo 1943" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="5.0"/>
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="c31f-f25b-e6f0-feff" name="Pompeo Magna" hidden="false" collective="false" import="true" type="model">
+          <selectionEntryGroups>
+            <selectionEntryGroup id="edbc-1136-a02e-704f" name="Refits" hidden="false" collective="false" import="true" defaultSelectionEntryId="e4d6-8886-431f-2dad">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="965b-b2b5-a010-5c22" type="min"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="418b-b703-9582-5207" type="max"/>
+              </constraints>
+              <selectionEntries>
+                <selectionEntry id="e4d6-8886-431f-2dad" name="Pompeo Magna" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="291f-9e28-d1cc-d803" name="Scipione Africano" hidden="false" collective="false" import="true" type="model">
+          <selectionEntryGroups>
+            <selectionEntryGroup id="c8fd-8994-7c78-afcd" name="Refits" hidden="false" collective="false" import="true" defaultSelectionEntryId="5e5b-dadb-8662-8501">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="5219-65f4-dcc3-63a7" type="min"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="c04d-5a9c-8eaa-d796" type="max"/>
+              </constraints>
+              <selectionEntries>
+                <selectionEntry id="5e5b-dadb-8662-8501" name="Scipione Africano" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="6dca-a459-6013-b4f4" name="Scipione Africano 1943" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="5.0"/>
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="65.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="5fd0-3a55-2b59-270c" name="Alberto Da Gussano-Class Cruiser" hidden="false" collective="false" import="true" type="unit">
+      <categoryLinks>
+        <categoryLink id="b3e1-393a-a9e9-1043" name="Civilian" hidden="false" targetId="be79-ea08-0c7b-609c" primary="false"/>
+        <categoryLink id="c111-425b-79d1-3143" name="The Regia Marina" hidden="false" targetId="e21e-0bb6-f52f-c37d" primary="false"/>
+      </categoryLinks>
+      <selectionEntries>
+        <selectionEntry id="a89a-d401-7067-da12" name="Alberico da Barbiano" hidden="false" collective="false" import="true" type="model">
+          <selectionEntryGroups>
+            <selectionEntryGroup id="4264-1a8c-f8b8-0daa" name="Refits" hidden="false" collective="false" import="true" defaultSelectionEntryId="08ad-392b-97a5-c195">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="dd38-1eb8-478d-0982" type="min"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="bdf9-0885-5b3e-32eb" type="max"/>
+              </constraints>
+              <selectionEntries>
+                <selectionEntry id="08ad-392b-97a5-c195" name="Alberico da Barbiano" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="168f-cd87-f830-e4e4" name="Alberto da Giussano" hidden="false" collective="false" import="true" type="model">
+          <selectionEntryGroups>
+            <selectionEntryGroup id="8140-6618-980d-c28c" name="Refits" hidden="false" collective="false" import="true" defaultSelectionEntryId="2fda-6c84-6b77-c745">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="88f1-9dd7-c1be-85f0" type="min"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="b423-2ea2-976b-6b6d" type="max"/>
+              </constraints>
+              <selectionEntries>
+                <selectionEntry id="2fda-6c84-6b77-c745" name="Alberto da Giussano" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="38b7-1153-f7e4-27c7" name="Bartolomeo Colleoni" hidden="false" collective="false" import="true" type="model">
+          <selectionEntryGroups>
+            <selectionEntryGroup id="ad21-9be7-2aee-eb29" name="Refits" hidden="false" collective="false" import="true" defaultSelectionEntryId="1acc-61c7-7061-3106">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="6818-2234-4a8a-a688" type="min"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="907a-ffa1-c6e2-220f" type="max"/>
+              </constraints>
+              <selectionEntries>
+                <selectionEntry id="1acc-61c7-7061-3106" name="Bartolomeo Colleoni" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="213d-4102-97f2-69d0" name="Giovanni delle Bande Nere" hidden="false" collective="false" import="true" type="model">
+          <selectionEntryGroups>
+            <selectionEntryGroup id="cfb5-b906-4ab2-7ba6" name="Refits" hidden="false" collective="false" import="true" defaultSelectionEntryId="2196-d77a-c5b5-caca">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="a5f2-230a-b521-3c85" type="min"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="0892-78aa-4f84-53c2" type="max"/>
+              </constraints>
+              <selectionEntries>
+                <selectionEntry id="2196-d77a-c5b5-caca" name="Giovanni delle Bande Nere" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="80.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="03ce-424e-ad4b-47c6" name="Duca D&apos;Aosta-Class Cruiser" hidden="false" collective="false" import="true" type="unit">
+      <categoryLinks>
+        <categoryLink id="f6c7-cffc-35df-a888" name="Cruiser" hidden="false" targetId="f46e-c2a8-5a64-daf9" primary="false"/>
+        <categoryLink id="2fbe-a954-1717-a6b6" name="The Regia Marina" hidden="false" targetId="e21e-0bb6-f52f-c37d" primary="false"/>
+      </categoryLinks>
+      <selectionEntries>
+        <selectionEntry id="09a6-455b-43dd-796d" name="Emanuele Filberto Duca d&apos;Aosta" hidden="false" collective="false" import="true" type="model">
+          <selectionEntryGroups>
+            <selectionEntryGroup id="0e13-e515-2379-7f36" name="Refits" hidden="false" collective="false" import="true" defaultSelectionEntryId="a09b-00b2-d072-2e3c">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="f5ec-57e4-9d7b-8497" type="min"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="ac7c-cfa3-2791-6486" type="max"/>
+              </constraints>
+              <selectionEntries>
+                <selectionEntry id="a09b-00b2-d072-2e3c" name="Emanuele Filberto Duca d&apos;Aosta" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="4d3b-2d3a-3cc9-f2f9" name="Emanuele Filberto Duca d&apos;Aosta 1943" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="10.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="4773-749c-8e52-93c6" name="Emanuele Filiberto Duca d&apos;Aosta 1944" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="-20.0"/>
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="edab-f8a0-dd3f-5d2d" name="Eugenio di Savoia" hidden="false" collective="false" import="true" type="model">
+          <selectionEntryGroups>
+            <selectionEntryGroup id="7eb8-8e24-e005-dc0d" name="Refits" hidden="false" collective="false" import="true" defaultSelectionEntryId="dee4-0f4a-dbb7-251b">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="7224-ae58-609e-2491" type="min"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="4180-ecfb-6fff-3201" type="max"/>
+              </constraints>
+              <selectionEntries>
+                <selectionEntry id="dee4-0f4a-dbb7-251b" name="Eugenio di Savoia" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="1bce-fada-25e5-edd0" name="Eugenio di Savoia 1943" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="10.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="9ed3-93ae-401c-7649" name="Eugenio di Savoia 1944" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="-20.0"/>
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="90.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="c5a1-8aee-7bad-6e49" name="Duca Delgi Abruzzi-Class Cruiser" hidden="false" collective="false" import="true" type="unit">
+      <categoryLinks>
+        <categoryLink id="48e1-5836-09c3-3ad1" name="Cruiser" hidden="false" targetId="f46e-c2a8-5a64-daf9" primary="false"/>
+        <categoryLink id="3bb2-7577-bda9-6325" name="The Regia Marina" hidden="false" targetId="e21e-0bb6-f52f-c37d" primary="false"/>
+      </categoryLinks>
+      <selectionEntries>
+        <selectionEntry id="3bd0-da2d-a3c0-61ba" name="Luigi di Savoia Duca Degli Abruzzi" hidden="false" collective="false" import="true" type="model">
+          <selectionEntryGroups>
+            <selectionEntryGroup id="801b-4936-f172-e163" name="Refits" hidden="false" collective="false" import="true" defaultSelectionEntryId="84f0-822c-fad6-9864">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="d53a-df72-e86f-1d3b" type="min"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="d04a-c6f2-a758-42b9" type="max"/>
+              </constraints>
+              <selectionEntries>
+                <selectionEntry id="84f0-822c-fad6-9864" name="Luigi di Savoia Duca Degli Abruzzi" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="9e96-5c94-8f2f-4899" name="Luigi di Savoia Duca Degli Abruzzi 1943" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="10.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="ea38-a804-92d8-c25c" name="Luigi di Savoia Duca Degli Abruzzi 1944" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="-10.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="4420-7ba8-6d4f-57cc" name="Luigi di Savoia Duca Degli Abruzzi 1945" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="-20.0"/>
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="2c61-a2d0-d5f8-6d48" name="Giuseppe Garibaldi" hidden="false" collective="false" import="true" type="model">
+          <selectionEntryGroups>
+            <selectionEntryGroup id="833d-8bc2-7c58-6390" name="Refits" hidden="false" collective="false" import="true" defaultSelectionEntryId="7840-2128-89ba-30f8">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="b50e-1109-f081-c493" type="min"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="d8fe-6eb0-5fcb-dc80" type="max"/>
+              </constraints>
+              <selectionEntries>
+                <selectionEntry id="7840-2128-89ba-30f8" name="Giuseppe Garibaldi" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="317a-98b0-82b2-7dca" name="Giuseppe Garibaldi 1944" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="9f82-eb37-1918-6aee" name="Giuseppe Garibaldi 1945" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="-10.0"/>
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="-5.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="110.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="a07f-5c56-214b-5a87" name="Etna-Class Cruiser" hidden="false" collective="false" import="true" type="unit">
+      <categoryLinks>
+        <categoryLink id="3307-cec1-3352-bcb9" name="Cruiser" hidden="false" targetId="f46e-c2a8-5a64-daf9" primary="false"/>
+        <categoryLink id="f85b-fb89-0413-b2f4" name="The Regia Marina" hidden="false" targetId="e21e-0bb6-f52f-c37d" primary="false"/>
+      </categoryLinks>
+      <selectionEntries>
+        <selectionEntry id="ab14-9644-c81e-1ce0" name="Etna" hidden="false" collective="false" import="true" type="model">
+          <selectionEntryGroups>
+            <selectionEntryGroup id="fadc-cc15-a4b8-0fc0" name="Refits" hidden="false" collective="false" import="true" defaultSelectionEntryId="6246-e167-42e3-9863">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="261c-eefb-f831-d271" type="min"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="fbb4-7770-9fce-6e2e" type="max"/>
+              </constraints>
+              <selectionEntries>
+                <selectionEntry id="6246-e167-42e3-9863" name="Etna" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="3831-5198-f97b-e152" name="Vesuvio" hidden="false" collective="false" import="true" type="model">
+          <selectionEntryGroups>
+            <selectionEntryGroup id="d10d-64c6-dfca-8516" name="Refits" hidden="false" collective="false" import="true" defaultSelectionEntryId="bdee-1e39-2da5-6d3c">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="b065-cfda-5e01-f685" type="min"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="2714-5613-e14c-e02d" type="max"/>
+              </constraints>
+              <selectionEntries>
+                <selectionEntry id="bdee-1e39-2da5-6d3c" name="Vesuvio" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="60.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="d7be-3ed8-0927-5db6" name="Luigi Cadorna-Class Cruiser" hidden="false" collective="false" import="true" type="unit">
+      <categoryLinks>
+        <categoryLink id="f428-62eb-d6a3-ba15" name="Cruiser" hidden="false" targetId="f46e-c2a8-5a64-daf9" primary="false"/>
+        <categoryLink id="9052-3635-c966-e077" name="The Regia Marina" hidden="false" targetId="e21e-0bb6-f52f-c37d" primary="false"/>
+      </categoryLinks>
+      <selectionEntries>
+        <selectionEntry id="4389-65e3-b578-09b8" name="Armando Diaz" hidden="false" collective="false" import="true" type="model">
+          <selectionEntryGroups>
+            <selectionEntryGroup id="e400-a105-28d7-b453" name="Refits" hidden="false" collective="false" import="true" defaultSelectionEntryId="dd90-5bcf-a1de-ba30">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="fb84-95aa-d04a-f897" type="min"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="c35d-8fd2-71ec-a540" type="max"/>
+              </constraints>
+              <selectionEntries>
+                <selectionEntry id="dd90-5bcf-a1de-ba30" name="Armando Diaz" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="97d4-0ba6-e890-5acc" name="Luigi Cadorna" hidden="false" collective="false" import="true" type="model">
+          <selectionEntryGroups>
+            <selectionEntryGroup id="f133-2d67-0a0d-0953" name="Refits" hidden="false" collective="false" import="true" defaultSelectionEntryId="d809-55b9-537e-ffcf">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="f870-1f28-55dd-c273" type="min"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="d356-80f9-aeb7-a2a5" type="max"/>
+              </constraints>
+              <selectionEntries>
+                <selectionEntry id="d809-55b9-537e-ffcf" name="Luigi Cadorna" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="6e07-7d83-576f-178b" name="Luigi Cadorna 1943" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="-10.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="d63b-a7e4-50aa-874f" name="Luigi Cadorna 1944" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="-30.0"/>
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="-5.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="75.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="2d97-99c4-78a1-da2c" name="Montecuccoli-Class Cruiser" hidden="false" collective="false" import="true" type="unit">
+      <categoryLinks>
+        <categoryLink id="b37d-47d1-87d2-95c9" name="Cruiser" hidden="false" targetId="f46e-c2a8-5a64-daf9" primary="false"/>
+        <categoryLink id="6437-dfbc-15a3-d57d" name="The Regia Marina" hidden="false" targetId="e21e-0bb6-f52f-c37d" primary="false"/>
+      </categoryLinks>
+      <selectionEntries>
+        <selectionEntry id="3d33-544c-6d1d-46c8" name="Muzio Attendolo" hidden="false" collective="false" import="true" type="model">
+          <selectionEntryGroups>
+            <selectionEntryGroup id="0a77-6bd8-d05c-4bf0" name="Refits" hidden="false" collective="false" import="true" defaultSelectionEntryId="06b4-9873-c6c6-d24f">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="8b0a-3ca6-c5ce-c29c" type="min"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="395d-3209-ef58-a420" type="max"/>
+              </constraints>
+              <selectionEntries>
+                <selectionEntry id="06b4-9873-c6c6-d24f" name="Muzio Attendolo" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="bc89-6351-7beb-eba1" name="Raimondo Montecuccoli" hidden="false" collective="false" import="true" type="model">
+          <selectionEntryGroups>
+            <selectionEntryGroup id="3f29-e887-a673-5bc1" name="Refits" hidden="false" collective="false" import="true" defaultSelectionEntryId="065d-692e-c267-d581">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="4630-ef42-1614-8809" type="min"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="8ba5-f2af-0b91-14af" type="max"/>
+              </constraints>
+              <selectionEntries>
+                <selectionEntry id="065d-692e-c267-d581" name="Raimondo Montecuccoli" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="a940-4e59-d9c2-3649" name="Raimondo Montecuccoli 1943" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="15.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="d45f-ed7e-ba8e-517f" name="Raimondo Montecuccoli 1944" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="-15.0"/>
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="85.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="32d8-7ed5-0230-2494" name="Trento-Class Cruiser" hidden="false" collective="false" import="true" type="unit">
+      <categoryLinks>
+        <categoryLink id="6291-ff4f-611a-ce30" name="Cruiser" hidden="false" targetId="f46e-c2a8-5a64-daf9" primary="false"/>
+        <categoryLink id="a909-01f6-3ea7-5ee3" name="The Regia Marina" hidden="false" targetId="e21e-0bb6-f52f-c37d" primary="false"/>
+      </categoryLinks>
+      <selectionEntries>
+        <selectionEntry id="62cb-b8e9-f377-5c9c" name="Trento" hidden="false" collective="false" import="true" type="model">
+          <selectionEntryGroups>
+            <selectionEntryGroup id="f4f3-af5c-f360-b5f9" name="Refits" hidden="false" collective="false" import="true" defaultSelectionEntryId="1f75-68cb-cf53-1e55">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="b059-d772-4ecc-07d4" type="min"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="b639-9f46-d432-9a61" type="max"/>
+              </constraints>
+              <selectionEntries>
+                <selectionEntry id="1f75-68cb-cf53-1e55" name="Trento" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="eeb9-7784-bf4a-af74" name="Trieste" hidden="false" collective="false" import="true" type="model">
+          <selectionEntryGroups>
+            <selectionEntryGroup id="cce6-e4aa-bd02-e055" name="Refits" hidden="false" collective="false" import="true" defaultSelectionEntryId="6243-f2b8-7855-2651">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="7c53-c2bf-3995-2605" type="min"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="8475-d2c2-f81d-77b0" type="max"/>
+              </constraints>
+              <selectionEntries>
+                <selectionEntry id="6243-f2b8-7855-2651" name="Trieste" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="c814-ef43-567c-b37e" name="Bolzano" hidden="false" collective="false" import="true" type="model">
+          <selectionEntryGroups>
+            <selectionEntryGroup id="17d3-44c1-3923-764d" name="Refits" hidden="false" collective="false" import="true" defaultSelectionEntryId="99f6-361f-ce07-ee25">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="e7e7-31f5-47ce-8b92" type="min"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="03c7-8d92-9007-d576" type="max"/>
+              </constraints>
+              <selectionEntries>
+                <selectionEntry id="99f6-361f-ce07-ee25" name="Bolzano" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="5.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="130.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="ec96-83aa-7ac0-c4e8" name="Zara-Class Cruiser" hidden="false" collective="false" import="true" type="unit">
+      <categoryLinks>
+        <categoryLink id="669f-8264-fbb2-2064" name="Cruiser" hidden="false" targetId="f46e-c2a8-5a64-daf9" primary="false"/>
+        <categoryLink id="7579-f2dd-c822-15d9" name="The Regia Marina" hidden="false" targetId="e21e-0bb6-f52f-c37d" primary="false"/>
+      </categoryLinks>
+      <selectionEntries>
+        <selectionEntry id="f577-af98-80aa-ae40" name="Fiume" hidden="false" collective="false" import="true" type="model">
+          <selectionEntryGroups>
+            <selectionEntryGroup id="9b5b-fc6c-b5cd-a37b" name="Refits" hidden="false" collective="false" import="true">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="ec86-82bf-70c9-4547" type="min"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="a55b-b8de-f1ee-9660" type="max"/>
+              </constraints>
+              <selectionEntries>
+                <selectionEntry id="b7e6-7ee9-9dbf-c764" name="Fiume" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="5e87-f7e0-a3c1-b04e" name="Fiume 1940" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="5.0"/>
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="-5.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="57de-5311-9f64-4fde" name="Gorizia" hidden="false" collective="false" import="true" type="model">
+          <selectionEntryGroups>
+            <selectionEntryGroup id="a771-f686-53b0-413a" name="Refits" hidden="false" collective="false" import="true" defaultSelectionEntryId="ddc8-9164-3fec-5127">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="a29e-659e-e8ec-3c8e" type="min"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="714d-3c77-6f7c-36e8" type="max"/>
+              </constraints>
+              <selectionEntries>
+                <selectionEntry id="ddc8-9164-3fec-5127" name="Gorizia" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="8d4e-2d30-74ae-24a8" name="Gorizia 1940" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="5.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="cc03-026d-ba0a-e83a" name="Gorizia 1942" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="5.0"/>
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="983e-8edc-0af3-8efc" name="Pola" hidden="false" collective="false" import="true" type="model">
+          <selectionEntryGroups>
+            <selectionEntryGroup id="bc4c-d926-598b-37e0" name="Refits" hidden="false" collective="false" import="true" defaultSelectionEntryId="4a67-bcc1-9e9e-d0cc">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="8f91-4465-3f12-bd23" type="min"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="81c5-bab7-7c1d-ca16" type="max"/>
+              </constraints>
+              <selectionEntries>
+                <selectionEntry id="4a67-bcc1-9e9e-d0cc" name="Pola" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="7c35-bda3-9298-6b44" name="Pola 1940" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="5.0"/>
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="-5.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="2635-2596-2b99-ea74" name="Zara" hidden="false" collective="false" import="true" type="model">
+          <selectionEntryGroups>
+            <selectionEntryGroup id="027e-31ff-0392-fb89" name="Refits" hidden="false" collective="false" import="true" defaultSelectionEntryId="1ca4-de37-3bff-18a5">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="b415-43c0-fea3-af33" type="min"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="91b5-9cc8-adf5-c1a3" type="max"/>
+              </constraints>
+              <selectionEntries>
+                <selectionEntry id="1ca4-de37-3bff-18a5" name="Zara" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="201f-9d2d-fab4-2858" name="Zara 1940" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="5.0"/>
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="150.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="afd1-71bc-f244-fe73" name="Folgore-Class Destroyer" hidden="false" collective="false" import="true" type="unit">
+      <categoryLinks>
+        <categoryLink id="94ce-77fe-9d9a-fdfa" name="Destroyer" hidden="false" targetId="b241-6ad8-94a2-cc48" primary="false"/>
+        <categoryLink id="ab0e-9a33-b8af-eecb" name="The Regia Marina" hidden="false" targetId="e21e-0bb6-f52f-c37d" primary="false"/>
+      </categoryLinks>
+      <selectionEntries>
+        <selectionEntry id="9379-bc55-32ff-4df9" name="Beleno" hidden="false" collective="false" import="true" type="model">
+          <selectionEntryGroups>
+            <selectionEntryGroup id="4d5b-1429-c035-ffa8" name="Refits" hidden="false" collective="false" import="true" defaultSelectionEntryId="a22c-2c9a-132a-8505">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="b151-69a9-b180-266a" type="min"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="09e0-59ec-3e1f-2385" type="max"/>
+              </constraints>
+              <selectionEntries>
+                <selectionEntry id="a22c-2c9a-132a-8505" name="Beleno" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="18ce-df0d-1de6-a724" name="Folgore" hidden="false" collective="false" import="true" type="model">
+          <selectionEntryGroups>
+            <selectionEntryGroup id="9d54-f68f-d76e-378b" name="Refits" hidden="false" collective="false" import="true" defaultSelectionEntryId="f7fc-565f-f44f-8a0c">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="5432-087f-9ad5-89bb" type="min"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="2c8f-725d-e2ed-ac87" type="max"/>
+              </constraints>
+              <selectionEntries>
+                <selectionEntry id="f7fc-565f-f44f-8a0c" name="Folgore" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="4189-83ba-7200-f5d4" name="Folgore 1942" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="-5.0"/>
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="2ec6-9da4-f8dc-a8a2" name="Fulmine" hidden="false" collective="false" import="true" type="model">
+          <selectionEntryGroups>
+            <selectionEntryGroup id="e9a8-4954-acf3-f1d8" name="Refits" hidden="false" collective="false" import="true" defaultSelectionEntryId="1aea-a3f3-1a24-692f">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="7259-2b16-40a3-de50" type="min"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="215e-85c2-4ffa-a1c4" type="max"/>
+              </constraints>
+              <selectionEntries>
+                <selectionEntry id="1aea-a3f3-1a24-692f" name="Fulmine" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="1481-8e81-0a8b-bc08" name="Lampo" hidden="false" collective="false" import="true" type="model">
+          <selectionEntryGroups>
+            <selectionEntryGroup id="03f4-7ce5-f241-f5f1" name="Refits" hidden="false" collective="false" import="true" defaultSelectionEntryId="96b6-e24b-d561-767b">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="1aea-6a50-cc48-8cfe" type="min"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="2a5b-197d-e2e5-0ff5" type="max"/>
+              </constraints>
+              <selectionEntries>
+                <selectionEntry id="96b6-e24b-d561-767b" name="Lampo" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="24c8-faaa-72c9-50ea" name="Lampo 1942" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="-5.0"/>
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="30.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="3928-9d28-9051-acb4" name="Freccia-Class Destroyer" hidden="false" collective="false" import="true" type="unit">
+      <categoryLinks>
+        <categoryLink id="baa8-9a73-bf96-e700" name="Destroyer" hidden="false" targetId="b241-6ad8-94a2-cc48" primary="false"/>
+        <categoryLink id="fb12-eec7-9752-ae77" name="The Regia Marina" hidden="false" targetId="e21e-0bb6-f52f-c37d" primary="false"/>
+      </categoryLinks>
+      <selectionEntries>
+        <selectionEntry id="30f5-1ccc-eea4-6570" name="Dardo" hidden="false" collective="false" import="true" type="model">
+          <selectionEntryGroups>
+            <selectionEntryGroup id="cbe1-ebc5-c930-17ca" name="Refits" hidden="false" collective="false" import="true" defaultSelectionEntryId="92d7-3d19-735a-6ee6">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="26c7-8773-1af2-c131" type="min"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="f39d-cfdd-bf75-5053" type="max"/>
+              </constraints>
+              <selectionEntries>
+                <selectionEntry id="92d7-3d19-735a-6ee6" name="Dardo" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="554e-81e9-c40b-2a37" name="Dardo 1943" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="-5.0"/>
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="fbd0-cf11-a9f5-13cf" name="Freccia" hidden="false" collective="false" import="true" type="model">
+          <selectionEntryGroups>
+            <selectionEntryGroup id="6770-09e4-a076-f89b" name="Refits" hidden="false" collective="false" import="true" defaultSelectionEntryId="a98e-95e6-9424-4a35">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="ece7-7dfa-43fe-6482" type="min"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="c5d3-1d2d-b4df-7b17" type="max"/>
+              </constraints>
+              <selectionEntries>
+                <selectionEntry id="a98e-95e6-9424-4a35" name="Freccia" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="3d86-bea1-7a0c-5305" name="Freccia 1943" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="-5.0"/>
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="306e-aabd-4b29-2fb4" name="Saetta" hidden="false" collective="false" import="true" type="model">
+          <selectionEntryGroups>
+            <selectionEntryGroup id="eca8-5066-0cb9-b1c2" name="Refits" hidden="false" collective="false" import="true" defaultSelectionEntryId="ddbf-c1ab-75e1-f053">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="ab2f-ddcd-79b8-b529" type="min"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="b12f-9d68-03f0-f148" type="max"/>
+              </constraints>
+              <selectionEntries>
+                <selectionEntry id="ddbf-c1ab-75e1-f053" name="Saetta" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="ab12-50e4-9f57-d2cb" name="Saetta 1943" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="-5.0"/>
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="0517-25f2-55a1-ccda" name="Strale" hidden="false" collective="false" import="true" type="model">
+          <selectionEntryGroups>
+            <selectionEntryGroup id="0754-0a9a-4d94-312c" name="Refits" hidden="false" collective="false" import="true" defaultSelectionEntryId="1f48-6de8-2037-378c">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="dab5-1075-9758-16ce" type="min"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="a2ee-be65-a636-0f6b" type="max"/>
+              </constraints>
+              <selectionEntries>
+                <selectionEntry id="1f48-6de8-2037-378c" name="Strale" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="30.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="dd91-9ed8-e613-7846" name="Maestrale-Class Destroyer" hidden="false" collective="false" import="true" type="unit">
+      <categoryLinks>
+        <categoryLink id="495f-64b9-c7a7-05db" name="Destroyer" hidden="false" targetId="b241-6ad8-94a2-cc48" primary="false"/>
+        <categoryLink id="77ff-5bab-5f69-5b0d" name="The Regia Marina" hidden="false" targetId="e21e-0bb6-f52f-c37d" primary="false"/>
+      </categoryLinks>
+      <selectionEntries>
+        <selectionEntry id="4821-69be-8bdf-8c55" name="Grecale" hidden="false" collective="false" import="true" type="model">
+          <selectionEntryGroups>
+            <selectionEntryGroup id="27f9-06de-7be5-3496" name="Refits" hidden="false" collective="false" import="true" defaultSelectionEntryId="d375-cbe9-f085-c90e">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="751f-cd0c-530d-d5af" type="min"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="932e-207b-c7ce-3223" type="max"/>
+              </constraints>
+              <selectionEntries>
+                <selectionEntry id="d375-cbe9-f085-c90e" name="Grecale" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="2154-2811-1649-1ec1" name="Grecale 1942" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="f49a-5f3c-4543-cccb" name="Grecale 1943" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="-5.0"/>
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="be79-5062-6475-866c" name="Libeccio" hidden="false" collective="false" import="true" type="model">
+          <selectionEntryGroups>
+            <selectionEntryGroup id="23b3-7bca-c9f9-4867" name="Refits" hidden="false" collective="false" import="true" defaultSelectionEntryId="b489-aa59-6c62-2d5e">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="38db-be0f-a05c-e74c" type="min"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="48e8-b27e-9468-9c03" type="max"/>
+              </constraints>
+              <selectionEntries>
+                <selectionEntry id="b489-aa59-6c62-2d5e" name="Libeccio" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="4676-c8d8-9141-edc9" name="Maestrale" hidden="false" collective="false" import="true" type="model">
+          <selectionEntryGroups>
+            <selectionEntryGroup id="1802-1348-a316-1f33" name="Refits" hidden="false" collective="false" import="true" defaultSelectionEntryId="d577-cd74-5e32-7966">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="4e71-f60c-cb17-fc17" type="min"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="a689-bac8-329b-d4a7" type="max"/>
+              </constraints>
+              <selectionEntries>
+                <selectionEntry id="d577-cd74-5e32-7966" name="Maestrale" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="35f9-168f-e20b-caa8" name="Maestrale 1941" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="53cd-834d-2851-5532" name="Maestrale 1942" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="8f31-7adf-b67f-a980" name="Maestrale 1943" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="-5.0"/>
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="fb98-24f2-5a92-bb66" name="Scirocco" hidden="false" collective="false" import="true" type="model">
+          <selectionEntryGroups>
+            <selectionEntryGroup id="9183-3a73-f8a8-5d32" name="Refits" hidden="false" collective="false" import="true" defaultSelectionEntryId="0ffe-802f-8b72-333b">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="e839-9204-d323-820a" type="min"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="a2a7-ae2f-4f21-b1dc" type="max"/>
+              </constraints>
+              <selectionEntries>
+                <selectionEntry id="0ffe-802f-8b72-333b" name="Scirocco" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="ce23-175b-fce5-4033" name="Scirocco 1942" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="30.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="7449-c1a2-e5bf-6c19" name="Navigatori-Class Destroyer" hidden="false" collective="false" import="true" type="unit">
+      <categoryLinks>
+        <categoryLink id="3198-095f-6c65-44d1" name="Destroyer" hidden="false" targetId="b241-6ad8-94a2-cc48" primary="false"/>
+        <categoryLink id="c22f-19f2-dd91-1acd" name="The Regia Marina" hidden="false" targetId="e21e-0bb6-f52f-c37d" primary="false"/>
+      </categoryLinks>
+      <selectionEntries>
+        <selectionEntry id="cad0-de0f-fa1a-ed08" name="Alvise Da Mosto" hidden="false" collective="false" import="true" type="model">
+          <selectionEntryGroups>
+            <selectionEntryGroup id="a2d5-89f9-e302-a794" name="Refits" hidden="false" collective="false" import="true" defaultSelectionEntryId="ed77-bbb3-946d-18b0">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="3eb3-42f0-e910-a244" type="min"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="7994-0067-5beb-6c09" type="max"/>
+              </constraints>
+              <selectionEntries>
+                <selectionEntry id="ed77-bbb3-946d-18b0" name="Alvise Da Mosto" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="9a14-5e36-0b58-a75c" name="Alvise Da Mosto 1940a" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="5.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="0ba2-1ea9-9128-ac93" name="Alvise Da Mosto 1940b" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="ea79-0d3a-8a1a-6187" name="Antonio da Noli" hidden="false" collective="false" import="true" type="model">
+          <selectionEntryGroups>
+            <selectionEntryGroup id="95b1-a94d-2680-3367" name="Refits" hidden="false" collective="false" import="true" defaultSelectionEntryId="a8a3-2f55-c689-576b">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="5065-cdca-36cf-892d" type="min"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="1201-d04f-299a-a727" type="max"/>
+              </constraints>
+              <selectionEntries>
+                <selectionEntry id="a8a3-2f55-c689-576b" name="Antonio da Noli" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="a900-4f8f-e28a-24c3" name="Antionio da Noli 1940" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="340f-2100-c62c-d248" name="Antionio da Noli 1942" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="5.0"/>
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="2899-5354-1ec0-d7b3" name="Niccoloso da Recco" hidden="false" collective="false" import="true" type="model">
+          <selectionEntryGroups>
+            <selectionEntryGroup id="cc68-b52a-3e21-0e10" name="Refits" hidden="false" collective="false" import="true" defaultSelectionEntryId="727a-a41b-896b-ebf7">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="c479-87e8-08cb-75c4" type="min"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="e704-5189-5129-c76f" type="max"/>
+              </constraints>
+              <selectionEntries>
+                <selectionEntry id="727a-a41b-896b-ebf7" name="Niccoloso da Recco" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="faa7-8f31-e5d0-3ec7" name="Niccoloso da Recco 1942" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="-5.0"/>
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="b712-df2f-ef26-be80" name="Giovanni da Verrazzano" hidden="false" collective="false" import="true" type="model">
+          <selectionEntryGroups>
+            <selectionEntryGroup id="2b98-d896-8421-ce1f" name="Refits" hidden="false" collective="false" import="true" defaultSelectionEntryId="6cd5-e2a3-8dd5-7db4">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="9c85-ef69-b6b6-896f" type="min"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="aa53-c3de-5c8a-bd4d" type="max"/>
+              </constraints>
+              <selectionEntries>
+                <selectionEntry id="6cd5-e2a3-8dd5-7db4" name="Giovanni da Verrazzano" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="a262-e00b-601e-ea3b" name="Giovanni da Verrazzano 1940a" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="f049-2bdf-6d94-f573" name="Giovanni da Verrazzano 1940b" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="5.0"/>
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="7a87-1b41-5562-71b4" name="Emanuele Pessagno" hidden="false" collective="false" import="true" type="model">
+          <selectionEntryGroups>
+            <selectionEntryGroup id="1695-b57c-d9be-c541" name="Refits" hidden="false" collective="false" import="true" defaultSelectionEntryId="22e3-c51c-aa51-36ed">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="278f-f41d-82e3-526d" type="min"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="1368-f21d-054b-5c26" type="max"/>
+              </constraints>
+              <selectionEntries>
+                <selectionEntry id="22e3-c51c-aa51-36ed" name="Emanuele Pessagno" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="c924-3572-4516-3166" name="Emanuele Pessagno 1940a" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="3dc4-df9a-800d-f858" name="Emanuele Pessagno 1940b" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="5.0"/>
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="a604-507b-1d5a-74e0" name="Antonio Pigafetta" hidden="false" collective="false" import="true" type="model">
+          <selectionEntryGroups>
+            <selectionEntryGroup id="626b-4bb5-db77-dd18" name="Refits" hidden="false" collective="false" import="true" defaultSelectionEntryId="21b0-425d-6564-4c70">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="17c4-c7e8-b37e-e994" type="min"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="2971-b4c4-ae5d-c2dc" type="max"/>
+              </constraints>
+              <selectionEntries>
+                <selectionEntry id="21b0-425d-6564-4c70" name="Antonio Pigafetta" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="cecb-d461-a810-640c" name="Antonio Pigafetta 1940a" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="1cb8-c71c-a85a-8f4e" name="Antonio Pigafetta 1940b" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="5.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="2d88-abd1-5eef-5cb6" name="Antonio Pigafetta 1942" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="4258-25f6-ad27-8a3b" name="Lanzerotto Malcello" hidden="false" collective="false" import="true" type="model">
+          <selectionEntryGroups>
+            <selectionEntryGroup id="56d1-5fa5-aa7d-5131" name="Refits" hidden="false" collective="false" import="true" defaultSelectionEntryId="9dad-8553-550b-78ca">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="247b-6993-c9d0-2778" type="min"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="ade2-55d0-4f38-defc" type="max"/>
+              </constraints>
+              <selectionEntries>
+                <selectionEntry id="9dad-8553-550b-78ca" name="Lanzerotto Malcello" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="2ff9-4aa4-3cc5-ce9b" name="Lanzerotto Malcello 1940" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="1633-8871-727a-9700" name="Lanzerotto Malcello 1942" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="b471-6d6c-6642-536e" name="Leone Pancaldo" hidden="false" collective="false" import="true" type="model">
+          <selectionEntryGroups>
+            <selectionEntryGroup id="33eb-802c-4a2d-a6cf" name="Refits" hidden="false" collective="false" import="true" defaultSelectionEntryId="6f8e-ad43-630b-a1e1">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="7e8b-3987-abb9-04cc" type="min"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="2c03-db09-4902-e06d" type="max"/>
+              </constraints>
+              <selectionEntries>
+                <selectionEntry id="6f8e-ad43-630b-a1e1" name="Leone Pancaldo" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="f6ef-8f81-52d7-0182" name="Leone Pancaldo 1940" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="8552-b3ec-cdd7-a00f" name="Leone Pancaldo 1942" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="9828-80b7-42ba-2356" name="Luca Tarigo" hidden="false" collective="false" import="true" type="model">
+          <selectionEntryGroups>
+            <selectionEntryGroup id="1655-14b0-3124-f9d6" name="Refits" hidden="false" collective="false" import="true" defaultSelectionEntryId="f3f0-f1fc-b627-9eb2">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="84a0-9bef-b073-8966" type="min"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="69e4-fc5d-52e1-b285" type="max"/>
+              </constraints>
+              <selectionEntries>
+                <selectionEntry id="f3f0-f1fc-b627-9eb2" name="Luca Tarigo" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="e015-4423-d87d-0934" name="Luca Tarigo 1940a" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="91b0-9fd0-5bea-0275" name="Luca Tarigo 1940b" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="5.0"/>
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="da79-ebc6-6123-63cb" name="Ugolino Vivaldi" hidden="false" collective="false" import="true" type="model">
+          <selectionEntryGroups>
+            <selectionEntryGroup id="9582-b1e1-627a-371b" name="Refits" hidden="false" collective="false" import="true" defaultSelectionEntryId="225e-d9ec-556d-1f49">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="fbd8-d9fd-3d67-911d" type="min"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="c1af-4e1e-617f-40aa" type="max"/>
+              </constraints>
+              <selectionEntries>
+                <selectionEntry id="225e-d9ec-556d-1f49" name="Ugolino Vivaldi" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="297a-5898-9106-41e7" name="Ugolino Vivaldi 1940" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="b4fe-f8e8-25cd-29f6" name="Ugolino Vivaldi 1942" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="-5.0"/>
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="e970-771b-2118-f1f3" name="Antoniotto Usodimare" hidden="false" collective="false" import="true" type="model">
+          <selectionEntryGroups>
+            <selectionEntryGroup id="79fc-dbf7-baca-3223" name="Refits" hidden="false" collective="false" import="true" defaultSelectionEntryId="f8c4-23b6-77ff-0688">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="2d5d-d065-b5a1-962d" type="min"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="31e7-60c1-389b-4788" type="max"/>
+              </constraints>
+              <selectionEntries>
+                <selectionEntry id="f8c4-23b6-77ff-0688" name="Antoniotto Usodimare" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="27db-ddd0-3300-24af" name="Nicolo Zeno" hidden="false" collective="false" import="true" type="model">
+          <selectionEntryGroups>
+            <selectionEntryGroup id="79b8-c2f2-ec5f-ce45" name="Refits" hidden="false" collective="false" import="true" defaultSelectionEntryId="bbe6-4c0c-2805-97a0">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="088a-a0c2-1915-18a1" type="min"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="0499-7c30-27fb-845e" type="max"/>
+              </constraints>
+              <selectionEntries>
+                <selectionEntry id="bbe6-4c0c-2805-97a0" name="Nicolo Zeno" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="ae30-3b69-9a18-cab8" name="Nicolo Zeno 1940" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="4a13-f2e2-9877-7495" name="Nicolo Zeno 1942" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="5.0"/>
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="35.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="a690-16f9-2941-1c16" name="Oriani-Class Destroyer" hidden="false" collective="false" import="true" type="unit">
+      <categoryLinks>
+        <categoryLink id="d4d4-6c42-ef9c-a259" name="Destroyer" hidden="false" targetId="b241-6ad8-94a2-cc48" primary="false"/>
+        <categoryLink id="ad70-92bf-76bd-31b6" name="The Regia Marina" hidden="false" targetId="e21e-0bb6-f52f-c37d" primary="false"/>
+      </categoryLinks>
+      <selectionEntries>
+        <selectionEntry id="602c-29c2-17db-b0db" name="Alfredo Oriani" hidden="false" collective="false" import="true" type="model">
+          <selectionEntryGroups>
+            <selectionEntryGroup id="589c-5054-0a07-22ec" name="Refits" hidden="false" collective="false" import="true" defaultSelectionEntryId="eb1d-90c6-5657-2b69">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="8f78-5d10-7ee5-9169" type="min"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="e9ef-e7e3-6742-b053" type="max"/>
+              </constraints>
+              <selectionEntries>
+                <selectionEntry id="eb1d-90c6-5657-2b69" name="Alfredo Oriani" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="bcaa-6c7d-72ba-c4ff" name="Alfredo Oriani 1942" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="-5.0"/>
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="b136-17be-d19c-c80e" name="Giosue Carducci" hidden="false" collective="false" import="true" type="model">
+          <selectionEntryGroups>
+            <selectionEntryGroup id="1b42-b640-9ab7-155c" name="Refits" hidden="false" collective="false" import="true" defaultSelectionEntryId="988b-c200-a970-3709">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="7702-2e6d-3d17-39c0" type="min"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="19cb-9fc3-156e-5741" type="max"/>
+              </constraints>
+              <selectionEntries>
+                <selectionEntry id="988b-c200-a970-3709" name="Giosue Carducci" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="ec7a-b1c6-f7fc-f46c" name="Vincenzo Gioberti" hidden="false" collective="false" import="true" type="model">
+          <selectionEntryGroups>
+            <selectionEntryGroup id="ab97-d541-f6bb-5c66" name="Refits" hidden="false" collective="false" import="true" defaultSelectionEntryId="6eaa-104f-7efd-dd7a">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="e700-643e-c2d2-3ef6" type="min"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="f441-ab97-165e-92ab" type="max"/>
+              </constraints>
+              <selectionEntries>
+                <selectionEntry id="6eaa-104f-7efd-dd7a" name="Vincenzo Gioberti" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="8ad3-dab8-8de1-e9cd" name="Vincenzo Gioberti 1942" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="-5.0"/>
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="7bc1-23d9-a010-5243" name="Vittorio Alfieri" hidden="false" collective="false" import="true" type="model">
+          <selectionEntryGroups>
+            <selectionEntryGroup id="ca29-e344-26b1-8494" name="Refits" hidden="false" collective="false" import="true" defaultSelectionEntryId="b3ce-06ff-c5b3-b6fa">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="abcf-7d78-0520-0154" type="min"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="a056-0fa7-4eda-8611" type="max"/>
+              </constraints>
+              <selectionEntries>
+                <selectionEntry id="b3ce-06ff-c5b3-b6fa" name="Vittorio Alfieri" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="35.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="c05a-bb53-fe43-c3a7" name="Soldati-Class Destroyer" hidden="false" collective="false" import="true" type="unit">
+      <categoryLinks>
+        <categoryLink id="7c7f-7c3a-5939-7b11" name="Destroyer" hidden="false" targetId="b241-6ad8-94a2-cc48" primary="false"/>
+        <categoryLink id="c5f9-28b9-1460-643f" name="The Regia Marina" hidden="false" targetId="e21e-0bb6-f52f-c37d" primary="false"/>
+      </categoryLinks>
+      <selectionEntries>
+        <selectionEntry id="0b42-181e-81a8-1b65" name="Alpino" hidden="false" collective="false" import="true" type="model">
+          <selectionEntryGroups>
+            <selectionEntryGroup id="de39-d945-ebfb-e74b" name="Refits" hidden="false" collective="false" import="true" defaultSelectionEntryId="8938-75c1-0717-791d">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="6598-9d85-7b1a-0a81" type="min"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="d23e-c4bf-2f8e-eba9" type="max"/>
+              </constraints>
+              <selectionEntries>
+                <selectionEntry id="8938-75c1-0717-791d" name="Alpino" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="c2d1-4ce9-f862-c89e" name="Artigliere" hidden="false" collective="false" import="true" type="model">
+          <selectionEntryGroups>
+            <selectionEntryGroup id="0637-0248-3b81-65ff" name="Refits" hidden="false" collective="false" import="true" defaultSelectionEntryId="40f4-8e38-80bb-5445">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="1632-fc9f-12cc-caba" type="min"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="1686-9f9e-808d-759e" type="max"/>
+              </constraints>
+              <selectionEntries>
+                <selectionEntry id="40f4-8e38-80bb-5445" name="Artigliere" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="d4d1-65ad-25ef-1168" name="Ascari" hidden="false" collective="false" import="true" type="model">
+          <selectionEntryGroups>
+            <selectionEntryGroup id="c2e6-b79f-7d33-31f9" name="Refits" hidden="false" collective="false" import="true" defaultSelectionEntryId="3c84-e1c8-3c52-ae89">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="4153-5929-3073-2992" type="min"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="162c-d6d3-4a70-0b07" type="max"/>
+              </constraints>
+              <selectionEntries>
+                <selectionEntry id="3c84-e1c8-3c52-ae89" name="Ascari" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="1c1e-7dbf-c3c8-f1b6" name="Ascari 1942" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="00ab-416b-b40a-9974" name="Aviere" hidden="false" collective="false" import="true" type="model">
+          <selectionEntryGroups>
+            <selectionEntryGroup id="c891-08a1-0389-c009" name="Refits" hidden="false" collective="false" import="true" defaultSelectionEntryId="a42c-7c29-3b0d-acd1">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="ecc0-787d-2691-2557" type="min"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="6991-de71-6c6b-1a42" type="max"/>
+              </constraints>
+              <selectionEntries>
+                <selectionEntry id="a42c-7c29-3b0d-acd1" name="Aviere" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="eebd-b6f1-0d54-a737" name="Bersagliere" hidden="false" collective="false" import="true" type="upgrade">
+          <selectionEntryGroups>
+            <selectionEntryGroup id="a041-e329-9b8b-7a7e" name="Refits" hidden="false" collective="false" import="true" defaultSelectionEntryId="8ecb-fb1c-8646-04c8">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="00c7-4664-a57d-4cc1" type="min"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="518e-3651-3349-bc70" type="max"/>
+              </constraints>
+              <selectionEntries>
+                <selectionEntry id="8ecb-fb1c-8646-04c8" name="Bersagliere" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="d85c-e214-488c-b55c" name="Camicia Nera" hidden="false" collective="false" import="true" type="model">
+          <selectionEntryGroups>
+            <selectionEntryGroup id="b47e-0d45-2f39-2da6" name="Refits" hidden="false" collective="false" import="true" defaultSelectionEntryId="49a4-849d-bc31-7661">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="2cf9-5eaa-4d2b-385b" type="min"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="816a-fdb2-c80d-0eed" type="max"/>
+              </constraints>
+              <selectionEntries>
+                <selectionEntry id="49a4-849d-bc31-7661" name="Camicia Nera" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="36b0-c48e-8bba-a9cf" name="Camicia Nera 1942" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="8935-2bc9-fe45-26d1" name="Carabiniere" hidden="false" collective="false" import="true" type="model">
+          <selectionEntryGroups>
+            <selectionEntryGroup id="060d-5d29-ced3-d2a1" name="Refits" hidden="false" collective="false" import="true" defaultSelectionEntryId="bca8-484a-e6bd-7d16">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="f6e1-2338-19c6-1eca" type="min"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="3a21-1056-8ac6-ff4b" type="max"/>
+              </constraints>
+              <selectionEntries>
+                <selectionEntry id="bca8-484a-e6bd-7d16" name="Carabiniere" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="f523-db08-3ebd-2c99" name="Carabiniere 1943" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="-5.0"/>
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="3758-0423-9a14-aace" name="Corazziere" hidden="false" collective="false" import="true" type="model">
+          <selectionEntryGroups>
+            <selectionEntryGroup id="608d-9321-8638-baba" name="Refits" hidden="false" collective="false" import="true" defaultSelectionEntryId="256f-e3ea-1ea6-9f1d">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="782c-be4b-bebb-932d" type="min"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="3d6c-f8a4-fc96-2761" type="max"/>
+              </constraints>
+              <selectionEntries>
+                <selectionEntry id="256f-e3ea-1ea6-9f1d" name="Corazziere" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="bcb7-fb2d-b0c7-3370" name="Fuciliere" hidden="false" collective="false" import="true" type="model">
+          <selectionEntryGroups>
+            <selectionEntryGroup id="995e-6c55-8eb2-4f95" name="Refits" hidden="false" collective="false" import="true" defaultSelectionEntryId="ccda-849c-4613-0714">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="3298-daa2-5c7d-aad9" type="min"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="1cff-5419-b3e6-87c0" type="max"/>
+              </constraints>
+              <selectionEntries>
+                <selectionEntry id="ccda-849c-4613-0714" name="Fuciliere" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="a99f-9835-bb05-cf43" name="Fuciliere 1943" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="dda1-56f8-633f-dedb" name="Geniere" hidden="false" collective="false" import="true" type="model">
+          <selectionEntryGroups>
+            <selectionEntryGroup id="f4c0-9827-7a49-1910" name="Refits" hidden="false" collective="false" import="true" defaultSelectionEntryId="c847-27f4-85d5-9b71">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="b70f-37d1-49cc-6084" type="min"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="e192-6b63-176e-616e" type="max"/>
+              </constraints>
+              <selectionEntries>
+                <selectionEntry id="c847-27f4-85d5-9b71" name="Geniere" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="374c-8bbd-8335-4b0c" name="Geniere 1942" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="55e0-2c25-4847-a4b1" name="Granatiere" hidden="false" collective="false" import="true" type="model">
+          <selectionEntryGroups>
+            <selectionEntryGroup id="f2f9-56c4-8133-6eb7" name="Refits" hidden="false" collective="false" import="true" defaultSelectionEntryId="e2dd-91de-8f38-d437">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="a92a-ce8d-e97d-9574" type="min"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="2bb8-2a81-4c72-64a3" type="max"/>
+              </constraints>
+              <selectionEntries>
+                <selectionEntry id="e2dd-91de-8f38-d437" name="Granatiere" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="a5ad-3e52-b0b4-e426" name="Granatiere 1943" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="-5.0"/>
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="d70c-8ffa-4052-93c4" name="Lanciere" hidden="false" collective="false" import="true" type="model">
+          <selectionEntryGroups>
+            <selectionEntryGroup id="bd1d-fccf-df5f-3532" name="Refits" hidden="false" collective="false" import="true" defaultSelectionEntryId="6a6a-01c7-7448-c62a">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="796e-2643-d3cf-f56f" type="min"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="4865-8fe7-5e56-951d" type="max"/>
+              </constraints>
+              <selectionEntries>
+                <selectionEntry id="6a6a-01c7-7448-c62a" name="Lanciere" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="6cd4-84ae-2e55-1e63" name="Lanciere 1942" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="266d-15f9-e3cb-605f" name="Bombardiere" hidden="false" collective="false" import="true" type="model">
+          <selectionEntryGroups>
+            <selectionEntryGroup id="2795-e88d-ad93-396f" name="Refits" hidden="false" collective="false" import="true" defaultSelectionEntryId="61a1-6699-068a-2d95">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="3269-08b1-479c-d69e" type="min"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="7934-05bf-cab5-9ab5" type="max"/>
+              </constraints>
+              <selectionEntries>
+                <selectionEntry id="61a1-6699-068a-2d95" name="Bombardiere" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="b75f-f156-d354-588f" name="Corsaro" hidden="false" collective="false" import="true" type="model">
+          <selectionEntryGroups>
+            <selectionEntryGroup id="fa0f-8345-2fb5-15ed" name="Refits" hidden="false" collective="false" import="true" defaultSelectionEntryId="5d9a-5cb7-2c6b-b2f6">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="85f7-7137-88b7-b1a8" type="min"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="0e03-4097-f2ff-48e0" type="max"/>
+              </constraints>
+              <selectionEntries>
+                <selectionEntry id="5d9a-5cb7-2c6b-b2f6" name="Corsaro" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="dada-1940-ef7e-64ca" name="Legionario" hidden="false" collective="false" import="true" type="model">
+          <selectionEntryGroups>
+            <selectionEntryGroup id="5325-7edb-e5e3-0a87" name="Refits" hidden="false" collective="false" import="true" defaultSelectionEntryId="99a7-e8b9-b62d-ba3d">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="5ddd-b262-7faa-e8ef" type="min"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="08ec-2d60-394d-fa9c" type="max"/>
+              </constraints>
+              <selectionEntries>
+                <selectionEntry id="99a7-e8b9-b62d-ba3d" name="Legionario" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="4f99-3bfe-4741-8edd" name="Legionario 1943" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="37b7-c5ce-7177-6cd3" name="Mitragliere" hidden="false" collective="false" import="true" type="model">
+          <selectionEntryGroups>
+            <selectionEntryGroup id="01f6-afa3-33fb-eba0" name="Refits" hidden="false" collective="false" import="true" defaultSelectionEntryId="f922-00c1-0e9c-e06a">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="4aeb-0a0a-c788-6879" type="min"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="1417-9986-643f-cd8a" type="max"/>
+              </constraints>
+              <selectionEntries>
+                <selectionEntry id="f922-00c1-0e9c-e06a" name="Mitragliere" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="a398-ce57-3522-160d" name="Velite" hidden="false" collective="false" import="true" type="model">
+          <selectionEntryGroups>
+            <selectionEntryGroup id="bb42-237e-f296-8113" name="Refits" hidden="false" collective="false" import="true" defaultSelectionEntryId="e745-ac42-1d6b-e9cb">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="13fa-c1f1-7349-8f7e" type="min"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="b44c-aa25-5a65-a8a5" type="max"/>
+              </constraints>
+              <selectionEntries>
+                <selectionEntry id="e745-ac42-1d6b-e9cb" name="Velite" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="5952-85c5-5bc2-f9a1" name="Velite 1943" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="35.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="f26d-ab07-b802-d5a9" name="Marcello-Class Submarine" hidden="false" collective="false" import="true" type="unit">
+      <categoryLinks>
+        <categoryLink id="9e04-8a27-5f7f-71ba" name="Submarine" hidden="false" targetId="3c73-d3d0-7c07-b8e5" primary="false"/>
+        <categoryLink id="1b62-41b8-fb9d-831d" name="The Regia Marina" hidden="false" targetId="e21e-0bb6-f52f-c37d" primary="false"/>
+      </categoryLinks>
+      <selectionEntries>
+        <selectionEntry id="dd0b-2c6c-29f7-f139" name="Barbarigo" hidden="false" collective="false" import="true" type="model">
+          <selectionEntryGroups>
+            <selectionEntryGroup id="11fd-4898-cb53-8a95" name="Refits" hidden="false" collective="false" import="true" defaultSelectionEntryId="dc0d-3458-6153-09fc">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="300b-2b85-924e-bb5d" type="min"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="36ae-7890-e9e4-ee75" type="max"/>
+              </constraints>
+              <selectionEntries>
+                <selectionEntry id="dc0d-3458-6153-09fc" name="Barbarigo" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="d0ed-7c28-0cf3-b3f3" name="Comandante Alfredo Cappellini" hidden="false" collective="false" import="true" type="model">
+          <selectionEntryGroups>
+            <selectionEntryGroup id="3fc6-1311-2348-86b8" name="Refits" hidden="false" collective="false" import="true" defaultSelectionEntryId="16ea-7ba9-2dc8-b619">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="dd55-6d6d-294c-6560" type="min"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="1ea1-0086-94be-a80a" type="max"/>
+              </constraints>
+              <selectionEntries>
+                <selectionEntry id="16ea-7ba9-2dc8-b619" name="Comandante Alfredo Cappellini" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="d872-91d4-2615-d254" name="Comandante Faa di Bruno" hidden="false" collective="false" import="true" type="model">
+          <selectionEntryGroups>
+            <selectionEntryGroup id="02ef-43cd-c1bd-b96c" name="Refits" hidden="false" collective="false" import="true" defaultSelectionEntryId="23ad-3ff5-8950-00aa">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="12fe-524d-3155-4053" type="min"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="7c0e-12ca-735b-43ee" type="max"/>
+              </constraints>
+              <selectionEntries>
+                <selectionEntry id="23ad-3ff5-8950-00aa" name="Comandante Faa di Bruno" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="56d4-3d49-4171-bd07" name="Dandolo" hidden="false" collective="false" import="true" type="model">
+          <selectionEntryGroups>
+            <selectionEntryGroup id="38f2-5b40-3c1d-a851" name="Refits" hidden="false" collective="false" import="true" defaultSelectionEntryId="d7d8-83b7-817a-8fb6">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="3eab-f472-9365-dcb2" type="min"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="dc59-3ac1-be72-b415" type="max"/>
+              </constraints>
+              <selectionEntries>
+                <selectionEntry id="d7d8-83b7-817a-8fb6" name="Dandolo" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="e746-1bf8-387c-f591" name="Emo" hidden="false" collective="false" import="true" type="model">
+          <selectionEntryGroups>
+            <selectionEntryGroup id="8833-afce-c68c-82e0" name="Refits" hidden="false" collective="false" import="true" defaultSelectionEntryId="73f8-4f24-dfac-8d1f">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="6dc3-3a7c-581a-d22c" type="min"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="0592-0357-d3fa-a3ed" type="max"/>
+              </constraints>
+              <selectionEntries>
+                <selectionEntry id="73f8-4f24-dfac-8d1f" name="Emo" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="ee26-31d5-4756-3d40" name="Marcello" hidden="false" collective="false" import="true" type="model">
+          <selectionEntryGroups>
+            <selectionEntryGroup id="7c29-f8f2-23dd-4f7f" name="Refits" hidden="false" collective="false" import="true" defaultSelectionEntryId="5c24-fc56-b24d-3312">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="3c3c-5df7-7111-2f8d" type="min"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="1c49-79df-ce15-23d3" type="max"/>
+              </constraints>
+              <selectionEntries>
+                <selectionEntry id="5c24-fc56-b24d-3312" name="Marcello" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="d391-a1ce-847a-a4b8" name="Mocenigo" hidden="false" collective="false" import="true" type="model">
+          <selectionEntryGroups>
+            <selectionEntryGroup id="082d-4029-3778-f808" name="Refits" hidden="false" collective="false" import="true" defaultSelectionEntryId="f9f5-45b6-1190-0e1e">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="499c-fa47-8ba8-b087" type="min"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="d404-7b8d-fc5f-7466" type="max"/>
+              </constraints>
+              <selectionEntries>
+                <selectionEntry id="f9f5-45b6-1190-0e1e" name="Mocenigo" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="7dd8-a172-15dd-ab25" name="Morosini" hidden="false" collective="false" import="true" type="model">
+          <selectionEntryGroups>
+            <selectionEntryGroup id="102a-2d5c-9424-9129" name="Refits" hidden="false" collective="false" import="true" defaultSelectionEntryId="e36e-b885-b1e4-356c">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="b10b-2335-f464-bf92" type="min"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="e1be-8927-c1bd-f685" type="max"/>
+              </constraints>
+              <selectionEntries>
+                <selectionEntry id="e36e-b885-b1e4-356c" name="Morosini" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="048f-051e-4459-63bb" name="Nani" hidden="false" collective="false" import="true" type="model">
+          <selectionEntryGroups>
+            <selectionEntryGroup id="5b2f-3c22-84e8-d4d0" name="Refits" hidden="false" collective="false" import="true" defaultSelectionEntryId="c520-a7f2-d152-5431">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="7999-0819-2436-2e91" type="min"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="390b-ac7d-21e8-c733" type="max"/>
+              </constraints>
+              <selectionEntries>
+                <selectionEntry id="c520-a7f2-d152-5431" name="Nani" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="976f-8b62-2b1e-28f9" name="Provana" hidden="false" collective="false" import="true" type="model">
+          <selectionEntryGroups>
+            <selectionEntryGroup id="16a0-2766-6ed5-d170" name="Refits" hidden="false" collective="false" import="true" defaultSelectionEntryId="e245-3bd8-5809-0870">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="6c7d-4c1d-ce69-7950" type="min"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="d424-f24e-ae80-e031" type="max"/>
+              </constraints>
+              <selectionEntries>
+                <selectionEntry id="e245-3bd8-5809-0870" name="Provana" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="f5d1-4cf3-6594-f7e9" name="Veniero" hidden="false" collective="false" import="true" type="model">
+          <selectionEntryGroups>
+            <selectionEntryGroup id="4596-5411-d033-c26e" name="Refits" hidden="false" collective="false" import="true" defaultSelectionEntryId="51df-b7a1-6083-9ad8">
+              <constraints>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="9fd1-f39f-07d1-51be" type="min"/>
+                <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="8127-b36a-b0dd-7b27" type="max"/>
+              </constraints>
+              <selectionEntries>
+                <selectionEntry id="51df-b7a1-6083-9ad8" name="Veniero" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+                  </costs>
+                </selectionEntry>
+              </selectionEntries>
+            </selectionEntryGroup>
+          </selectionEntryGroups>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="30.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="381a-3ca2-6390-7ac7" name="Breda Ba.201 - Dive-Bomber" hidden="false" collective="false" import="true" type="model">
+      <categoryLinks>
+        <categoryLink id="ca55-6ffd-f530-460c" name="Aircraft Flight" hidden="false" targetId="c08d-d9af-1109-9c27" primary="false"/>
+        <categoryLink id="884f-4bf9-2e03-060f" name="The Regia Marina" hidden="false" targetId="e21e-0bb6-f52f-c37d" primary="false"/>
+      </categoryLinks>
+      <costs>
+        <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="15.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="190a-0ab8-087f-7c83" name="Fiat G.50 Freccia - Fighter" hidden="false" collective="false" import="true" type="model">
+      <categoryLinks>
+        <categoryLink id="eeea-1977-b231-e018" name="New CategoryLink" hidden="false" targetId="c08d-d9af-1109-9c27" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="10.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="8fcc-5731-29fb-59d0" name="Fiat G.50 Freccia - Bomber" hidden="false" collective="false" import="true" type="model">
+      <categoryLinks>
+        <categoryLink id="dd2a-7716-ab0e-0c1e" name="Aircraft Flight" hidden="false" targetId="c08d-d9af-1109-9c27" primary="false"/>
+      </categoryLinks>
+      <costs>
+        <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="10.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="3131-49e3-79a4-e67f" name="Junkers Ju 87 Picchiatello - Dive-Bomber" hidden="false" collective="false" import="true" type="model">
+      <categoryLinks>
+        <categoryLink id="668b-b368-63e6-bc1a" name="Aircraft Flight" hidden="false" targetId="c08d-d9af-1109-9c27" primary="false"/>
+        <categoryLink id="6a5e-5387-68d9-eb62" name="The Regia Marina" hidden="false" targetId="e21e-0bb6-f52f-c37d" primary="false"/>
+      </categoryLinks>
+      <costs>
+        <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="15.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="b27f-4e3d-7b4b-6207" name="Macchi C.202 Folgore - Fighter" hidden="false" collective="false" import="true" type="model">
+      <categoryLinks>
+        <categoryLink id="2eb6-faea-2390-391d" name="Aircraft Flight" hidden="false" targetId="c08d-d9af-1109-9c27" primary="false"/>
+        <categoryLink id="d64b-9a59-1777-ab60" name="The Regia Marina" hidden="false" targetId="e21e-0bb6-f52f-c37d" primary="false"/>
+      </categoryLinks>
+      <costs>
+        <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="15.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="9142-921f-f017-604e" name="Macchi C.202 Folgore - Bomber" hidden="false" collective="false" import="true" type="model">
+      <categoryLinks>
+        <categoryLink id="7b2c-e11f-be37-878b" name="Aircraft Flight" hidden="false" targetId="c08d-d9af-1109-9c27" primary="false"/>
+        <categoryLink id="3da7-fcfd-fd23-dcbc" name="The Regia Marina" hidden="false" targetId="e21e-0bb6-f52f-c37d" primary="false"/>
+      </categoryLinks>
+      <costs>
+        <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="15.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="4fa9-c3ac-ee73-0abd" name="Reggiane Re.2000 Falco I - Fighter" hidden="false" collective="false" import="true" type="model">
+      <categoryLinks>
+        <categoryLink id="92de-d18c-4c7b-2d53" name="Aircraft Flight" hidden="false" targetId="c08d-d9af-1109-9c27" primary="false"/>
+        <categoryLink id="0a93-b4e8-f316-5854" name="The Regia Marina" hidden="false" targetId="e21e-0bb6-f52f-c37d" primary="false"/>
+      </categoryLinks>
+      <costs>
+        <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="15.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="15af-ace4-1b7e-1f17" name="Reggiane Re.2001 Falco II - Fighter" hidden="false" collective="false" import="true" type="model">
+      <categoryLinks>
+        <categoryLink id="60da-f09c-150d-0177" name="Aircraft Flight" hidden="false" targetId="c08d-d9af-1109-9c27" primary="false"/>
+        <categoryLink id="f2d7-0796-1a59-761a" name="The Regia Marina" hidden="false" targetId="e21e-0bb6-f52f-c37d" primary="false"/>
+      </categoryLinks>
+      <costs>
+        <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="20.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="6ca2-cfe0-ef86-3ea3" name="Reggiane Re.2001 Falco II - Bomber" hidden="false" collective="false" import="true" type="model">
+      <categoryLinks>
+        <categoryLink id="f5dc-cbd5-1cbf-6b40" name="Aircraft Flight" hidden="false" targetId="c08d-d9af-1109-9c27" primary="false"/>
+        <categoryLink id="d4c1-6e1e-6fac-2fe1" name="The Regia Marina" hidden="false" targetId="e21e-0bb6-f52f-c37d" primary="false"/>
+      </categoryLinks>
+      <costs>
+        <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="20.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="564c-7a93-30a3-a528" name="Savoia Marchetti SM.79 Sparviero - Bomber" hidden="false" collective="false" import="true" type="model">
+      <categoryLinks>
+        <categoryLink id="e8f0-3dcb-3745-d110" name="Aircraft Flight" hidden="false" targetId="c08d-d9af-1109-9c27" primary="false"/>
+        <categoryLink id="4d71-7024-07c6-dbf3" name="The Regia Marina" hidden="false" targetId="e21e-0bb6-f52f-c37d" primary="false"/>
+      </categoryLinks>
+      <costs>
+        <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="20.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="b533-39d0-74b6-6ab9" name="Savoia Marchetti SM.79 Sparviero - Torpedo-Bomber" hidden="false" collective="false" import="true" type="model">
+      <categoryLinks>
+        <categoryLink id="a6e8-ba28-b6f0-2946" name="Aircraft Flight" hidden="false" targetId="c08d-d9af-1109-9c27" primary="false"/>
+        <categoryLink id="c4a3-1223-0540-bb73" name="The Regia Marina" hidden="false" targetId="e21e-0bb6-f52f-c37d" primary="false"/>
+      </categoryLinks>
+      <costs>
+        <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="20.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="0b67-1c5c-72b1-edf9" name="MAS Boat" hidden="false" collective="false" import="true" type="model">
+      <categoryLinks>
+        <categoryLink id="55e5-328f-fc42-0936" name="Motor Torpedo Boat" hidden="false" targetId="cf88-2062-68e4-b49a" primary="false"/>
+        <categoryLink id="ced8-96e2-f30b-7b25" name="The Regia Marina" hidden="false" targetId="e21e-0bb6-f52f-c37d" primary="false"/>
+      </categoryLinks>
+      <costs>
+        <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="20.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="26c0-4b0c-75aa-b7ec" name="MS Boat Type 1" hidden="false" collective="false" import="true" type="model">
+      <categoryLinks>
+        <categoryLink id="0015-a5a6-5cfd-4bcd" name="Motor Torpedo Boat" hidden="false" targetId="cf88-2062-68e4-b49a" primary="false"/>
+        <categoryLink id="7dbe-c55b-20a3-8b64" name="The Regia Marina" hidden="false" targetId="e21e-0bb6-f52f-c37d" primary="false"/>
+      </categoryLinks>
+      <costs>
+        <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="20.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="1c25-9ffa-0c7d-a737" name="MS Boat Type 2" hidden="false" collective="false" import="true" type="model">
+      <categoryLinks>
+        <categoryLink id="2984-d89e-231c-cf95" name="Motor Torpedo Boat" hidden="false" targetId="cf88-2062-68e4-b49a" primary="false"/>
+        <categoryLink id="df24-f52a-79bd-3597" name="The Regia Marina" hidden="false" targetId="e21e-0bb6-f52f-c37d" primary="false"/>
+      </categoryLinks>
+      <costs>
+        <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="20.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="d498-80c1-94c3-b3ba" name="MT Boat" hidden="false" collective="false" import="true" type="model">
+      <categoryLinks>
+        <categoryLink id="31cd-d74c-e3c0-5ad6" name="Motor Torpedo Boat" hidden="false" targetId="cf88-2062-68e4-b49a" primary="false"/>
+        <categoryLink id="77ff-d6d1-1fc0-c2bf" name="The Regia Marina" hidden="false" targetId="e21e-0bb6-f52f-c37d" primary="false"/>
+      </categoryLinks>
+      <costs>
+        <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="20.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="81ef-98d5-3877-8eb2" name="VAS Boat" hidden="false" collective="false" import="true" type="model">
+      <categoryLinks>
+        <categoryLink id="0aa8-de21-c6d2-2438" name="Motor Torpedo Boat" hidden="false" targetId="cf88-2062-68e4-b49a" primary="false"/>
+        <categoryLink id="5cee-6d93-8227-3769" name="The Regia Marina" hidden="false" targetId="e21e-0bb6-f52f-c37d" primary="false"/>
+      </categoryLinks>
+      <costs>
+        <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="20.0"/>
+      </costs>
+    </selectionEntry>
+  </sharedSelectionEntries>
+  <sharedSelectionEntryGroups>
+    <selectionEntryGroup id="c217-42fb-f5b2-2cc5" name="Carrier Flights" hidden="false" collective="false" import="true">
+      <selectionEntries>
+        <selectionEntry id="5df4-ee3b-5e40-0325" name="Reggiane Re.2000 Falco II - Fighter" hidden="false" collective="false" import="true" type="model">
+          <categoryLinks>
+            <categoryLink id="bf63-93dd-e47e-c866" name="Aircraft Flight" hidden="false" targetId="c08d-d9af-1109-9c27" primary="false"/>
+          </categoryLinks>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="a264-d848-1cbc-b193" name="Reggiane Re.2000 Falco II - Bomber" hidden="false" collective="false" import="true" type="model">
+          <categoryLinks>
+            <categoryLink id="fa41-714d-631d-2d72" name="Aircraft Flight" hidden="false" targetId="c08d-d9af-1109-9c27" primary="false"/>
+          </categoryLinks>
+          <costs>
+            <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="0.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+    </selectionEntryGroup>
+  </sharedSelectionEntryGroups>
+</catalogue>
