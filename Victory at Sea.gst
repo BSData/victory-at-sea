@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<gameSystem id="d551-9646-dd17-819a" name="Victory at Sea" revision="1" battleScribeVersion="2.03" authorName="" authorContact="" authorUrl="" xmlns="http://www.battlescribe.net/schema/gameSystemSchema">
+<gameSystem id="d551-9646-dd17-819a" name="Victory at Sea" revision="2" battleScribeVersion="2.03" authorName="" authorContact="" authorUrl="" xmlns="http://www.battlescribe.net/schema/gameSystemSchema">
   <costTypes>
     <costType id="ffdf-62d1-dc97-b85c" name="Points" defaultCostLimit="-1.0" hidden="false"/>
   </costTypes>
@@ -75,13 +75,57 @@
     <forceEntry id="9707-b4d0-2007-bbf6" name="Fleet" hidden="false">
       <categoryLinks>
         <categoryLink id="6fb2-5e78-1015-e1fb" name="Aircraft Carrier" hidden="false" targetId="da58-44be-bb7f-80d6" primary="false"/>
-        <categoryLink id="acc5-2e6d-c450-85f0" name="Aircraft Flight" hidden="false" targetId="c08d-d9af-1109-9c27" primary="false"/>
+        <categoryLink id="acc5-2e6d-c450-85f0" name="Aircraft Flight" hidden="false" targetId="c08d-d9af-1109-9c27" primary="false">
+          <constraints>
+            <constraint field="ffdf-62d1-dc97-b85c" scope="roster" value="25.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="8f20-c249-521b-9b81" type="max"/>
+          </constraints>
+        </categoryLink>
         <categoryLink id="774d-c64d-cc60-8055" name="Battleship" hidden="false" targetId="5153-aef8-326b-3c5f" primary="false"/>
         <categoryLink id="9e32-11d8-b894-654b" name="Cruiser" hidden="false" targetId="f46e-c2a8-5a64-daf9" primary="false"/>
         <categoryLink id="af42-cc1c-8240-7080" name="Destroyer" hidden="false" targetId="b241-6ad8-94a2-cc48" primary="false"/>
         <categoryLink id="5c5c-7031-8552-c399" name="Civilian" hidden="false" targetId="be79-ea08-0c7b-609c" primary="false"/>
-        <categoryLink id="56d4-3a9b-89a9-5f76" name="Motor Torpedo Boat" hidden="false" targetId="cf88-2062-68e4-b49a" primary="false"/>
-        <categoryLink id="5717-ceee-dad0-cac8" name="Submarine" hidden="false" targetId="3c73-d3d0-7c07-b8e5" primary="false"/>
+      </categoryLinks>
+    </forceEntry>
+    <forceEntry id="e2ea-c2ec-d5a8-935a" name="Coastal Fleet" hidden="false">
+      <categoryLinks>
+        <categoryLink id="c67e-ef22-7f4f-8154" name="Aircraft Carrier" hidden="false" targetId="da58-44be-bb7f-80d6" primary="false">
+          <modifiers>
+            <modifier type="set" field="e335-1285-9d29-3e78" value="0.0">
+              <conditions>
+                <condition field="selections" scope="e2ea-c2ec-d5a8-935a" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" childId="5153-aef8-326b-3c5f" type="equalTo"/>
+              </conditions>
+            </modifier>
+          </modifiers>
+          <constraints>
+            <constraint field="selections" scope="force" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="e335-1285-9d29-3e78" type="max"/>
+          </constraints>
+        </categoryLink>
+        <categoryLink id="5805-4033-1d03-055f" name="Battleship" hidden="false" targetId="5153-aef8-326b-3c5f" primary="false">
+          <modifiers>
+            <modifier type="set" field="a136-19d5-e4a1-723b" value="0.0">
+              <conditions>
+                <condition field="selections" scope="e2ea-c2ec-d5a8-935a" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" childId="da58-44be-bb7f-80d6" type="equalTo"/>
+              </conditions>
+            </modifier>
+          </modifiers>
+          <constraints>
+            <constraint field="selections" scope="force" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="a136-19d5-e4a1-723b" type="max"/>
+          </constraints>
+        </categoryLink>
+        <categoryLink id="e92f-2e02-4c18-d459" name="Cruiser" hidden="false" targetId="f46e-c2a8-5a64-daf9" primary="false"/>
+        <categoryLink id="dfe8-ba81-dba1-46e4" name="Destroyer" hidden="false" targetId="b241-6ad8-94a2-cc48" primary="false"/>
+        <categoryLink id="eb73-d06e-800c-ee52" name="Motor Torpedo Boat" hidden="false" targetId="cf88-2062-68e4-b49a" primary="false"/>
+        <categoryLink id="306a-fbf6-1963-e82b" name="Aircraft Flight" hidden="false" targetId="c08d-d9af-1109-9c27" primary="false">
+          <constraints>
+            <constraint field="ffdf-62d1-dc97-b85c" scope="roster" value="25.0" percentValue="true" shared="true" includeChildSelections="false" includeChildForces="false" id="aecb-1c8f-7924-f903" type="max"/>
+          </constraints>
+        </categoryLink>
+        <categoryLink id="5fd1-7263-858b-ec2e" name="Civilian" hidden="false" targetId="be79-ea08-0c7b-609c" primary="false"/>
+      </categoryLinks>
+    </forceEntry>
+    <forceEntry id="a81a-be20-0aa5-2513" name="Submarine Fleet" hidden="false">
+      <categoryLinks>
+        <categoryLink id="42fe-f08c-9d1a-295f" name="Submarine" hidden="false" targetId="3c73-d3d0-7c07-b8e5" primary="false"/>
       </categoryLinks>
     </forceEntry>
   </forceEntries>
