@@ -567,7 +567,7 @@
               </profiles>
               <rules>
                 <rule id="c96c-98a0-33fb-18c9" name="Radar" hidden="false">
-                  <description>Ships committed to scouting with the Radar Trait gain +1 to their dice roll and can reroll their dice.</description>
+                  <description>Ships committed to scouting with the Radar Trait gain +1 to their dice roll and can re-roll their dice.</description>
                 </rule>
               </rules>
               <infoLinks>
@@ -668,7 +668,7 @@
               </profiles>
               <rules>
                 <rule id="e938-5501-ec3e-38b6" name="Advanced Radar" hidden="false">
-                  <description>Ships committed to scouting with the Advanced Radar Trait gain +2 to their dice roll and can reroll their dice.</description>
+                  <description>Ships committed to scouting with the Advanced Radar Trait gain +2 to their dice roll and can re-roll their dice.</description>
                 </rule>
               </rules>
               <infoLinks>
@@ -769,7 +769,7 @@
               </profiles>
               <rules>
                 <rule id="d273-241f-6979-6e49" name="Advanced Radar" hidden="false">
-                  <description>Ships committed to scouting with the Advanced Radar Trait gain +2 to their dice roll and can reroll their dice.</description>
+                  <description>Ships committed to scouting with the Advanced Radar Trait gain +2 to their dice roll and can re-roll their dice.</description>
                 </rule>
               </rules>
               <infoLinks>
@@ -974,7 +974,7 @@
               </profiles>
               <rules>
                 <rule id="703d-9f8d-6402-5742" name="Radar" hidden="false">
-                  <description>Ships committed to scouting with the Radar Trait gain +1 to their dice roll and can reroll their dice.</description>
+                  <description>Ships committed to scouting with the Radar Trait gain +1 to their dice roll and can re-roll their dice.</description>
                 </rule>
               </rules>
               <infoLinks>
@@ -1075,7 +1075,7 @@
               </profiles>
               <rules>
                 <rule id="96a1-33ae-5ac0-80d8" name="Advanced Radar" hidden="false">
-                  <description>Ships committed to scouting with the Advanced Radar Trait gain +2 to their dice roll and can reroll their dice.</description>
+                  <description>Ships committed to scouting with the Advanced Radar Trait gain +2 to their dice roll and can re-roll their dice.</description>
                 </rule>
               </rules>
               <infoLinks>
@@ -1176,7 +1176,7 @@
               </profiles>
               <rules>
                 <rule id="9d9f-b57f-9461-c005" name="Advanced Radar" hidden="false">
-                  <description>Ships committed to scouting with the Advanced Radar Trait gain +2 to their dice roll and can reroll their dice.</description>
+                  <description>Ships committed to scouting with the Advanced Radar Trait gain +2 to their dice roll and can re-roll their dice.</description>
                 </rule>
               </rules>
               <infoLinks>
@@ -1751,7 +1751,7 @@
                   </profiles>
                   <rules>
                     <rule id="7f81-5ab1-59c7-96fa" name="Advanced Radar" hidden="false">
-                      <description>Ships committed to scouting with the Advanced Radar Trait gain +2 to their dice roll and can reroll their dice.</description>
+                      <description>Ships committed to scouting with the Advanced Radar Trait gain +2 to their dice roll and can re-roll their dice.</description>
                     </rule>
                     <rule id="6ac4-6efc-9b34-d25c" name="Aircraft X" hidden="false">
                       <description>Shipo carries X number of Observation Flights that may be used for scouting and guiding Beyond the Horizon Attacks.</description>
@@ -1894,7 +1894,7 @@
                   </profiles>
                   <rules>
                     <rule id="d65f-065d-a6e3-d516" name="Advanced Radar" hidden="false">
-                      <description>Ships committed to scouting with the Advanced Radar Trait gain +2 to their dice roll and can reroll their dice.</description>
+                      <description>Ships committed to scouting with the Advanced Radar Trait gain +2 to their dice roll and can re-roll their dice.</description>
                     </rule>
                   </rules>
                   <costs>
@@ -2039,7 +2039,7 @@
                       <description>Weak weapons cannot cause critical hits except against ships of the civilian type.</description>
                     </rule>
                     <rule id="64df-8ce1-ccfa-a9b3" name="Advanced Radar" hidden="false">
-                      <description>Ships committed to scouting with the Advanced Radar Trait gain +2 to their dice roll and can reroll their dice.</description>
+                      <description>Ships committed to scouting with the Advanced Radar Trait gain +2 to their dice roll and can re-roll their dice.</description>
                     </rule>
                   </rules>
                   <costs>
@@ -2502,7 +2502,7 @@
                       <description>Weak weapons cannot cause critical hits except against ships of the civilian type.</description>
                     </rule>
                     <rule id="5942-bc7c-21e5-067c" name="Advanced Radar" hidden="false">
-                      <description>Ships committed to scouting with the Advanced Radar Trait gain +2 to their dice roll and can reroll their dice.</description>
+                      <description>Ships committed to scouting with the Advanced Radar Trait gain +2 to their dice roll and can re-roll their dice.</description>
                     </rule>
                   </rules>
                   <costs>
@@ -2631,7 +2631,7 @@
                       <description>Weak weapons cannot cause critical hits except against ships of the civilian type.</description>
                     </rule>
                     <rule id="75a3-1728-3ab6-820e" name="Advanced Radar" hidden="false">
-                      <description>Ships committed to scouting with the Advanced Radar Trait gain +2 to their dice roll and can reroll their dice.</description>
+                      <description>Ships committed to scouting with the Advanced Radar Trait gain +2 to their dice roll and can re-roll their dice.</description>
                     </rule>
                   </rules>
                   <costs>
@@ -2728,7 +2728,7 @@
                       <description>Light Guns (5 x 5-inch) - Only one Attack Dice may be fired into the front and aft arcs.</description>
                     </rule>
                     <rule id="3bee-eb65-d08c-16b1" name="Radar" hidden="false">
-                      <description>Ships committed to scouting with the Radar Trait gain +1 to their dice roll and can reroll their dice.</description>
+                      <description>Ships committed to scouting with the Radar Trait gain +1 to their dice roll and can re-roll their dice.</description>
                     </rule>
                     <rule id="198d-94fd-1a2d-f3a4" name="Depth-Charges" hidden="false">
                       <description>Goes Sploosh!</description>
@@ -2737,7 +2737,7 @@
                       <description>Instead of causing one point of damage with each successful Damage Dice roll, a Devastating weapon will cause an amount of damage equal to what each Damage Dice actually rolls, regardless of whether it exceeds the target&apos;s Armor score or not. In addition, a Critical Hit is scored for every Damage Dice that rolls a 5 or 6 (before any modification by Torpedo Belts). Any critical hits scored will have a Critical Score equal to the doll of one dice (if the location already has a Critical Score that is higher than the dice roll, the new Critical Hit is ignored).</description>
                     </rule>
                     <rule id="d589-44d5-9413-b7f1" name="One-Shot" hidden="false">
-                      <description>Ammunition or payload is limited for this weapoin, so once fired it may not be used again for the rest of the battle.</description>
+                      <description>Ammunition or payload is limited for this weapon, so once fired it may not be used again for the rest of the battle.</description>
                     </rule>
                     <rule id="212c-d28b-0808-7f18" name="Weak" hidden="false">
                       <description>Weak weapons cannot cause critical hits except against ships of the civilian type.</description>
@@ -2812,7 +2812,7 @@
                   </profiles>
                   <rules>
                     <rule id="7db1-a4ce-80ce-993f" name="Radar" hidden="false">
-                      <description>Ships committed to scouting with the Radar Trait gain +1 to their dice roll and can reroll their dice.</description>
+                      <description>Ships committed to scouting with the Radar Trait gain +1 to their dice roll and can re-roll their dice.</description>
                     </rule>
                     <rule id="6069-ebc7-5520-8b09" name="Depth-Charges" hidden="false">
                       <description>Goes Sploosh!</description>
@@ -2821,7 +2821,7 @@
                       <description>Instead of causing one point of damage with each successful Damage Dice roll, a Devastating weapon will cause an amount of damage equal to what each Damage Dice actually rolls, regardless of whether it exceeds the target&apos;s Armor score or not. In addition, a Critical Hit is scored for every Damage Dice that rolls a 5 or 6 (before any modification by Torpedo Belts). Any critical hits scored will have a Critical Score equal to the doll of one dice (if the location already has a Critical Score that is higher than the dice roll, the new Critical Hit is ignored).</description>
                     </rule>
                     <rule id="3dad-1664-d63c-b845" name="One-Shot" hidden="false">
-                      <description>Ammunition or payload is limited for this weapoin, so once fired it may not be used again for the rest of the battle.</description>
+                      <description>Ammunition or payload is limited for this weapon, so once fired it may not be used again for the rest of the battle.</description>
                     </rule>
                     <rule id="2932-6e2d-643d-74a1" name="Weak" hidden="false">
                       <description>Weak weapons cannot cause critical hits except against ships of the civilian type.</description>
@@ -2905,7 +2905,7 @@
                       <description>Instead of causing one point of damage with each successful Damage Dice roll, a Devastating weapon will cause an amount of damage equal to what each Damage Dice actually rolls, regardless of whether it exceeds the target&apos;s Armor score or not. In addition, a Critical Hit is scored for every Damage Dice that rolls a 5 or 6 (before any modification by Torpedo Belts). Any critical hits scored will have a Critical Score equal to the doll of one dice (if the location already has a Critical Score that is higher than the dice roll, the new Critical Hit is ignored).</description>
                     </rule>
                     <rule id="b600-bb59-4bd5-b4cb" name="One-Shot" hidden="false">
-                      <description>Ammunition or payload is limited for this weapoin, so once fired it may not be used again for the rest of the battle.</description>
+                      <description>Ammunition or payload is limited for this weapon, so once fired it may not be used again for the rest of the battle.</description>
                     </rule>
                     <rule id="7304-1bdd-da98-377f" name="Weak" hidden="false">
                       <description>Weak weapons cannot cause critical hits except against ships of the civilian type.</description>
@@ -2917,7 +2917,7 @@
                       <description>Up to half of a DP weapon&apos;s current Attack Dice (rounding up, minimum of 1) may instead be used as AA weapons to attack aircraft or motor torpedo boats at up to half the weapon&apos;s normal range. However this weapon may not be used in the same turn to attack other units.</description>
                     </rule>
                     <rule id="6a9c-15ef-ebd1-9aa2" name="Advanced Radar" hidden="false">
-                      <description>Ships committed to scouting with the Advanced Radar Trait gain +2 to their dice roll and can reroll their dice.</description>
+                      <description>Ships committed to scouting with the Advanced Radar Trait gain +2 to their dice roll and can re-roll their dice.</description>
                     </rule>
                     <rule id="c4eb-115b-2a8f-a486" name="Fletcher-Class Light Guns (5 x 5-inch)" hidden="false">
                       <description>Light Guns (5 x 5-inch) - Only one Attack Dice may be fired into the front and aft arcs.</description>
@@ -2992,7 +2992,7 @@
                       <description>Instead of causing one point of damage with each successful Damage Dice roll, a Devastating weapon will cause an amount of damage equal to what each Damage Dice actually rolls, regardless of whether it exceeds the target&apos;s Armor score or not. In addition, a Critical Hit is scored for every Damage Dice that rolls a 5 or 6 (before any modification by Torpedo Belts). Any critical hits scored will have a Critical Score equal to the doll of one dice (if the location already has a Critical Score that is higher than the dice roll, the new Critical Hit is ignored).</description>
                     </rule>
                     <rule id="906f-ea90-02b7-e232" name="One-Shot" hidden="false">
-                      <description>Ammunition or payload is limited for this weapoin, so once fired it may not be used again for the rest of the battle.</description>
+                      <description>Ammunition or payload is limited for this weapon, so once fired it may not be used again for the rest of the battle.</description>
                     </rule>
                     <rule id="4233-7d59-1f47-0f4d" name="Weak" hidden="false">
                       <description>Weak weapons cannot cause critical hits except against ships of the civilian type.</description>
@@ -3004,7 +3004,7 @@
                       <description>Up to half of a DP weapon&apos;s current Attack Dice (rounding up, minimum of 1) may instead be used as AA weapons to attack aircraft or motor torpedo boats at up to half the weapon&apos;s normal range. However this weapon may not be used in the same turn to attack other units.</description>
                     </rule>
                     <rule id="901f-5e82-d336-dd9d" name="Advanced Radar" hidden="false">
-                      <description>Ships committed to scouting with the Advanced Radar Trait gain +2 to their dice roll and can reroll their dice.</description>
+                      <description>Ships committed to scouting with the Advanced Radar Trait gain +2 to their dice roll and can re-roll their dice.</description>
                     </rule>
                     <rule id="b4ac-0e10-7589-8777" name="Fletcher-Class Light Guns (5 x 5-inch)" hidden="false">
                       <description>Light Guns (5 x 5-inch) - Only one Attack Dice may be fired into the front and aft arcs.</description>
@@ -3089,7 +3089,7 @@
                   </profiles>
                   <rules>
                     <rule id="909d-be14-6d16-cdb9" name="Radar" hidden="false">
-                      <description>Ships committed to scouting with the Radar Trait gain +1 to their dice roll and can reroll their dice.</description>
+                      <description>Ships committed to scouting with the Radar Trait gain +1 to their dice roll and can re-roll their dice.</description>
                     </rule>
                     <rule id="8dd2-72d7-4c9c-f743" name="Depth-Charges" hidden="false">
                       <description>Goes Sploosh!</description>
@@ -3098,7 +3098,7 @@
                       <description>Instead of causing one point of damage with each successful Damage Dice roll, a Devastating weapon will cause an amount of damage equal to what each Damage Dice actually rolls, regardless of whether it exceeds the target&apos;s Armor score or not. In addition, a Critical Hit is scored for every Damage Dice that rolls a 5 or 6 (before any modification by Torpedo Belts). Any critical hits scored will have a Critical Score equal to the doll of one dice (if the location already has a Critical Score that is higher than the dice roll, the new Critical Hit is ignored).</description>
                     </rule>
                     <rule id="9215-6402-a812-cb11" name="One-Shot" hidden="false">
-                      <description>Ammunition or payload is limited for this weapoin, so once fired it may not be used again for the rest of the battle.</description>
+                      <description>Ammunition or payload is limited for this weapon, so once fired it may not be used again for the rest of the battle.</description>
                     </rule>
                     <rule id="419b-aa9e-a038-2608" name="Weak" hidden="false">
                       <description>Weak weapons cannot cause critical hits except against ships of the civilian type.</description>
@@ -3176,7 +3176,7 @@
                   </profiles>
                   <rules>
                     <rule id="7324-731e-32f1-0e5f" name="Radar" hidden="false">
-                      <description>Ships committed to scouting with the Radar Trait gain +1 to their dice roll and can reroll their dice.</description>
+                      <description>Ships committed to scouting with the Radar Trait gain +1 to their dice roll and can re-roll their dice.</description>
                     </rule>
                     <rule id="a5ed-91b3-72e9-992d" name="Depth-Charges" hidden="false">
                       <description>Goes Sploosh!</description>
@@ -3185,7 +3185,7 @@
                       <description>Instead of causing one point of damage with each successful Damage Dice roll, a Devastating weapon will cause an amount of damage equal to what each Damage Dice actually rolls, regardless of whether it exceeds the target&apos;s Armor score or not. In addition, a Critical Hit is scored for every Damage Dice that rolls a 5 or 6 (before any modification by Torpedo Belts). Any critical hits scored will have a Critical Score equal to the doll of one dice (if the location already has a Critical Score that is higher than the dice roll, the new Critical Hit is ignored).</description>
                     </rule>
                     <rule id="af8c-9986-ca50-32f1" name="One-Shot" hidden="false">
-                      <description>Ammunition or payload is limited for this weapoin, so once fired it may not be used again for the rest of the battle.</description>
+                      <description>Ammunition or payload is limited for this weapon, so once fired it may not be used again for the rest of the battle.</description>
                     </rule>
                     <rule id="65cc-d36d-7e8a-4406" name="Weak" hidden="false">
                       <description>Weak weapons cannot cause critical hits except against ships of the civilian type.</description>
@@ -3269,7 +3269,7 @@
                       <description>Instead of causing one point of damage with each successful Damage Dice roll, a Devastating weapon will cause an amount of damage equal to what each Damage Dice actually rolls, regardless of whether it exceeds the target&apos;s Armor score or not. In addition, a Critical Hit is scored for every Damage Dice that rolls a 5 or 6 (before any modification by Torpedo Belts). Any critical hits scored will have a Critical Score equal to the doll of one dice (if the location already has a Critical Score that is higher than the dice roll, the new Critical Hit is ignored).</description>
                     </rule>
                     <rule id="7e10-d739-d3b4-5666" name="One-Shot" hidden="false">
-                      <description>Ammunition or payload is limited for this weapoin, so once fired it may not be used again for the rest of the battle.</description>
+                      <description>Ammunition or payload is limited for this weapon, so once fired it may not be used again for the rest of the battle.</description>
                     </rule>
                     <rule id="f4f7-9470-b5f4-8db5" name="Weak" hidden="false">
                       <description>Weak weapons cannot cause critical hits except against ships of the civilian type.</description>
@@ -3281,7 +3281,7 @@
                       <description>Up to half of a DP weapon&apos;s current Attack Dice (rounding up, minimum of 1) may instead be used as AA weapons to attack aircraft or motor torpedo boats at up to half the weapon&apos;s normal range. However this weapon may not be used in the same turn to attack other units.</description>
                     </rule>
                     <rule id="4002-8726-f28b-54a8" name="Advanced Radar" hidden="false">
-                      <description>Ships committed to scouting with the Advanced Radar Trait gain +2 to their dice roll and can reroll their dice.</description>
+                      <description>Ships committed to scouting with the Advanced Radar Trait gain +2 to their dice roll and can re-roll their dice.</description>
                     </rule>
                     <rule id="0293-758e-9823-8f94" name="Fletcher-Class Light Guns (5 x 5-inch)" hidden="false">
                       <description>Light Guns (5 x 5-inch) - Only one Attack Dice may be fired into the front and aft arcs.</description>
@@ -3356,7 +3356,7 @@
                       <description>Instead of causing one point of damage with each successful Damage Dice roll, a Devastating weapon will cause an amount of damage equal to what each Damage Dice actually rolls, regardless of whether it exceeds the target&apos;s Armor score or not. In addition, a Critical Hit is scored for every Damage Dice that rolls a 5 or 6 (before any modification by Torpedo Belts). Any critical hits scored will have a Critical Score equal to the doll of one dice (if the location already has a Critical Score that is higher than the dice roll, the new Critical Hit is ignored).</description>
                     </rule>
                     <rule id="8135-4f6b-4cad-417e" name="One-Shot" hidden="false">
-                      <description>Ammunition or payload is limited for this weapoin, so once fired it may not be used again for the rest of the battle.</description>
+                      <description>Ammunition or payload is limited for this weapon, so once fired it may not be used again for the rest of the battle.</description>
                     </rule>
                     <rule id="a771-c302-dc0b-2e24" name="Weak" hidden="false">
                       <description>Weak weapons cannot cause critical hits except against ships of the civilian type.</description>
@@ -3368,7 +3368,7 @@
                       <description>Up to half of a DP weapon&apos;s current Attack Dice (rounding up, minimum of 1) may instead be used as AA weapons to attack aircraft or motor torpedo boats at up to half the weapon&apos;s normal range. However this weapon may not be used in the same turn to attack other units.</description>
                     </rule>
                     <rule id="12b3-03f4-37cf-c4ae" name="Advanced Radar" hidden="false">
-                      <description>Ships committed to scouting with the Advanced Radar Trait gain +2 to their dice roll and can reroll their dice.</description>
+                      <description>Ships committed to scouting with the Advanced Radar Trait gain +2 to their dice roll and can re-roll their dice.</description>
                     </rule>
                     <rule id="fb84-3355-de97-293d" name="Fletcher-Class Light Guns (5 x 5-inch)" hidden="false">
                       <description>Light Guns (5 x 5-inch) - Only one Attack Dice may be fired into the front and aft arcs.</description>
@@ -3453,7 +3453,7 @@
                   </profiles>
                   <rules>
                     <rule id="3b23-560d-a11b-f844" name="Radar" hidden="false">
-                      <description>Ships committed to scouting with the Radar Trait gain +1 to their dice roll and can reroll their dice.</description>
+                      <description>Ships committed to scouting with the Radar Trait gain +1 to their dice roll and can re-roll their dice.</description>
                     </rule>
                     <rule id="4bef-f969-1182-e09a" name="Depth-Charges" hidden="false">
                       <description>Goes Sploosh!</description>
@@ -3462,7 +3462,7 @@
                       <description>Instead of causing one point of damage with each successful Damage Dice roll, a Devastating weapon will cause an amount of damage equal to what each Damage Dice actually rolls, regardless of whether it exceeds the target&apos;s Armor score or not. In addition, a Critical Hit is scored for every Damage Dice that rolls a 5 or 6 (before any modification by Torpedo Belts). Any critical hits scored will have a Critical Score equal to the doll of one dice (if the location already has a Critical Score that is higher than the dice roll, the new Critical Hit is ignored).</description>
                     </rule>
                     <rule id="43cc-eada-fcb2-565f" name="One-Shot" hidden="false">
-                      <description>Ammunition or payload is limited for this weapoin, so once fired it may not be used again for the rest of the battle.</description>
+                      <description>Ammunition or payload is limited for this weapon, so once fired it may not be used again for the rest of the battle.</description>
                     </rule>
                     <rule id="6347-89fe-0547-765d" name="Weak" hidden="false">
                       <description>Weak weapons cannot cause critical hits except against ships of the civilian type.</description>
@@ -3540,7 +3540,7 @@
                   </profiles>
                   <rules>
                     <rule id="d927-8337-6a25-ca9c" name="Radar" hidden="false">
-                      <description>Ships committed to scouting with the Radar Trait gain +1 to their dice roll and can reroll their dice.</description>
+                      <description>Ships committed to scouting with the Radar Trait gain +1 to their dice roll and can re-roll their dice.</description>
                     </rule>
                     <rule id="9559-11ce-404f-baa0" name="Depth-Charges" hidden="false">
                       <description>Goes Sploosh!</description>
@@ -3549,7 +3549,7 @@
                       <description>Instead of causing one point of damage with each successful Damage Dice roll, a Devastating weapon will cause an amount of damage equal to what each Damage Dice actually rolls, regardless of whether it exceeds the target&apos;s Armor score or not. In addition, a Critical Hit is scored for every Damage Dice that rolls a 5 or 6 (before any modification by Torpedo Belts). Any critical hits scored will have a Critical Score equal to the doll of one dice (if the location already has a Critical Score that is higher than the dice roll, the new Critical Hit is ignored).</description>
                     </rule>
                     <rule id="0dc4-5db1-aef1-08fa" name="One-Shot" hidden="false">
-                      <description>Ammunition or payload is limited for this weapoin, so once fired it may not be used again for the rest of the battle.</description>
+                      <description>Ammunition or payload is limited for this weapon, so once fired it may not be used again for the rest of the battle.</description>
                     </rule>
                     <rule id="4e5d-0039-6eee-1cff" name="Weak" hidden="false">
                       <description>Weak weapons cannot cause critical hits except against ships of the civilian type.</description>
@@ -3633,7 +3633,7 @@
                       <description>Instead of causing one point of damage with each successful Damage Dice roll, a Devastating weapon will cause an amount of damage equal to what each Damage Dice actually rolls, regardless of whether it exceeds the target&apos;s Armor score or not. In addition, a Critical Hit is scored for every Damage Dice that rolls a 5 or 6 (before any modification by Torpedo Belts). Any critical hits scored will have a Critical Score equal to the doll of one dice (if the location already has a Critical Score that is higher than the dice roll, the new Critical Hit is ignored).</description>
                     </rule>
                     <rule id="7ed8-a8aa-6197-73ca" name="One-Shot" hidden="false">
-                      <description>Ammunition or payload is limited for this weapoin, so once fired it may not be used again for the rest of the battle.</description>
+                      <description>Ammunition or payload is limited for this weapon, so once fired it may not be used again for the rest of the battle.</description>
                     </rule>
                     <rule id="902c-e1f7-a508-27c2" name="Weak" hidden="false">
                       <description>Weak weapons cannot cause critical hits except against ships of the civilian type.</description>
@@ -3645,7 +3645,7 @@
                       <description>Up to half of a DP weapon&apos;s current Attack Dice (rounding up, minimum of 1) may instead be used as AA weapons to attack aircraft or motor torpedo boats at up to half the weapon&apos;s normal range. However this weapon may not be used in the same turn to attack other units.</description>
                     </rule>
                     <rule id="db0a-99a7-661e-a6d0" name="Advanced Radar" hidden="false">
-                      <description>Ships committed to scouting with the Advanced Radar Trait gain +2 to their dice roll and can reroll their dice.</description>
+                      <description>Ships committed to scouting with the Advanced Radar Trait gain +2 to their dice roll and can re-roll their dice.</description>
                     </rule>
                     <rule id="548a-3abb-3cfd-29ba" name="Fletcher-Class Light Guns (5 x 5-inch)" hidden="false">
                       <description>Light Guns (5 x 5-inch) - Only one Attack Dice may be fired into the front and aft arcs.</description>
@@ -3720,7 +3720,7 @@
                       <description>Instead of causing one point of damage with each successful Damage Dice roll, a Devastating weapon will cause an amount of damage equal to what each Damage Dice actually rolls, regardless of whether it exceeds the target&apos;s Armor score or not. In addition, a Critical Hit is scored for every Damage Dice that rolls a 5 or 6 (before any modification by Torpedo Belts). Any critical hits scored will have a Critical Score equal to the doll of one dice (if the location already has a Critical Score that is higher than the dice roll, the new Critical Hit is ignored).</description>
                     </rule>
                     <rule id="172f-c438-5dfe-258e" name="One-Shot" hidden="false">
-                      <description>Ammunition or payload is limited for this weapoin, so once fired it may not be used again for the rest of the battle.</description>
+                      <description>Ammunition or payload is limited for this weapon, so once fired it may not be used again for the rest of the battle.</description>
                     </rule>
                     <rule id="2b0d-f27f-45d7-f439" name="Weak" hidden="false">
                       <description>Weak weapons cannot cause critical hits except against ships of the civilian type.</description>
@@ -3732,7 +3732,7 @@
                       <description>Up to half of a DP weapon&apos;s current Attack Dice (rounding up, minimum of 1) may instead be used as AA weapons to attack aircraft or motor torpedo boats at up to half the weapon&apos;s normal range. However this weapon may not be used in the same turn to attack other units.</description>
                     </rule>
                     <rule id="9b5d-4921-09f2-7f57" name="Advanced Radar" hidden="false">
-                      <description>Ships committed to scouting with the Advanced Radar Trait gain +2 to their dice roll and can reroll their dice.</description>
+                      <description>Ships committed to scouting with the Advanced Radar Trait gain +2 to their dice roll and can re-roll their dice.</description>
                     </rule>
                     <rule id="9ccd-2202-1a4f-ac4b" name="Fletcher-Class Light Guns (5 x 5-inch)" hidden="false">
                       <description>Light Guns (5 x 5-inch) - Only one Attack Dice may be fired into the front and aft arcs.</description>
@@ -3817,7 +3817,7 @@
                   </profiles>
                   <rules>
                     <rule id="47e2-e2bd-7288-1e60" name="Radar" hidden="false">
-                      <description>Ships committed to scouting with the Radar Trait gain +1 to their dice roll and can reroll their dice.</description>
+                      <description>Ships committed to scouting with the Radar Trait gain +1 to their dice roll and can re-roll their dice.</description>
                     </rule>
                     <rule id="e59a-757c-d6fa-3dbc" name="Depth-Charges" hidden="false">
                       <description>Goes Sploosh!</description>
@@ -3826,7 +3826,7 @@
                       <description>Instead of causing one point of damage with each successful Damage Dice roll, a Devastating weapon will cause an amount of damage equal to what each Damage Dice actually rolls, regardless of whether it exceeds the target&apos;s Armor score or not. In addition, a Critical Hit is scored for every Damage Dice that rolls a 5 or 6 (before any modification by Torpedo Belts). Any critical hits scored will have a Critical Score equal to the doll of one dice (if the location already has a Critical Score that is higher than the dice roll, the new Critical Hit is ignored).</description>
                     </rule>
                     <rule id="a49e-a1c0-ad02-dfe0" name="One-Shot" hidden="false">
-                      <description>Ammunition or payload is limited for this weapoin, so once fired it may not be used again for the rest of the battle.</description>
+                      <description>Ammunition or payload is limited for this weapon, so once fired it may not be used again for the rest of the battle.</description>
                     </rule>
                     <rule id="7f3c-227a-8bc8-0d15" name="Weak" hidden="false">
                       <description>Weak weapons cannot cause critical hits except against ships of the civilian type.</description>
@@ -3904,7 +3904,7 @@
                   </profiles>
                   <rules>
                     <rule id="9995-69cb-ca4f-e41c" name="Radar" hidden="false">
-                      <description>Ships committed to scouting with the Radar Trait gain +1 to their dice roll and can reroll their dice.</description>
+                      <description>Ships committed to scouting with the Radar Trait gain +1 to their dice roll and can re-roll their dice.</description>
                     </rule>
                     <rule id="27cc-75c9-1277-8d7e" name="Depth-Charges" hidden="false">
                       <description>Goes Sploosh!</description>
@@ -3913,7 +3913,7 @@
                       <description>Instead of causing one point of damage with each successful Damage Dice roll, a Devastating weapon will cause an amount of damage equal to what each Damage Dice actually rolls, regardless of whether it exceeds the target&apos;s Armor score or not. In addition, a Critical Hit is scored for every Damage Dice that rolls a 5 or 6 (before any modification by Torpedo Belts). Any critical hits scored will have a Critical Score equal to the doll of one dice (if the location already has a Critical Score that is higher than the dice roll, the new Critical Hit is ignored).</description>
                     </rule>
                     <rule id="ee16-66dc-1a42-1d7f" name="One-Shot" hidden="false">
-                      <description>Ammunition or payload is limited for this weapoin, so once fired it may not be used again for the rest of the battle.</description>
+                      <description>Ammunition or payload is limited for this weapon, so once fired it may not be used again for the rest of the battle.</description>
                     </rule>
                     <rule id="dbc9-a938-2907-e860" name="Weak" hidden="false">
                       <description>Weak weapons cannot cause critical hits except against ships of the civilian type.</description>
@@ -4000,7 +4000,7 @@
                       <description>Instead of causing one point of damage with each successful Damage Dice roll, a Devastating weapon will cause an amount of damage equal to what each Damage Dice actually rolls, regardless of whether it exceeds the target&apos;s Armor score or not. In addition, a Critical Hit is scored for every Damage Dice that rolls a 5 or 6 (before any modification by Torpedo Belts). Any critical hits scored will have a Critical Score equal to the doll of one dice (if the location already has a Critical Score that is higher than the dice roll, the new Critical Hit is ignored).</description>
                     </rule>
                     <rule id="d17a-a212-40e3-d983" name="One-Shot" hidden="false">
-                      <description>Ammunition or payload is limited for this weapoin, so once fired it may not be used again for the rest of the battle.</description>
+                      <description>Ammunition or payload is limited for this weapon, so once fired it may not be used again for the rest of the battle.</description>
                     </rule>
                     <rule id="36b0-804a-f45d-7ead" name="Weak" hidden="false">
                       <description>Weak weapons cannot cause critical hits except against ships of the civilian type.</description>
@@ -4015,7 +4015,7 @@
                       <description>Shipo carries X number of Observation Flights that may be used for scouting and guiding Beyond the Horizon Attacks.</description>
                     </rule>
                     <rule id="efb1-266e-6e25-710b" name="Advanced Radar" hidden="false">
-                      <description>Ships committed to scouting with the Advanced Radar Trait gain +2 to their dice roll and can reroll their dice.</description>
+                      <description>Ships committed to scouting with the Advanced Radar Trait gain +2 to their dice roll and can re-roll their dice.</description>
                     </rule>
                     <rule id="e4ba-d8d4-04c3-8e8e" name="Fletcher-Class Light Guns (4 x 5-inch)" hidden="false">
                       <description>Light Guns (4 x 5-inch) - Only one Attack Dice may be fired into the front and aft arcs.</description>
@@ -4090,7 +4090,7 @@
                       <description>Instead of causing one point of damage with each successful Damage Dice roll, a Devastating weapon will cause an amount of damage equal to what each Damage Dice actually rolls, regardless of whether it exceeds the target&apos;s Armor score or not. In addition, a Critical Hit is scored for every Damage Dice that rolls a 5 or 6 (before any modification by Torpedo Belts). Any critical hits scored will have a Critical Score equal to the doll of one dice (if the location already has a Critical Score that is higher than the dice roll, the new Critical Hit is ignored).</description>
                     </rule>
                     <rule id="1b3e-01bb-0fdf-24d6" name="One-Shot" hidden="false">
-                      <description>Ammunition or payload is limited for this weapoin, so once fired it may not be used again for the rest of the battle.</description>
+                      <description>Ammunition or payload is limited for this weapon, so once fired it may not be used again for the rest of the battle.</description>
                     </rule>
                     <rule id="3650-4591-b692-939a" name="Weak" hidden="false">
                       <description>Weak weapons cannot cause critical hits except against ships of the civilian type.</description>
@@ -4105,7 +4105,7 @@
                       <description>Shipo carries X number of Observation Flights that may be used for scouting and guiding Beyond the Horizon Attacks.</description>
                     </rule>
                     <rule id="0cf1-ee05-1af4-8a0d" name="Advanced Radar" hidden="false">
-                      <description>Ships committed to scouting with the Advanced Radar Trait gain +2 to their dice roll and can reroll their dice.</description>
+                      <description>Ships committed to scouting with the Advanced Radar Trait gain +2 to their dice roll and can re-roll their dice.</description>
                     </rule>
                     <rule id="3f72-12ca-b062-c478" name="Fletcher-Class Light Guns (4 x 5-inch)" hidden="false">
                       <description>Light Guns (4 x 5-inch) - Only one Attack Dice may be fired into the front and aft arcs.</description>
@@ -4190,7 +4190,7 @@
                   </profiles>
                   <rules>
                     <rule id="66f8-262d-552d-b0f8" name="Radar" hidden="false">
-                      <description>Ships committed to scouting with the Radar Trait gain +1 to their dice roll and can reroll their dice.</description>
+                      <description>Ships committed to scouting with the Radar Trait gain +1 to their dice roll and can re-roll their dice.</description>
                     </rule>
                     <rule id="9711-57a2-1649-f52f" name="Depth-Charges" hidden="false">
                       <description>Goes Sploosh!</description>
@@ -4199,7 +4199,7 @@
                       <description>Instead of causing one point of damage with each successful Damage Dice roll, a Devastating weapon will cause an amount of damage equal to what each Damage Dice actually rolls, regardless of whether it exceeds the target&apos;s Armor score or not. In addition, a Critical Hit is scored for every Damage Dice that rolls a 5 or 6 (before any modification by Torpedo Belts). Any critical hits scored will have a Critical Score equal to the doll of one dice (if the location already has a Critical Score that is higher than the dice roll, the new Critical Hit is ignored).</description>
                     </rule>
                     <rule id="0867-194f-a36b-879f" name="One-Shot" hidden="false">
-                      <description>Ammunition or payload is limited for this weapoin, so once fired it may not be used again for the rest of the battle.</description>
+                      <description>Ammunition or payload is limited for this weapon, so once fired it may not be used again for the rest of the battle.</description>
                     </rule>
                     <rule id="6c14-58ac-0042-0337" name="Weak" hidden="false">
                       <description>Weak weapons cannot cause critical hits except against ships of the civilian type.</description>
@@ -4277,7 +4277,7 @@
                   </profiles>
                   <rules>
                     <rule id="4102-bdcb-ea9a-c881" name="Radar" hidden="false">
-                      <description>Ships committed to scouting with the Radar Trait gain +1 to their dice roll and can reroll their dice.</description>
+                      <description>Ships committed to scouting with the Radar Trait gain +1 to their dice roll and can re-roll their dice.</description>
                     </rule>
                     <rule id="f1b0-34d8-cbd2-3196" name="Depth-Charges" hidden="false">
                       <description>Goes Sploosh!</description>
@@ -4286,7 +4286,7 @@
                       <description>Instead of causing one point of damage with each successful Damage Dice roll, a Devastating weapon will cause an amount of damage equal to what each Damage Dice actually rolls, regardless of whether it exceeds the target&apos;s Armor score or not. In addition, a Critical Hit is scored for every Damage Dice that rolls a 5 or 6 (before any modification by Torpedo Belts). Any critical hits scored will have a Critical Score equal to the doll of one dice (if the location already has a Critical Score that is higher than the dice roll, the new Critical Hit is ignored).</description>
                     </rule>
                     <rule id="26d8-8c2c-1063-543a" name="One-Shot" hidden="false">
-                      <description>Ammunition or payload is limited for this weapoin, so once fired it may not be used again for the rest of the battle.</description>
+                      <description>Ammunition or payload is limited for this weapon, so once fired it may not be used again for the rest of the battle.</description>
                     </rule>
                     <rule id="e699-1a28-14eb-439c" name="Weak" hidden="false">
                       <description>Weak weapons cannot cause critical hits except against ships of the civilian type.</description>
@@ -4373,7 +4373,7 @@
                       <description>Instead of causing one point of damage with each successful Damage Dice roll, a Devastating weapon will cause an amount of damage equal to what each Damage Dice actually rolls, regardless of whether it exceeds the target&apos;s Armor score or not. In addition, a Critical Hit is scored for every Damage Dice that rolls a 5 or 6 (before any modification by Torpedo Belts). Any critical hits scored will have a Critical Score equal to the doll of one dice (if the location already has a Critical Score that is higher than the dice roll, the new Critical Hit is ignored).</description>
                     </rule>
                     <rule id="8f68-9a23-0e0c-9605" name="One-Shot" hidden="false">
-                      <description>Ammunition or payload is limited for this weapoin, so once fired it may not be used again for the rest of the battle.</description>
+                      <description>Ammunition or payload is limited for this weapon, so once fired it may not be used again for the rest of the battle.</description>
                     </rule>
                     <rule id="99b2-86f9-ccad-7adf" name="Weak" hidden="false">
                       <description>Weak weapons cannot cause critical hits except against ships of the civilian type.</description>
@@ -4388,7 +4388,7 @@
                       <description>Shipo carries X number of Observation Flights that may be used for scouting and guiding Beyond the Horizon Attacks.</description>
                     </rule>
                     <rule id="6e45-fd30-5e37-63b1" name="Advanced Radar" hidden="false">
-                      <description>Ships committed to scouting with the Advanced Radar Trait gain +2 to their dice roll and can reroll their dice.</description>
+                      <description>Ships committed to scouting with the Advanced Radar Trait gain +2 to their dice roll and can re-roll their dice.</description>
                     </rule>
                     <rule id="a652-7856-bd20-f616" name="Fletcher-Class Light Guns (4 x 5-inch)" hidden="false">
                       <description>Light Guns (4 x 5-inch) - Only one Attack Dice may be fired into the front and aft arcs.</description>
@@ -4463,7 +4463,7 @@
                       <description>Instead of causing one point of damage with each successful Damage Dice roll, a Devastating weapon will cause an amount of damage equal to what each Damage Dice actually rolls, regardless of whether it exceeds the target&apos;s Armor score or not. In addition, a Critical Hit is scored for every Damage Dice that rolls a 5 or 6 (before any modification by Torpedo Belts). Any critical hits scored will have a Critical Score equal to the doll of one dice (if the location already has a Critical Score that is higher than the dice roll, the new Critical Hit is ignored).</description>
                     </rule>
                     <rule id="ab2d-77b7-ee49-ba47" name="One-Shot" hidden="false">
-                      <description>Ammunition or payload is limited for this weapoin, so once fired it may not be used again for the rest of the battle.</description>
+                      <description>Ammunition or payload is limited for this weapon, so once fired it may not be used again for the rest of the battle.</description>
                     </rule>
                     <rule id="f9d9-5655-a8f9-ff11" name="Weak" hidden="false">
                       <description>Weak weapons cannot cause critical hits except against ships of the civilian type.</description>
@@ -4478,7 +4478,7 @@
                       <description>Shipo carries X number of Observation Flights that may be used for scouting and guiding Beyond the Horizon Attacks.</description>
                     </rule>
                     <rule id="dbc0-d150-c3df-fc6a" name="Advanced Radar" hidden="false">
-                      <description>Ships committed to scouting with the Advanced Radar Trait gain +2 to their dice roll and can reroll their dice.</description>
+                      <description>Ships committed to scouting with the Advanced Radar Trait gain +2 to their dice roll and can re-roll their dice.</description>
                     </rule>
                     <rule id="c907-7636-bbad-cc8f" name="Fletcher-Class Light Guns (4 x 5-inch)" hidden="false">
                       <description>Light Guns (4 x 5-inch) - Only one Attack Dice may be fired into the front and aft arcs.</description>
@@ -4563,7 +4563,7 @@
                   </profiles>
                   <rules>
                     <rule id="bbde-48c3-3422-f5bc" name="Radar" hidden="false">
-                      <description>Ships committed to scouting with the Radar Trait gain +1 to their dice roll and can reroll their dice.</description>
+                      <description>Ships committed to scouting with the Radar Trait gain +1 to their dice roll and can re-roll their dice.</description>
                     </rule>
                     <rule id="ea70-dd78-a44d-2829" name="Depth-Charges" hidden="false">
                       <description>Goes Sploosh!</description>
@@ -4572,7 +4572,7 @@
                       <description>Instead of causing one point of damage with each successful Damage Dice roll, a Devastating weapon will cause an amount of damage equal to what each Damage Dice actually rolls, regardless of whether it exceeds the target&apos;s Armor score or not. In addition, a Critical Hit is scored for every Damage Dice that rolls a 5 or 6 (before any modification by Torpedo Belts). Any critical hits scored will have a Critical Score equal to the doll of one dice (if the location already has a Critical Score that is higher than the dice roll, the new Critical Hit is ignored).</description>
                     </rule>
                     <rule id="55fa-ef21-15c1-0be6" name="One-Shot" hidden="false">
-                      <description>Ammunition or payload is limited for this weapoin, so once fired it may not be used again for the rest of the battle.</description>
+                      <description>Ammunition or payload is limited for this weapon, so once fired it may not be used again for the rest of the battle.</description>
                     </rule>
                     <rule id="8f98-3e72-b10e-fd35" name="Weak" hidden="false">
                       <description>Weak weapons cannot cause critical hits except against ships of the civilian type.</description>
@@ -4650,7 +4650,7 @@
                   </profiles>
                   <rules>
                     <rule id="a90a-7396-2193-5abd" name="Radar" hidden="false">
-                      <description>Ships committed to scouting with the Radar Trait gain +1 to their dice roll and can reroll their dice.</description>
+                      <description>Ships committed to scouting with the Radar Trait gain +1 to their dice roll and can re-roll their dice.</description>
                     </rule>
                     <rule id="156f-5639-27dd-789a" name="Depth-Charges" hidden="false">
                       <description>Goes Sploosh!</description>
@@ -4659,7 +4659,7 @@
                       <description>Instead of causing one point of damage with each successful Damage Dice roll, a Devastating weapon will cause an amount of damage equal to what each Damage Dice actually rolls, regardless of whether it exceeds the target&apos;s Armor score or not. In addition, a Critical Hit is scored for every Damage Dice that rolls a 5 or 6 (before any modification by Torpedo Belts). Any critical hits scored will have a Critical Score equal to the doll of one dice (if the location already has a Critical Score that is higher than the dice roll, the new Critical Hit is ignored).</description>
                     </rule>
                     <rule id="cf85-94fa-0242-5463" name="One-Shot" hidden="false">
-                      <description>Ammunition or payload is limited for this weapoin, so once fired it may not be used again for the rest of the battle.</description>
+                      <description>Ammunition or payload is limited for this weapon, so once fired it may not be used again for the rest of the battle.</description>
                     </rule>
                     <rule id="e2ec-4450-465f-6007" name="Weak" hidden="false">
                       <description>Weak weapons cannot cause critical hits except against ships of the civilian type.</description>
@@ -4746,7 +4746,7 @@
                       <description>Instead of causing one point of damage with each successful Damage Dice roll, a Devastating weapon will cause an amount of damage equal to what each Damage Dice actually rolls, regardless of whether it exceeds the target&apos;s Armor score or not. In addition, a Critical Hit is scored for every Damage Dice that rolls a 5 or 6 (before any modification by Torpedo Belts). Any critical hits scored will have a Critical Score equal to the doll of one dice (if the location already has a Critical Score that is higher than the dice roll, the new Critical Hit is ignored).</description>
                     </rule>
                     <rule id="8ecb-7062-ec20-ad4a" name="One-Shot" hidden="false">
-                      <description>Ammunition or payload is limited for this weapoin, so once fired it may not be used again for the rest of the battle.</description>
+                      <description>Ammunition or payload is limited for this weapon, so once fired it may not be used again for the rest of the battle.</description>
                     </rule>
                     <rule id="9389-c59f-6d8f-39d1" name="Weak" hidden="false">
                       <description>Weak weapons cannot cause critical hits except against ships of the civilian type.</description>
@@ -4761,7 +4761,7 @@
                       <description>Shipo carries X number of Observation Flights that may be used for scouting and guiding Beyond the Horizon Attacks.</description>
                     </rule>
                     <rule id="bce9-640a-810d-9909" name="Advanced Radar" hidden="false">
-                      <description>Ships committed to scouting with the Advanced Radar Trait gain +2 to their dice roll and can reroll their dice.</description>
+                      <description>Ships committed to scouting with the Advanced Radar Trait gain +2 to their dice roll and can re-roll their dice.</description>
                     </rule>
                     <rule id="70ad-8ae9-73c0-02f4" name="Fletcher-Class Light Guns (4 x 5-inch)" hidden="false">
                       <description>Light Guns (4 x 5-inch) - Only one Attack Dice may be fired into the front and aft arcs.</description>
@@ -4836,7 +4836,7 @@
                       <description>Instead of causing one point of damage with each successful Damage Dice roll, a Devastating weapon will cause an amount of damage equal to what each Damage Dice actually rolls, regardless of whether it exceeds the target&apos;s Armor score or not. In addition, a Critical Hit is scored for every Damage Dice that rolls a 5 or 6 (before any modification by Torpedo Belts). Any critical hits scored will have a Critical Score equal to the doll of one dice (if the location already has a Critical Score that is higher than the dice roll, the new Critical Hit is ignored).</description>
                     </rule>
                     <rule id="c343-d564-a711-7f46" name="One-Shot" hidden="false">
-                      <description>Ammunition or payload is limited for this weapoin, so once fired it may not be used again for the rest of the battle.</description>
+                      <description>Ammunition or payload is limited for this weapon, so once fired it may not be used again for the rest of the battle.</description>
                     </rule>
                     <rule id="e308-35de-3866-4704" name="Weak" hidden="false">
                       <description>Weak weapons cannot cause critical hits except against ships of the civilian type.</description>
@@ -4851,7 +4851,7 @@
                       <description>Shipo carries X number of Observation Flights that may be used for scouting and guiding Beyond the Horizon Attacks.</description>
                     </rule>
                     <rule id="c088-a2de-b5f3-9e41" name="Advanced Radar" hidden="false">
-                      <description>Ships committed to scouting with the Advanced Radar Trait gain +2 to their dice roll and can reroll their dice.</description>
+                      <description>Ships committed to scouting with the Advanced Radar Trait gain +2 to their dice roll and can re-roll their dice.</description>
                     </rule>
                     <rule id="4dd2-fcb7-69d3-5b15" name="Fletcher-Class Light Guns (4 x 5-inch)" hidden="false">
                       <description>Light Guns (4 x 5-inch) - Only one Attack Dice may be fired into the front and aft arcs.</description>
@@ -4936,7 +4936,7 @@
                   </profiles>
                   <rules>
                     <rule id="81e9-562a-278d-feed" name="Radar" hidden="false">
-                      <description>Ships committed to scouting with the Radar Trait gain +1 to their dice roll and can reroll their dice.</description>
+                      <description>Ships committed to scouting with the Radar Trait gain +1 to their dice roll and can re-roll their dice.</description>
                     </rule>
                     <rule id="ba0b-01b5-3830-c41c" name="Depth-Charges" hidden="false">
                       <description>Goes Sploosh!</description>
@@ -4945,7 +4945,7 @@
                       <description>Instead of causing one point of damage with each successful Damage Dice roll, a Devastating weapon will cause an amount of damage equal to what each Damage Dice actually rolls, regardless of whether it exceeds the target&apos;s Armor score or not. In addition, a Critical Hit is scored for every Damage Dice that rolls a 5 or 6 (before any modification by Torpedo Belts). Any critical hits scored will have a Critical Score equal to the doll of one dice (if the location already has a Critical Score that is higher than the dice roll, the new Critical Hit is ignored).</description>
                     </rule>
                     <rule id="b66e-e7e5-aa34-74e7" name="One-Shot" hidden="false">
-                      <description>Ammunition or payload is limited for this weapoin, so once fired it may not be used again for the rest of the battle.</description>
+                      <description>Ammunition or payload is limited for this weapon, so once fired it may not be used again for the rest of the battle.</description>
                     </rule>
                     <rule id="21c7-6d98-0ae6-25ca" name="Weak" hidden="false">
                       <description>Weak weapons cannot cause critical hits except against ships of the civilian type.</description>
@@ -5023,7 +5023,7 @@
                   </profiles>
                   <rules>
                     <rule id="90dd-fc69-f0eb-296a" name="Radar" hidden="false">
-                      <description>Ships committed to scouting with the Radar Trait gain +1 to their dice roll and can reroll their dice.</description>
+                      <description>Ships committed to scouting with the Radar Trait gain +1 to their dice roll and can re-roll their dice.</description>
                     </rule>
                     <rule id="1013-3dc4-de09-7bd5" name="Depth-Charges" hidden="false">
                       <description>Goes Sploosh!</description>
@@ -5032,7 +5032,7 @@
                       <description>Instead of causing one point of damage with each successful Damage Dice roll, a Devastating weapon will cause an amount of damage equal to what each Damage Dice actually rolls, regardless of whether it exceeds the target&apos;s Armor score or not. In addition, a Critical Hit is scored for every Damage Dice that rolls a 5 or 6 (before any modification by Torpedo Belts). Any critical hits scored will have a Critical Score equal to the doll of one dice (if the location already has a Critical Score that is higher than the dice roll, the new Critical Hit is ignored).</description>
                     </rule>
                     <rule id="19f4-697b-0c7e-e778" name="One-Shot" hidden="false">
-                      <description>Ammunition or payload is limited for this weapoin, so once fired it may not be used again for the rest of the battle.</description>
+                      <description>Ammunition or payload is limited for this weapon, so once fired it may not be used again for the rest of the battle.</description>
                     </rule>
                     <rule id="1563-286f-33df-d04e" name="Weak" hidden="false">
                       <description>Weak weapons cannot cause critical hits except against ships of the civilian type.</description>
@@ -5116,7 +5116,7 @@
                       <description>Instead of causing one point of damage with each successful Damage Dice roll, a Devastating weapon will cause an amount of damage equal to what each Damage Dice actually rolls, regardless of whether it exceeds the target&apos;s Armor score or not. In addition, a Critical Hit is scored for every Damage Dice that rolls a 5 or 6 (before any modification by Torpedo Belts). Any critical hits scored will have a Critical Score equal to the doll of one dice (if the location already has a Critical Score that is higher than the dice roll, the new Critical Hit is ignored).</description>
                     </rule>
                     <rule id="2a91-80f7-f310-a163" name="One-Shot" hidden="false">
-                      <description>Ammunition or payload is limited for this weapoin, so once fired it may not be used again for the rest of the battle.</description>
+                      <description>Ammunition or payload is limited for this weapon, so once fired it may not be used again for the rest of the battle.</description>
                     </rule>
                     <rule id="d771-d8e7-d6e9-8128" name="Weak" hidden="false">
                       <description>Weak weapons cannot cause critical hits except against ships of the civilian type.</description>
@@ -5128,7 +5128,7 @@
                       <description>Up to half of a DP weapon&apos;s current Attack Dice (rounding up, minimum of 1) may instead be used as AA weapons to attack aircraft or motor torpedo boats at up to half the weapon&apos;s normal range. However this weapon may not be used in the same turn to attack other units.</description>
                     </rule>
                     <rule id="9dd4-12a8-7971-b06b" name="Advanced Radar" hidden="false">
-                      <description>Ships committed to scouting with the Advanced Radar Trait gain +2 to their dice roll and can reroll their dice.</description>
+                      <description>Ships committed to scouting with the Advanced Radar Trait gain +2 to their dice roll and can re-roll their dice.</description>
                     </rule>
                     <rule id="05a1-10ae-b866-abd9" name="Fletcher-Class Light Guns (5 x 5-inch)" hidden="false">
                       <description>Light Guns (5 x 5-inch) - Only one Attack Dice may be fired into the front and aft arcs.</description>
@@ -5203,7 +5203,7 @@
                       <description>Instead of causing one point of damage with each successful Damage Dice roll, a Devastating weapon will cause an amount of damage equal to what each Damage Dice actually rolls, regardless of whether it exceeds the target&apos;s Armor score or not. In addition, a Critical Hit is scored for every Damage Dice that rolls a 5 or 6 (before any modification by Torpedo Belts). Any critical hits scored will have a Critical Score equal to the doll of one dice (if the location already has a Critical Score that is higher than the dice roll, the new Critical Hit is ignored).</description>
                     </rule>
                     <rule id="673f-a9cf-4fbe-87e3" name="One-Shot" hidden="false">
-                      <description>Ammunition or payload is limited for this weapoin, so once fired it may not be used again for the rest of the battle.</description>
+                      <description>Ammunition or payload is limited for this weapon, so once fired it may not be used again for the rest of the battle.</description>
                     </rule>
                     <rule id="5c04-4844-4655-fa4d" name="Weak" hidden="false">
                       <description>Weak weapons cannot cause critical hits except against ships of the civilian type.</description>
@@ -5215,7 +5215,7 @@
                       <description>Up to half of a DP weapon&apos;s current Attack Dice (rounding up, minimum of 1) may instead be used as AA weapons to attack aircraft or motor torpedo boats at up to half the weapon&apos;s normal range. However this weapon may not be used in the same turn to attack other units.</description>
                     </rule>
                     <rule id="306e-8123-0b03-0236" name="Advanced Radar" hidden="false">
-                      <description>Ships committed to scouting with the Advanced Radar Trait gain +2 to their dice roll and can reroll their dice.</description>
+                      <description>Ships committed to scouting with the Advanced Radar Trait gain +2 to their dice roll and can re-roll their dice.</description>
                     </rule>
                     <rule id="63c6-36bf-511a-0f18" name="Fletcher-Class Light Guns (5 x 5-inch)" hidden="false">
                       <description>Light Guns (5 x 5-inch) - Only one Attack Dice may be fired into the front and aft arcs.</description>
@@ -5290,7 +5290,7 @@
                       <description>Instead of causing one point of damage with each successful Damage Dice roll, a Devastating weapon will cause an amount of damage equal to what each Damage Dice actually rolls, regardless of whether it exceeds the target&apos;s Armor score or not. In addition, a Critical Hit is scored for every Damage Dice that rolls a 5 or 6 (before any modification by Torpedo Belts). Any critical hits scored will have a Critical Score equal to the doll of one dice (if the location already has a Critical Score that is higher than the dice roll, the new Critical Hit is ignored).</description>
                     </rule>
                     <rule id="33ed-6a0b-6136-8531" name="One-Shot" hidden="false">
-                      <description>Ammunition or payload is limited for this weapoin, so once fired it may not be used again for the rest of the battle.</description>
+                      <description>Ammunition or payload is limited for this weapon, so once fired it may not be used again for the rest of the battle.</description>
                     </rule>
                     <rule id="bd03-f3ac-7752-a2f2" name="Weak" hidden="false">
                       <description>Weak weapons cannot cause critical hits except against ships of the civilian type.</description>
@@ -5302,7 +5302,7 @@
                       <description>Up to half of a DP weapon&apos;s current Attack Dice (rounding up, minimum of 1) may instead be used as AA weapons to attack aircraft or motor torpedo boats at up to half the weapon&apos;s normal range. However this weapon may not be used in the same turn to attack other units.</description>
                     </rule>
                     <rule id="ab2e-36dc-7aa2-9d09" name="Advanced Radar" hidden="false">
-                      <description>Ships committed to scouting with the Advanced Radar Trait gain +2 to their dice roll and can reroll their dice.</description>
+                      <description>Ships committed to scouting with the Advanced Radar Trait gain +2 to their dice roll and can re-roll their dice.</description>
                     </rule>
                     <rule id="5dc7-bca9-3eb3-1907" name="Fletcher-Class Light Guns (5 x 5-inch)" hidden="false">
                       <description>Light Guns (5 x 5-inch) - Only one Attack Dice may be fired into the front and aft arcs.</description>
@@ -5393,7 +5393,7 @@
               </profiles>
               <rules>
                 <rule id="8d6b-a9fa-28b2-55a1" name="Advanced Radar" hidden="false">
-                  <description>Ships committed to scouting with the Advanced Radar Trait gain +2 to their dice roll and can reroll their dice.</description>
+                  <description>Ships committed to scouting with the Advanced Radar Trait gain +2 to their dice roll and can re-roll their dice.</description>
                 </rule>
                 <rule id="ccfa-a01c-2772-c865" name="Carrier" hidden="false">
                   <description>May launch or collect one aircraft Flight per turn so long as the captain does not perform any Orders other than Scramble! this tun.</description>
@@ -5480,7 +5480,7 @@
               </profiles>
               <rules>
                 <rule id="2053-17b9-c592-5dcd" name="Advanced Radar" hidden="false">
-                  <description>Ships committed to scouting with the Advanced Radar Trait gain +2 to their dice roll and can reroll their dice.</description>
+                  <description>Ships committed to scouting with the Advanced Radar Trait gain +2 to their dice roll and can re-roll their dice.</description>
                 </rule>
                 <rule id="c596-0654-2b4b-e3ae" name="Carrier" hidden="false">
                   <description>May launch or collect one aircraft Flight per turn so long as the captain does not perform any Orders other than Scramble! this tun.</description>
@@ -5575,7 +5575,7 @@
               </profiles>
               <rules>
                 <rule id="a7f0-dce2-a634-b6b4" name="Advanced Radar" hidden="false">
-                  <description>Ships committed to scouting with the Advanced Radar Trait gain +2 to their dice roll and can reroll their dice.</description>
+                  <description>Ships committed to scouting with the Advanced Radar Trait gain +2 to their dice roll and can re-roll their dice.</description>
                 </rule>
                 <rule id="ae49-2b5e-5de3-840b" name="Carrier" hidden="false">
                   <description>May launch or collect one aircraft Flight per turn so long as the captain does not perform any Orders other than Scramble! this tun.</description>
@@ -5662,7 +5662,7 @@
               </profiles>
               <rules>
                 <rule id="abe8-852e-59db-6d34" name="Advanced Radar" hidden="false">
-                  <description>Ships committed to scouting with the Advanced Radar Trait gain +2 to their dice roll and can reroll their dice.</description>
+                  <description>Ships committed to scouting with the Advanced Radar Trait gain +2 to their dice roll and can re-roll their dice.</description>
                 </rule>
                 <rule id="939a-b76a-f8aa-2649" name="Carrier" hidden="false">
                   <description>May launch or collect one aircraft Flight per turn so long as the captain does not perform any Orders other than Scramble! this tun.</description>
@@ -5749,7 +5749,7 @@
               </profiles>
               <rules>
                 <rule id="78b6-5acc-7f20-adde" name="Advanced Radar" hidden="false">
-                  <description>Ships committed to scouting with the Advanced Radar Trait gain +2 to their dice roll and can reroll their dice.</description>
+                  <description>Ships committed to scouting with the Advanced Radar Trait gain +2 to their dice roll and can re-roll their dice.</description>
                 </rule>
                 <rule id="6cb1-b56b-263c-297e" name="Carrier" hidden="false">
                   <description>May launch or collect one aircraft Flight per turn so long as the captain does not perform any Orders other than Scramble! this tun.</description>
@@ -5844,7 +5844,7 @@
               </profiles>
               <rules>
                 <rule id="5f57-b1d6-6404-f8de" name="Advanced Radar" hidden="false">
-                  <description>Ships committed to scouting with the Advanced Radar Trait gain +2 to their dice roll and can reroll their dice.</description>
+                  <description>Ships committed to scouting with the Advanced Radar Trait gain +2 to their dice roll and can re-roll their dice.</description>
                 </rule>
                 <rule id="9650-bc36-93e1-a4f3" name="Carrier" hidden="false">
                   <description>May launch or collect one aircraft Flight per turn so long as the captain does not perform any Orders other than Scramble! this tun.</description>
@@ -5939,7 +5939,7 @@
               </profiles>
               <rules>
                 <rule id="9342-3be6-46e0-5a6e" name="Advanced Radar" hidden="false">
-                  <description>Ships committed to scouting with the Advanced Radar Trait gain +2 to their dice roll and can reroll their dice.</description>
+                  <description>Ships committed to scouting with the Advanced Radar Trait gain +2 to their dice roll and can re-roll their dice.</description>
                 </rule>
                 <rule id="3127-d103-b3be-d1cc" name="Carrier" hidden="false">
                   <description>May launch or collect one aircraft Flight per turn so long as the captain does not perform any Orders other than Scramble! this tun.</description>
@@ -6026,7 +6026,7 @@
               </profiles>
               <rules>
                 <rule id="bcad-82a3-cb2b-8350" name="Advanced Radar" hidden="false">
-                  <description>Ships committed to scouting with the Advanced Radar Trait gain +2 to their dice roll and can reroll their dice.</description>
+                  <description>Ships committed to scouting with the Advanced Radar Trait gain +2 to their dice roll and can re-roll their dice.</description>
                 </rule>
                 <rule id="d2c4-04a3-4e55-ce42" name="Carrier" hidden="false">
                   <description>May launch or collect one aircraft Flight per turn so long as the captain does not perform any Orders other than Scramble! this tun.</description>
@@ -6113,7 +6113,7 @@
               </profiles>
               <rules>
                 <rule id="cc91-189d-fd2f-cdf8" name="Advanced Radar" hidden="false">
-                  <description>Ships committed to scouting with the Advanced Radar Trait gain +2 to their dice roll and can reroll their dice.</description>
+                  <description>Ships committed to scouting with the Advanced Radar Trait gain +2 to their dice roll and can re-roll their dice.</description>
                 </rule>
                 <rule id="4a88-5942-a52c-3b0c" name="Carrier" hidden="false">
                   <description>May launch or collect one aircraft Flight per turn so long as the captain does not perform any Orders other than Scramble! this tun.</description>
@@ -6208,7 +6208,7 @@
               </profiles>
               <rules>
                 <rule id="e476-cf2b-9b15-44ae" name="Advanced Radar" hidden="false">
-                  <description>Ships committed to scouting with the Advanced Radar Trait gain +2 to their dice roll and can reroll their dice.</description>
+                  <description>Ships committed to scouting with the Advanced Radar Trait gain +2 to their dice roll and can re-roll their dice.</description>
                 </rule>
                 <rule id="2308-e441-0ec0-26de" name="Carrier" hidden="false">
                   <description>May launch or collect one aircraft Flight per turn so long as the captain does not perform any Orders other than Scramble! this tun.</description>
@@ -6295,7 +6295,7 @@
               </profiles>
               <rules>
                 <rule id="f8e9-22be-b31e-a91a" name="Advanced Radar" hidden="false">
-                  <description>Ships committed to scouting with the Advanced Radar Trait gain +2 to their dice roll and can reroll their dice.</description>
+                  <description>Ships committed to scouting with the Advanced Radar Trait gain +2 to their dice roll and can re-roll their dice.</description>
                 </rule>
                 <rule id="8e5b-3d4e-5d7f-56f0" name="Carrier" hidden="false">
                   <description>May launch or collect one aircraft Flight per turn so long as the captain does not perform any Orders other than Scramble! this tun.</description>
@@ -6382,7 +6382,7 @@
               </profiles>
               <rules>
                 <rule id="f6bf-0f00-1764-8733" name="Advanced Radar" hidden="false">
-                  <description>Ships committed to scouting with the Advanced Radar Trait gain +2 to their dice roll and can reroll their dice.</description>
+                  <description>Ships committed to scouting with the Advanced Radar Trait gain +2 to their dice roll and can re-roll their dice.</description>
                 </rule>
                 <rule id="050d-af27-3679-ca8c" name="Carrier" hidden="false">
                   <description>May launch or collect one aircraft Flight per turn so long as the captain does not perform any Orders other than Scramble! this tun.</description>
@@ -6477,7 +6477,7 @@
               </profiles>
               <rules>
                 <rule id="0b6c-f435-8d18-05cc" name="Advanced Radar" hidden="false">
-                  <description>Ships committed to scouting with the Advanced Radar Trait gain +2 to their dice roll and can reroll their dice.</description>
+                  <description>Ships committed to scouting with the Advanced Radar Trait gain +2 to their dice roll and can re-roll their dice.</description>
                 </rule>
                 <rule id="92a8-b3ab-01ed-d734" name="Carrier" hidden="false">
                   <description>May launch or collect one aircraft Flight per turn so long as the captain does not perform any Orders other than Scramble! this tun.</description>
@@ -6564,7 +6564,7 @@
               </profiles>
               <rules>
                 <rule id="6523-c4cf-046b-4702" name="Advanced Radar" hidden="false">
-                  <description>Ships committed to scouting with the Advanced Radar Trait gain +2 to their dice roll and can reroll their dice.</description>
+                  <description>Ships committed to scouting with the Advanced Radar Trait gain +2 to their dice roll and can re-roll their dice.</description>
                 </rule>
                 <rule id="a156-ceaa-8fb4-e04a" name="Carrier" hidden="false">
                   <description>May launch or collect one aircraft Flight per turn so long as the captain does not perform any Orders other than Scramble! this tun.</description>
@@ -6651,7 +6651,7 @@
               </profiles>
               <rules>
                 <rule id="f7c3-14be-1caa-d49c" name="Advanced Radar" hidden="false">
-                  <description>Ships committed to scouting with the Advanced Radar Trait gain +2 to their dice roll and can reroll their dice.</description>
+                  <description>Ships committed to scouting with the Advanced Radar Trait gain +2 to their dice roll and can re-roll their dice.</description>
                 </rule>
                 <rule id="38b2-7e20-c714-a541" name="Carrier" hidden="false">
                   <description>May launch or collect one aircraft Flight per turn so long as the captain does not perform any Orders other than Scramble! this tun.</description>
@@ -6746,7 +6746,7 @@
               </profiles>
               <rules>
                 <rule id="3842-8d47-9689-942e" name="Advanced Radar" hidden="false">
-                  <description>Ships committed to scouting with the Advanced Radar Trait gain +2 to their dice roll and can reroll their dice.</description>
+                  <description>Ships committed to scouting with the Advanced Radar Trait gain +2 to their dice roll and can re-roll their dice.</description>
                 </rule>
                 <rule id="f60b-ba9f-8200-0ee5" name="Carrier" hidden="false">
                   <description>May launch or collect one aircraft Flight per turn so long as the captain does not perform any Orders other than Scramble! this tun.</description>
@@ -6833,7 +6833,7 @@
               </profiles>
               <rules>
                 <rule id="b40e-dcf9-27ef-be84" name="Advanced Radar" hidden="false">
-                  <description>Ships committed to scouting with the Advanced Radar Trait gain +2 to their dice roll and can reroll their dice.</description>
+                  <description>Ships committed to scouting with the Advanced Radar Trait gain +2 to their dice roll and can re-roll their dice.</description>
                 </rule>
                 <rule id="9293-223c-0e91-40ff" name="Carrier" hidden="false">
                   <description>May launch or collect one aircraft Flight per turn so long as the captain does not perform any Orders other than Scramble! this tun.</description>
@@ -6928,7 +6928,7 @@
               </profiles>
               <rules>
                 <rule id="487f-b888-c6f4-18c8" name="Advanced Radar" hidden="false">
-                  <description>Ships committed to scouting with the Advanced Radar Trait gain +2 to their dice roll and can reroll their dice.</description>
+                  <description>Ships committed to scouting with the Advanced Radar Trait gain +2 to their dice roll and can re-roll their dice.</description>
                 </rule>
                 <rule id="5987-5a96-ebc5-7596" name="Carrier" hidden="false">
                   <description>May launch or collect one aircraft Flight per turn so long as the captain does not perform any Orders other than Scramble! this tun.</description>
@@ -7015,7 +7015,7 @@
               </profiles>
               <rules>
                 <rule id="28f1-ec0a-b48e-630a" name="Advanced Radar" hidden="false">
-                  <description>Ships committed to scouting with the Advanced Radar Trait gain +2 to their dice roll and can reroll their dice.</description>
+                  <description>Ships committed to scouting with the Advanced Radar Trait gain +2 to their dice roll and can re-roll their dice.</description>
                 </rule>
                 <rule id="a57a-6468-9a7b-b459" name="Carrier" hidden="false">
                   <description>May launch or collect one aircraft Flight per turn so long as the captain does not perform any Orders other than Scramble! this tun.</description>
@@ -7110,7 +7110,7 @@
               </profiles>
               <rules>
                 <rule id="f5bb-3643-b9ba-59ea" name="Advanced Radar" hidden="false">
-                  <description>Ships committed to scouting with the Advanced Radar Trait gain +2 to their dice roll and can reroll their dice.</description>
+                  <description>Ships committed to scouting with the Advanced Radar Trait gain +2 to their dice roll and can re-roll their dice.</description>
                 </rule>
                 <rule id="6461-6256-7f53-eaaa" name="Carrier" hidden="false">
                   <description>May launch or collect one aircraft Flight per turn so long as the captain does not perform any Orders other than Scramble! this tun.</description>
@@ -7197,7 +7197,7 @@
               </profiles>
               <rules>
                 <rule id="eb6d-2af2-3f91-194b" name="Advanced Radar" hidden="false">
-                  <description>Ships committed to scouting with the Advanced Radar Trait gain +2 to their dice roll and can reroll their dice.</description>
+                  <description>Ships committed to scouting with the Advanced Radar Trait gain +2 to their dice roll and can re-roll their dice.</description>
                 </rule>
                 <rule id="91a1-bc18-2869-6f4b" name="Carrier" hidden="false">
                   <description>May launch or collect one aircraft Flight per turn so long as the captain does not perform any Orders other than Scramble! this tun.</description>
@@ -7292,7 +7292,7 @@
               </profiles>
               <rules>
                 <rule id="ec55-af54-ae1b-328f" name="Advanced Radar" hidden="false">
-                  <description>Ships committed to scouting with the Advanced Radar Trait gain +2 to their dice roll and can reroll their dice.</description>
+                  <description>Ships committed to scouting with the Advanced Radar Trait gain +2 to their dice roll and can re-roll their dice.</description>
                 </rule>
                 <rule id="9ce6-e5bf-70e0-3b79" name="Carrier" hidden="false">
                   <description>May launch or collect one aircraft Flight per turn so long as the captain does not perform any Orders other than Scramble! this tun.</description>
@@ -7379,7 +7379,7 @@
               </profiles>
               <rules>
                 <rule id="7c67-7a8d-3f2c-9e15" name="Advanced Radar" hidden="false">
-                  <description>Ships committed to scouting with the Advanced Radar Trait gain +2 to their dice roll and can reroll their dice.</description>
+                  <description>Ships committed to scouting with the Advanced Radar Trait gain +2 to their dice roll and can re-roll their dice.</description>
                 </rule>
                 <rule id="2fcd-4df1-85ac-6d2f" name="Carrier" hidden="false">
                   <description>May launch or collect one aircraft Flight per turn so long as the captain does not perform any Orders other than Scramble! this tun.</description>
@@ -7474,7 +7474,7 @@
               </profiles>
               <rules>
                 <rule id="14f9-6a6b-19bb-5c78" name="Advanced Radar" hidden="false">
-                  <description>Ships committed to scouting with the Advanced Radar Trait gain +2 to their dice roll and can reroll their dice.</description>
+                  <description>Ships committed to scouting with the Advanced Radar Trait gain +2 to their dice roll and can re-roll their dice.</description>
                 </rule>
                 <rule id="ec1e-89f3-3733-3571" name="Carrier" hidden="false">
                   <description>May launch or collect one aircraft Flight per turn so long as the captain does not perform any Orders other than Scramble! this tun.</description>
@@ -7561,7 +7561,7 @@
               </profiles>
               <rules>
                 <rule id="5e2c-a45f-4ae2-9c5a" name="Advanced Radar" hidden="false">
-                  <description>Ships committed to scouting with the Advanced Radar Trait gain +2 to their dice roll and can reroll their dice.</description>
+                  <description>Ships committed to scouting with the Advanced Radar Trait gain +2 to their dice roll and can re-roll their dice.</description>
                 </rule>
                 <rule id="e8e3-419d-9f97-c2be" name="Carrier" hidden="false">
                   <description>May launch or collect one aircraft Flight per turn so long as the captain does not perform any Orders other than Scramble! this tun.</description>
@@ -7656,7 +7656,7 @@
               </profiles>
               <rules>
                 <rule id="a895-6586-6a1f-14be" name="Advanced Radar" hidden="false">
-                  <description>Ships committed to scouting with the Advanced Radar Trait gain +2 to their dice roll and can reroll their dice.</description>
+                  <description>Ships committed to scouting with the Advanced Radar Trait gain +2 to their dice roll and can re-roll their dice.</description>
                 </rule>
                 <rule id="ef74-bac3-e3f8-deb5" name="Carrier" hidden="false">
                   <description>May launch or collect one aircraft Flight per turn so long as the captain does not perform any Orders other than Scramble! this tun.</description>
@@ -7743,7 +7743,7 @@
               </profiles>
               <rules>
                 <rule id="3212-b559-0636-bc6f" name="Advanced Radar" hidden="false">
-                  <description>Ships committed to scouting with the Advanced Radar Trait gain +2 to their dice roll and can reroll their dice.</description>
+                  <description>Ships committed to scouting with the Advanced Radar Trait gain +2 to their dice roll and can re-roll their dice.</description>
                 </rule>
                 <rule id="85c5-a4b2-1512-1314" name="Carrier" hidden="false">
                   <description>May launch or collect one aircraft Flight per turn so long as the captain does not perform any Orders other than Scramble! this tun.</description>
@@ -7838,7 +7838,7 @@
               </profiles>
               <rules>
                 <rule id="3123-f474-7458-563d" name="Advanced Radar" hidden="false">
-                  <description>Ships committed to scouting with the Advanced Radar Trait gain +2 to their dice roll and can reroll their dice.</description>
+                  <description>Ships committed to scouting with the Advanced Radar Trait gain +2 to their dice roll and can re-roll their dice.</description>
                 </rule>
                 <rule id="259f-d691-1418-b4c9" name="Carrier" hidden="false">
                   <description>May launch or collect one aircraft Flight per turn so long as the captain does not perform any Orders other than Scramble! this tun.</description>
@@ -7925,7 +7925,7 @@
               </profiles>
               <rules>
                 <rule id="59f7-f2ae-469b-2cc2" name="Advanced Radar" hidden="false">
-                  <description>Ships committed to scouting with the Advanced Radar Trait gain +2 to their dice roll and can reroll their dice.</description>
+                  <description>Ships committed to scouting with the Advanced Radar Trait gain +2 to their dice roll and can re-roll their dice.</description>
                 </rule>
                 <rule id="244e-2ebf-28c2-b068" name="Carrier" hidden="false">
                   <description>May launch or collect one aircraft Flight per turn so long as the captain does not perform any Orders other than Scramble! this tun.</description>
@@ -8020,7 +8020,7 @@
               </profiles>
               <rules>
                 <rule id="0632-9fba-7c1f-2a4f" name="Advanced Radar" hidden="false">
-                  <description>Ships committed to scouting with the Advanced Radar Trait gain +2 to their dice roll and can reroll their dice.</description>
+                  <description>Ships committed to scouting with the Advanced Radar Trait gain +2 to their dice roll and can re-roll their dice.</description>
                 </rule>
                 <rule id="70d8-156a-e55c-6b60" name="Carrier" hidden="false">
                   <description>May launch or collect one aircraft Flight per turn so long as the captain does not perform any Orders other than Scramble! this tun.</description>
@@ -8107,7 +8107,7 @@
               </profiles>
               <rules>
                 <rule id="0421-46ef-3cec-f76e" name="Advanced Radar" hidden="false">
-                  <description>Ships committed to scouting with the Advanced Radar Trait gain +2 to their dice roll and can reroll their dice.</description>
+                  <description>Ships committed to scouting with the Advanced Radar Trait gain +2 to their dice roll and can re-roll their dice.</description>
                 </rule>
                 <rule id="3557-e055-d934-d526" name="Carrier" hidden="false">
                   <description>May launch or collect one aircraft Flight per turn so long as the captain does not perform any Orders other than Scramble! this tun.</description>
@@ -8202,7 +8202,7 @@
               </profiles>
               <rules>
                 <rule id="dd2c-28d8-6d79-44e6" name="Advanced Radar" hidden="false">
-                  <description>Ships committed to scouting with the Advanced Radar Trait gain +2 to their dice roll and can reroll their dice.</description>
+                  <description>Ships committed to scouting with the Advanced Radar Trait gain +2 to their dice roll and can re-roll their dice.</description>
                 </rule>
                 <rule id="4b5b-50be-b029-ace2" name="Carrier" hidden="false">
                   <description>May launch or collect one aircraft Flight per turn so long as the captain does not perform any Orders other than Scramble! this tun.</description>
@@ -8289,7 +8289,7 @@
               </profiles>
               <rules>
                 <rule id="8a95-6901-0165-79d1" name="Advanced Radar" hidden="false">
-                  <description>Ships committed to scouting with the Advanced Radar Trait gain +2 to their dice roll and can reroll their dice.</description>
+                  <description>Ships committed to scouting with the Advanced Radar Trait gain +2 to their dice roll and can re-roll their dice.</description>
                 </rule>
                 <rule id="145a-3cde-0524-f427" name="Carrier" hidden="false">
                   <description>May launch or collect one aircraft Flight per turn so long as the captain does not perform any Orders other than Scramble! this tun.</description>
@@ -8384,7 +8384,7 @@
               </profiles>
               <rules>
                 <rule id="bad3-3219-450c-f5f1" name="Advanced Radar" hidden="false">
-                  <description>Ships committed to scouting with the Advanced Radar Trait gain +2 to their dice roll and can reroll their dice.</description>
+                  <description>Ships committed to scouting with the Advanced Radar Trait gain +2 to their dice roll and can re-roll their dice.</description>
                 </rule>
                 <rule id="c013-34a0-4129-36b6" name="Carrier" hidden="false">
                   <description>May launch or collect one aircraft Flight per turn so long as the captain does not perform any Orders other than Scramble! this tun.</description>
@@ -8471,7 +8471,7 @@
               </profiles>
               <rules>
                 <rule id="b03b-ad9b-37cc-16e6" name="Advanced Radar" hidden="false">
-                  <description>Ships committed to scouting with the Advanced Radar Trait gain +2 to their dice roll and can reroll their dice.</description>
+                  <description>Ships committed to scouting with the Advanced Radar Trait gain +2 to their dice roll and can re-roll their dice.</description>
                 </rule>
                 <rule id="a64e-7f52-aae6-7f13" name="Carrier" hidden="false">
                   <description>May launch or collect one aircraft Flight per turn so long as the captain does not perform any Orders other than Scramble! this tun.</description>
@@ -8566,7 +8566,7 @@
               </profiles>
               <rules>
                 <rule id="93e5-5fd8-854e-0667" name="Advanced Radar" hidden="false">
-                  <description>Ships committed to scouting with the Advanced Radar Trait gain +2 to their dice roll and can reroll their dice.</description>
+                  <description>Ships committed to scouting with the Advanced Radar Trait gain +2 to their dice roll and can re-roll their dice.</description>
                 </rule>
                 <rule id="135a-bbc6-9be7-3047" name="Carrier" hidden="false">
                   <description>May launch or collect one aircraft Flight per turn so long as the captain does not perform any Orders other than Scramble! this tun.</description>
@@ -8653,7 +8653,7 @@
               </profiles>
               <rules>
                 <rule id="c98a-910e-ade4-4e42" name="Advanced Radar" hidden="false">
-                  <description>Ships committed to scouting with the Advanced Radar Trait gain +2 to their dice roll and can reroll their dice.</description>
+                  <description>Ships committed to scouting with the Advanced Radar Trait gain +2 to their dice roll and can re-roll their dice.</description>
                 </rule>
                 <rule id="b26d-ab14-abd9-c0e1" name="Carrier" hidden="false">
                   <description>May launch or collect one aircraft Flight per turn so long as the captain does not perform any Orders other than Scramble! this tun.</description>
@@ -8748,7 +8748,7 @@
               </profiles>
               <rules>
                 <rule id="9247-38fc-e699-e083" name="Advanced Radar" hidden="false">
-                  <description>Ships committed to scouting with the Advanced Radar Trait gain +2 to their dice roll and can reroll their dice.</description>
+                  <description>Ships committed to scouting with the Advanced Radar Trait gain +2 to their dice roll and can re-roll their dice.</description>
                 </rule>
                 <rule id="d602-e2ed-6eb2-55da" name="Carrier" hidden="false">
                   <description>May launch or collect one aircraft Flight per turn so long as the captain does not perform any Orders other than Scramble! this tun.</description>
@@ -8835,7 +8835,7 @@
               </profiles>
               <rules>
                 <rule id="035d-8020-c935-f8eb" name="Advanced Radar" hidden="false">
-                  <description>Ships committed to scouting with the Advanced Radar Trait gain +2 to their dice roll and can reroll their dice.</description>
+                  <description>Ships committed to scouting with the Advanced Radar Trait gain +2 to their dice roll and can re-roll their dice.</description>
                 </rule>
                 <rule id="c7a5-4dfe-cd5f-0415" name="Carrier" hidden="false">
                   <description>May launch or collect one aircraft Flight per turn so long as the captain does not perform any Orders other than Scramble! this tun.</description>
@@ -8930,7 +8930,7 @@
               </profiles>
               <rules>
                 <rule id="991e-3b3b-7743-17fe" name="Advanced Radar" hidden="false">
-                  <description>Ships committed to scouting with the Advanced Radar Trait gain +2 to their dice roll and can reroll their dice.</description>
+                  <description>Ships committed to scouting with the Advanced Radar Trait gain +2 to their dice roll and can re-roll their dice.</description>
                 </rule>
                 <rule id="6ad0-094f-ee02-f3cd" name="Carrier" hidden="false">
                   <description>May launch or collect one aircraft Flight per turn so long as the captain does not perform any Orders other than Scramble! this tun.</description>
@@ -9017,7 +9017,7 @@
               </profiles>
               <rules>
                 <rule id="3bd8-36a0-604b-aed5" name="Advanced Radar" hidden="false">
-                  <description>Ships committed to scouting with the Advanced Radar Trait gain +2 to their dice roll and can reroll their dice.</description>
+                  <description>Ships committed to scouting with the Advanced Radar Trait gain +2 to their dice roll and can re-roll their dice.</description>
                 </rule>
                 <rule id="6bfc-8dee-990d-5917" name="Carrier" hidden="false">
                   <description>May launch or collect one aircraft Flight per turn so long as the captain does not perform any Orders other than Scramble! this tun.</description>
@@ -9791,7 +9791,7 @@
                       <description>This weapon may roll an additional number of Attack Dice equal to the Local score, but these may only be used against Flights in contact with the ship. In addition, these Attack Dice may also be rolled against any and all Flights that physically move over the ship in the Movement Phase. These attack are performed immediately, as the aircraft are moved over teh ship. Local weapons may be used any number of times during the Moveemnt Phase and may then be used (just once!) in the Gunnery Phase.</description>
                     </rule>
                     <rule id="c672-48f2-bce8-1672" name="Advanced Radar" hidden="false">
-                      <description>Ships committed to scouting with the Advanced Radar Trait gain +2 to their dice roll and can reroll their dice.</description>
+                      <description>Ships committed to scouting with the Advanced Radar Trait gain +2 to their dice roll and can re-roll their dice.</description>
                     </rule>
                   </rules>
                   <costs>
@@ -9920,7 +9920,7 @@
                       <description>This weapon may roll an additional number of Attack Dice equal to the Local score, but these may only be used against Flights in contact with the ship. In addition, these Attack Dice may also be rolled against any and all Flights that physically move over the ship in the Movement Phase. These attack are performed immediately, as the aircraft are moved over teh ship. Local weapons may be used any number of times during the Moveemnt Phase and may then be used (just once!) in the Gunnery Phase.</description>
                     </rule>
                     <rule id="486b-5658-a282-91d9" name="Advanced Radar" hidden="false">
-                      <description>Ships committed to scouting with the Advanced Radar Trait gain +2 to their dice roll and can reroll their dice.</description>
+                      <description>Ships committed to scouting with the Advanced Radar Trait gain +2 to their dice roll and can re-roll their dice.</description>
                     </rule>
                   </rules>
                   <costs>
@@ -10049,7 +10049,7 @@
                       <description>This weapon may roll an additional number of Attack Dice equal to the Local score, but these may only be used against Flights in contact with the ship. In addition, these Attack Dice may also be rolled against any and all Flights that physically move over the ship in the Movement Phase. These attack are performed immediately, as the aircraft are moved over teh ship. Local weapons may be used any number of times during the Moveemnt Phase and may then be used (just once!) in the Gunnery Phase.</description>
                     </rule>
                     <rule id="3879-8993-69db-6d6c" name="Advanced Radar" hidden="false">
-                      <description>Ships committed to scouting with the Advanced Radar Trait gain +2 to their dice roll and can reroll their dice.</description>
+                      <description>Ships committed to scouting with the Advanced Radar Trait gain +2 to their dice roll and can re-roll their dice.</description>
                     </rule>
                   </rules>
                   <costs>
