@@ -131,7 +131,7 @@
   </forceEntries>
   <sharedRules>
     <rule id="d871-d9b7-cb05-632c" name="Advanced Radar" hidden="false">
-      <description>Ships committed to scouting with the Advanced Radar Trait gain +2 to their dice roll and can reroll their dice.</description>
+      <description>Ships committed to scouting with the Advanced Radar Trait gain +2 to their dice roll and can re-roll their dice.</description>
     </rule>
     <rule id="f8fb-217e-c460-00a2" name="Agile" hidden="false">
       <description>An Agile ship may change direction after every 1&quot; of forward movement, rather than the usual 2&quot;.</description>
@@ -149,7 +149,7 @@
       <description>May only make one change of direction during its movement. Additionally, Lumbering ships may not use the Evade! order.</description>
     </rule>
     <rule id="a540-d4b9-4520-5ea1" name="Radar" hidden="false">
-      <description>Ships committed to scouting with the Radar Trait gain +1 to their dice roll and can reroll their dice.</description>
+      <description>Ships committed to scouting with the Radar Trait gain +1 to their dice roll and can re-roll their dice.</description>
     </rule>
     <rule id="06e2-04c0-a61e-6782" name="Torpedo Belt X" hidden="false">
       <description>Whenever this ship is hit by a torpedo in its side arcs, the Torpedo Belt score will be deducted from each Damage Dice rolled by the torpedo weapon system attack.</description>
@@ -170,7 +170,7 @@
       <description>This weapon may roll an additional number of Attack Dice equal to the Local score, but these may only be used against Flights in contact with the ship. In addition, these Attack Dice may also be rolled against any and all Flights that physically move over the ship in the Movement Phase. These attack are performed immediately, as the aircraft are moved over teh ship. Local weapons may be used any number of times during the Moveemnt Phase and may then be used (just once!) in the Gunnery Phase.</description>
     </rule>
     <rule id="058f-a5b9-cd1f-8351" name="One-Shot" hidden="false">
-      <description>Ammunition or payload is limited for this weapoin, so once fired it may not be used again for the rest of the battle.</description>
+      <description>Ammunition or payload is limited for this weapon, so once fired it may not be used again for the rest of the battle.</description>
     </rule>
     <rule id="5a5b-a94f-847f-8c0f" name="Restricted" hidden="false">
       <description>A Restricted weapon may only fire a maximum of half its Attack Dice (rounding up) against targets in the port and starboard 90 degree fire arcs.</description>
@@ -210,13 +210,13 @@
           <description>Crew Quality Check - During the End Phase, damage control may be attempted on all critical areas rather than just a single area. Additionally, this ship gains +1 to their damage control rolls. However, during the Gunnery Phase, every attack the ship makes with each of its weapon system suffers a -1 penalty to their Attack Dice rolls.</description>
         </rule>
         <rule id="b504-4051-0ee8-e409" name="Come About!" hidden="false">
-          <description>Crew Quality Check - During its move, the ship can make a single direction change of up to 90 degress. however, the ship cannot make any other changes to direction until its next turn.</description>
+          <description>Crew Quality Check - During its move, the ship can make a single direction change of up to 90 degrees. however, the ship cannot make any other changes to direction until its next turn.</description>
         </rule>
         <rule id="3f14-3219-eea1-c313" name="Create Smoke!" hidden="false">
-          <description>Automatic - Place one smoke counter in contact behind the ship for every full 3&quot; the ship moves. No ship may draw a line through these counters and no attacks can me made through them at all. The smoke counters are removed in the End Phase.</description>
+          <description>Automatic - Place one smoke counter in contact behind the ship for every full 3&quot; the ship moves. No ship may draw a line through these counters and no attacks can be made through them at all. The smoke counters are removed in the End Phase.</description>
         </rule>
         <rule id="0db7-6dd1-af61-cc9e" name="Evade!" hidden="false">
-          <description>Automatic - All attacks made by a ship performing the Evade! Order suffer a -1 penalty to each of its weapon system&apos;s Attack Dice rolls and the ship may not use torpedoes. Additionally, the ship&apos;s current Flank Speed is halved (rounding up) for this turn. However, all enemy Attack Dice which successfully hit this ship in this turn must be rerolled. Destroyers are particularly good at the Evade! Orde, if their current Flank Speed (before being halved) is greather than 6&quot;, enemies retain the Attack Dice penalty for targeting a fast moving target, regardless of how far they have actually moved.</description>
+          <description>Automatic - All attacks made by a ship performing the &apos;Evade!&apos; Order suffer a -1 penalty to each of its weapon system&apos;s Attack Dice rolls and the ship may not use torpedoes. Additionally, the ship&apos;s current Flank Speed is halved (rounding up) for this turn. However, all enemy Attack Dice which successfully hit this ship in this turn must be re-rolled. Destroyers are particularly good at the Evade! Orde, if their current Flank Speed (before being halved) is greather than 6&quot;, enemies retain the Attack Dice penalty for targeting a fast moving target, regardless of how far they have actually moved.</description>
         </rule>
         <rule id="d143-97a4-6760-1118" name="Flood Magazines!" hidden="false">
           <description>Crew Quality Check - If the crew quality check is successful, Critical Scores of all locations are immediately reduced to a level where the Escalation rule is no longer present (Crew are reduced to 1, Engine and Weapons areas reduced to 3).  However, one random main gun weapon system is put out of actionfor the remainder of the battle and cannot be repaired (if no turrets are present, halve the Attack Dice of all light guns, rounding down).</description>
