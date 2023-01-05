@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<gameSystem id="d551-9646-dd17-819a" name="Victory at Sea" revision="2" battleScribeVersion="2.03" authorName="" authorContact="" authorUrl="" xmlns="http://www.battlescribe.net/schema/gameSystemSchema">
+<gameSystem id="d551-9646-dd17-819a" name="Victory at Sea" revision="3" battleScribeVersion="2.03" authorName="" authorContact="" authorUrl="" xmlns="http://www.battlescribe.net/schema/gameSystemSchema">
   <costTypes>
     <costType id="ffdf-62d1-dc97-b85c" name="Points" defaultCostLimit="-1.0" hidden="false"/>
   </costTypes>
@@ -77,7 +77,7 @@
         <categoryLink id="6fb2-5e78-1015-e1fb" name="Aircraft Carrier" hidden="false" targetId="da58-44be-bb7f-80d6" primary="false"/>
         <categoryLink id="acc5-2e6d-c450-85f0" name="Aircraft Flight" hidden="false" targetId="c08d-d9af-1109-9c27" primary="false">
           <constraints>
-            <constraint field="ffdf-62d1-dc97-b85c" scope="roster" value="25.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="8f20-c249-521b-9b81" type="max"/>
+            <constraint field="ffdf-62d1-dc97-b85c" scope="roster" value="25.0" percentValue="true" shared="true" includeChildSelections="false" includeChildForces="false" id="8f20-c249-521b-9b81" type="max"/>
           </constraints>
         </categoryLink>
         <categoryLink id="774d-c64d-cc60-8055" name="Battleship" hidden="false" targetId="5153-aef8-326b-3c5f" primary="false"/>

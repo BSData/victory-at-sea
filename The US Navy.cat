@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<catalogue id="764e-277a-ff05-fdc6" name="The US Navy" revision="3" battleScribeVersion="2.03" library="false" gameSystemId="d551-9646-dd17-819a" gameSystemRevision="2" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
+<catalogue id="764e-277a-ff05-fdc6" name="The US Navy" revision="4" battleScribeVersion="2.03" library="false" gameSystemId="d551-9646-dd17-819a" gameSystemRevision="2" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
   <entryLinks>
     <entryLink id="0dc1-d61d-4554-08ed" name="Portland-Class Cruiser" hidden="false" collective="false" import="true" targetId="b8aa-d7c0-c29e-3d4d" type="selectionEntry">
       <categoryLinks>
@@ -1633,7 +1633,7 @@
                     </rule>
                   </rules>
                   <costs>
-                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="10.0"/>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="60.0"/>
                     <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
                   </costs>
                 </selectionEntry>
@@ -1776,7 +1776,7 @@
                     </rule>
                   </rules>
                   <costs>
-                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="85.0"/>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="135.0"/>
                     <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
                   </costs>
                 </selectionEntry>
@@ -1898,8 +1898,13 @@
                     </rule>
                   </rules>
                   <costs>
-                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="110.0"/>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="165.0"/>
                     <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
+                  </costs>
+                </selectionEntry>
+                <selectionEntry id="b3c7-a1d0-8b99-49f7" name="New Mexico 1942" hidden="false" collective="false" import="true" type="upgrade">
+                  <costs>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="60.0"/>
                   </costs>
                 </selectionEntry>
               </selectionEntries>
@@ -2635,7 +2640,7 @@
                     </rule>
                   </rules>
                   <costs>
-                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="135.0"/>
+                    <cost name="Points" typeId="ffdf-62d1-dc97-b85c" value="75.0"/>
                     <cost name="EPoints" typeId="8ff1-0245-6897-5c02" value="0.0"/>
                   </costs>
                 </selectionEntry>
